@@ -1,0 +1,828 @@
+,Film,Year,Rated,Released,Runtime,Metascore,imdbRating,imdbVotes,imdbID,BoxOffice
+0,127 Hours,2010.0,R,28 Jan 2011,94 min,82,7.6,"339,139",tt1542344,"$18,329,466"
+0,15 Minutes,2001.0,R,09 Mar 2001,120 min,34,6.1,"47,723",tt0179626,"$24,160,216"
+0,1492: Conquest of Paradise,1992.0,PG-13,09 Oct 1992,154 min,47,6.5,"27,491",tt0103594,N/A
+0,2012,2009.0,PG-13,13 Nov 2009,158 min,49,5.8,"345,022",tt1190080,"$166,112,167"
+0,Lord of Illusions,1995.0,R,25 Aug 1995,109 min,N/A,6.1,"14,199",tt0113690,N/A
+0,Mimic,1997.0,R,22 Aug 1997,105 min,55,5.9,"44,905",tt0119675,N/A
+0,War Horse,2011.0,PG-13,25 Dec 2011,146 min,72,7.2,"143,515",tt1568911,"$79,883,359"
+0,Station West,1948.0,Approved,01 Sep 1948,97 min,N/A,6.6,882,tt0040835,N/A
+0,Suspect Zero,2004.0,R,27 Aug 2004,99 min,37,5.8,"18,572",tt0324127,"$8,570,393"
+0,Manhunter,1986.0,R,15 Aug 1986,120 min,75,7.2,"63,266",tt0091474,N/A
+0,Aliens,1986.0,R,18 Jul 1986,137 min,84,8.3,"634,359",tt0090605,N/A
+0,Swordfish,2001.0,R,08 Jun 2001,99 min,32,6.5,"173,365",tt0244244,N/A
+0,U Turn,1997.0,R,03 Oct 1997,125 min,54,6.8,"48,185",tt0120399,N/A
+0,Take Shelter,2011.0,R,10 Nov 2011,120 min,85,7.4,"88,699",tt1675192,"$1,600,000"
+0,Syriana,2005.0,R,09 Dec 2005,128 min,76,6.9,"123,836",tt0365737,"$50,800,000"
+0,Training Day,2001.0,R,05 Oct 2001,122 min,69,7.7,"378,654",tt0139654,N/A
+0,Two for the Money,2005.0,R,07 Oct 2005,122 min,50,6.3,"42,584",tt0417217,"$22,862,049"
+0,Wall Street: Money Never Sleeps,2010.0,PG-13,24 Sep 2010,133 min,59,6.2,"96,388",tt1027718,"$52,474,616"
+0,Warm Springs,2005.0,Not Rated,30 Apr 2005,121 min,N/A,7.5,"2,473",tt0423510,N/A
+0,American Wrestler: The Wizard,2016.0,PG-13,16 May 2017,117 min,N/A,7.2,"1,807",tt4303202,N/A
+0,You Can Count on Me,2000.0,R,22 Dec 2000,111 min,85,7.5,"27,273",tt0203230,"$8,409,329"
+0,Warrior,2011.0,PG-13,09 Sep 2011,140 min,71,8.2,"423,944",tt1291584,"$13,600,000"
+0,Under Fire,1983.0,R,21 Oct 1983,128 min,N/A,7.0,"6,556",tt0086510,N/A
+0,Trainspotting,1996.0,R,09 Aug 1996,93 min,83,8.1,"619,568",tt0117951,N/A
+0,Sling Blade,1996.0,R,14 Mar 1997,135 min,84,8.0,"85,323",tt0117666,N/A
+0,Taking Sides,2001.0,Not Rated,07 Mar 2002,108 min,61,7.2,"2,993",tt0260414,N/A
+0,Thirteen Days,2000.0,PG-13,12 Jan 2001,145 min,67,7.3,"52,749",tt0146309,N/A
+0,Straight Outta Compton,2015.0,R,14 Aug 2015,147 min,72,7.9,"175,063",tt1398426,"$129,402,415"
+0,Sugar,2008.0,R,24 Apr 2009,114 min,82,7.2,"4,503",tt0990413,"$1,037,595"
+0,Snow Falling on Cedars,1999.0,PG-13,07 Jan 2000,127 min,44,6.7,"13,473",tt0120834,N/A
+0,Rebel Without a Cause,1955.0,PG-13,24 Nov 1955,111 min,89,7.7,"81,022",tt0048545,N/A
+0,Raging Bull,1980.0,R,19 Dec 1980,129 min,89,8.2,"310,546",tt0081398,N/A
+0,Room,2015.0,R,22 Jan 2016,118 min,86,8.1,"351,480",tt3170832,"$14,677,654"
+0,Shame,2011.0,NC-17,13 Jan 2012,101 min,72,7.2,"178,488",tt1723811,"$2,971,782"
+0,Precious,2009.0,R,20 Nov 2009,110 min,78,7.3,"103,598",tt0929632,"$47,536,959"
+0,"Sex, Lies, and Videotape",1989.0,R,22 Sep 1989,100 min,86,7.2,"48,347",tt0098724,N/A
+0,Shampoo,1975.0,R,13 Mar 1975,109 min,65,6.3,"10,200",tt0073692,N/A
+0,RKO 281,1999.0,R,20 Nov 1999,86 min,N/A,7.0,"5,558",tt0120801,N/A
+0,Rush,2013.0,R,27 Sep 2013,123 min,74,8.1,"419,377",tt1979320,"$22,442,876"
+0,Rambling Rose,1991.0,R,20 Sep 1991,112 min,N/A,6.6,"4,482",tt0102753,N/A
+0,This Boy's Life,1993.0,R,23 Apr 1993,115 min,60,7.3,"45,100",tt0108330,N/A
+0,To Sleep with Anger,1990.0,PG,12 Oct 1990,102 min,N/A,7.3,"1,640",tt0100791,N/A
+0,Purple Rain,1984.0,R,27 Jul 1984,111 min,55,6.6,"18,889",tt0087957,N/A
+0,Prom Queen: The Marc Hall Story,2004.0,N/A,01 Jun 2004,92 min,N/A,6.6,856,tt0410953,N/A
+0,The Power of One: The Pokemon 2000 Movie Special,2000.0,N/A,16 Jul 2000,30 min,N/A,8.1,43,tt0382918,N/A
+0,Top Gun,1986.0,PG,16 May 1986,110 min,50,6.9,"283,087",tt0092099,N/A
+0,Pariah,2011.0,R,20 Jan 2011,86 min,79,7.2,"5,885",tt1233334,"$758,099"
+0,Petulia,1968.0,R,02 Sep 1968,105 min,N/A,7.1,"2,705",tt0063426,N/A
+0,Wonder Boys,2000.0,R,25 Feb 2000,107 min,73,7.3,"60,120",tt0185014,N/A
+0,The Withnail and I Drinking Game,2006.0,N/A,N/A,15 min,N/A,5.3,17,tt0870218,N/A
+0,Wag the Dog,1997.0,R,09 Jan 1998,97 min,73,7.2,"77,317",tt0120885,N/A
+0,Win Win,2011.0,R,15 Apr 2011,106 min,75,7.1,"52,319",tt1606392,"$10,100,000"
+0,What About Bob?,1991.0,PG,17 May 1991,99 min,60,7.0,"60,767",tt0103241,N/A
+0,Who's Your Daddy?,2002.0,R,20 Jan 2004,105 min,N/A,4.7,"4,295",tt0287138,N/A
+0,Ordinary People,1980.0,R,19 Sep 1980,124 min,86,7.7,"45,278",tt0081283,N/A
+0,Philadelphia,1993.0,PG-13,14 Jan 1994,125 min,66,7.7,"217,505",tt0107818,N/A
+0,Sunshine Cleaning,2008.0,R,17 Apr 2009,91 min,61,6.8,"68,621",tt0862846,"$12,033,702"
+0,Swingers,1996.0,R,11 Apr 1997,96 min,71,7.2,"73,586",tt0117802,N/A
+0,Tin Men,1987.0,R,13 Mar 1987,112 min,75,6.5,"7,527",tt0094155,N/A
+0,Sugar and Spice,1989–,N/A,06 Apr 1989,25 min,N/A,8.1,23,tt0363379,
+0,My Week with Marilyn,2011,R,23 Dec 2011,99 min,65,7.0,"82,007",tt1655420,"$12,600,000"
+0,Mud,2012,PG-13,10 May 2013,130 min,76,7.4,"163,320",tt1935179,"$21,589,307"
+0,Moneyball,2011,PG-13,23 Sep 2011,133 min,87,7.6,"349,587",tt1210166,"$75,605,492"
+0,This Is 40,2012,R,21 Dec 2012,134 min,59,6.2,"124,171",tt1758830,"$65,200,000"
+0,Music of the Heart,1999,PG,29 Oct 1999,124 min,54,6.8,"11,502",tt0166943,N/A
+0,Superbad,2007,R,17 Aug 2007,113 min,76,7.6,"508,694",tt0829482,"$121,463,226"
+0,"Synecdoche, New York",2008,R,05 Feb 2009,124 min,67,7.6,"78,444",tt0383028,"$3,000,000"
+0,One Flew Over the Cuckoo's Nest,1975,R,19 Nov 1975,133 min,83,8.7,"884,641",tt0073486,N/A
+0,Milk,2008,R,30 Jan 2009,128 min,84,7.5,"161,742",tt1013753,"$31,716,847"
+0,Smashed,2012,R,14 Dec 2012,81 min,71,6.8,"16,181",tt2063781,"$375,981"
+0,Sexual Life,2004,R,19 Jun 2004,96 min,N/A,5.0,900,tt0376874,N/A
+0,Saving Mr. Banks,2013,PG-13,20 Dec 2013,125 min,65,7.5,"147,963",tt2140373,"$53,260,198"
+0,Real Genius,1985,PG,07 Aug 1985,108 min,71,7.0,"29,339",tt0089886,N/A
+0,State and Main,2000,R,12 Jan 2001,105 min,75,6.7,"20,113",tt0120202,"$5,770,800"
+0,Little Men,2016,PG,04 May 2017,85 min,86,6.7,"6,675",tt4919484,"$702,191"
+0,Raising Arizona,1987,PG-13,17 Apr 1987,94 min,68,7.3,"123,452",tt0093822,N/A
+0,Semi-Pro,2008,R,29 Feb 2008,91 min,47,5.8,"77,000",tt0839980,"$33,370,443"
+0,Lincoln,2012,PG-13,16 Nov 2012,150 min,86,7.3,"239,062",tt0443272,"$129,477,447"
+0,Magnolia,1999,R,07 Jan 2000,188 min,77,8.0,"282,457",tt0175880,N/A
+0,Malcolm X,1992,PG-13,18 Nov 1992,202 min,72,7.7,"82,459",tt0104797,N/A
+0,Margaret,2011,R,01 Jun 2012,150 min,61,6.4,"15,594",tt0466893,"$46,495"
+0,Stepmom,1998,PG-13,25 Dec 1998,125 min,58,6.8,"58,507",tt0120686,N/A
+0,Light Sleeper,1992,R,13 Mar 1992,103 min,70,6.9,"5,232",tt0102307,N/A
+0,Kundun,1997,PG-13,16 Jan 1998,134 min,74,7.0,"25,507",tt0119485,N/A
+0,Papadopoulos & Sons,2012,Not Rated,05 Apr 2013,105 min,N/A,6.0,"2,228",tt2006810,N/A
+0,Peggy Sue Got Married,1986,PG-13,10 Oct 1986,103 min,74,6.3,"31,521",tt0091738,N/A
+0,Kramer vs. Kramer,1979,PG,19 Dec 1979,105 min,77,7.8,"128,018",tt0079417,N/A
+0,Storytelling,2001,R,08 Nov 2001,87 min,50,6.8,"16,848",tt0250081,"$850,758"
+0,Puppet Master: The Littlest Reich,2018,Not Rated,17 Aug 2018,90 min,52,5.4,"3,192",tt5685006,N/A
+0,Midnight Cowboy,1969,R,16 Jun 1969,113 min,79,7.8,"97,754",tt0064665,N/A
+0,Napoleon Dynamite,2004,PG,27 Aug 2004,96 min,64,6.9,"193,466",tt0374900,"$44,478,018"
+0,Mr. Blandings Builds His Dream House,1948,Approved,04 Jun 1948,94 min,N/A,7.3,"9,775",tt0040613,N/A
+0,Next Friday,2000,R,12 Jan 2000,98 min,41,6.2,"35,810",tt0195945,N/A
+0,Office Space,1999,R,19 Feb 1999,89 min,68,7.7,"236,377",tt0151804,N/A
+0,Mumford,1999,R,24 Sep 1999,112 min,62,6.8,"8,660",tt0140397,N/A
+0,Ice Storm: The Salé and Pelletier Affair,2006,N/A,07 Jan 2006,44 min,N/A,7.1,9,tt0758914,N/A
+0,Mr. Deeds Goes to Town,1936,Not Rated,12 Apr 1936,115 min,N/A,7.9,"19,113",tt0027996,N/A
+0,"Ni vu, ni connu",2011,N/A,07 Nov 2011,100 min,N/A,6.1,14,tt2070755,N/A
+0,Invictus,2009,PG-13,11 Dec 2009,134 min,74,7.3,"146,753",tt1057500,"$37,431,431"
+0,Margot at the Wedding,2007,R,14 Dec 2007,91 min,66,6.0,"19,133",tt0757361,"$1,929,081"
+0,Major League,1989,R,07 Apr 1989,107 min,62,7.2,"60,183",tt0097815,N/A
+0,Kafka,1991,PG-13,15 Nov 1991,98 min,46,6.9,"9,089",tt0102181,N/A
+0,I Am Sam,2001,PG-13,25 Jan 2002,132 min,28,7.7,"140,577",tt0277027,"$40,270,895"
+0,Meet John Doe,1941,Not Rated,03 May 1941,122 min,N/A,7.7,"11,442",tt0033891,N/A
+0,Hitchcock,2012,PG-13,14 Dec 2012,98 min,55,6.8,"70,613",tt0975645,"$6,002,708"
+0,Man on the Moon,1999,R,22 Dec 1999,118 min,58,7.4,"121,427",tt0125664,N/A
+0,Malibu's Most Wanted,2003,PG-13,18 Apr 2003,86 min,43,5.1,"18,248",tt0328099,"$34,308,901"
+0,Living in Oblivion,1995,R,21 Jul 1995,90 min,81,7.5,"15,918",tt0113677,N/A
+0,Kids,1995,Unrated,01 Sep 1995,91 min,63,7.1,"71,099",tt0113540,N/A
+0,God Help the Girl,2014,Unrated,05 Sep 2014,112 min,58,6.4,"8,369",tt2141751,N/A
+0,Hesher,2010,R,25 Jun 2011,106 min,45,7.0,"49,780",tt1403177,"$300,000"
+0,Legally Blonde,2001,PG-13,13 Jul 2001,96 min,59,6.3,"178,156",tt0250494,"$95,001,351"
+0,Life,2017,R,24 Mar 2017,104 min,54,6.6,"199,775",tt5442430,"$30,180,466"
+0,Life as a House,2001,R,09 Nov 2001,125 min,45,7.5,"42,248",tt0264796,"$15,412,701"
+0,Little Athens,2005,R,01 Jun 2005,103 min,N/A,5.6,902,tt0417907,N/A
+0,Gladiator,2000,R,05 May 2000,155 min,67,8.5,"1,295,815",tt0172495,N/A
+0,Get on Up,2014,PG-13,01 Aug 2014,139 min,71,6.9,"20,086",tt2473602,"$22,838,662"
+0,Gods and Monsters,1998,R,04 Nov 1998,105 min,74,7.4,"28,694",tt0120684,N/A
+0,Gandhi,1982,PG,25 Feb 1983,191 min,79,8.0,"214,287",tt0083987,N/A
+0,Henry Fool,1997,R,19 Jun 1998,137 min,68,7.2,"6,762",tt0122529,N/A
+0,The Black Forest Hospital: The Next Generation,2005,N/A,20 Feb 2005,100 min,N/A,4.9,71,tt0441789,N/A
+0,Human Nature,2001,R,12 Sep 2001,96 min,56,6.4,"17,093",tt0219822,"$651,165"
+0,G.I. Jane,1997,R,22 Aug 1997,125 min,62,5.9,"71,574",tt0119173,N/A
+0,Fruitvale Station,2013,R,26 Jul 2013,85 min,85,7.5,"72,709",tt2334649,"$11,010,136"
+0,Grand Theft Parsons,2003,PG-13,18 Jun 2004,88 min,46,6.0,"3,273",tt0338075,N/A
+0,Heathers,1989,R,31 Mar 1989,103 min,72,7.2,"83,648",tt0097493,N/A
+0,"Happy Birthday, Wanda June",1971,R,09 Dec 1971,105 min,N/A,6.1,248,tt0067180,N/A
+0,I'll Do Anything,1994,PG-13,04 Feb 1994,115 min,N/A,5.5,"2,389",tt0110097,N/A
+0,In the Loop,2009,Not Rated,04 Sep 2009,106 min,83,7.4,"53,087",tt1226774,"$2,251,324"
+0,Good Will Hunting,1997,R,09 Jan 1998,126 min,70,8.3,"829,889",tt0119217,N/A
+0,Game 6,2005,R,01 Jan 2005,87 min,56,5.8,"2,422",tt0425055,N/A
+0,Five Easy Pieces,1970,R,12 Sep 1970,98 min,85,7.5,"32,018",tt0065724,N/A
+0,Foxcatcher,2014,R,16 Jan 2015,134 min,81,7.0,"131,194",tt1100089,"$9,744,477"
+0,Frances,1982,R,11 Mar 1983,140 min,48,7.4,"6,605",tt0083967,N/A
+0,Funny People,2009,R,31 Jul 2009,146 min,60,6.3,"112,695",tt1201167,"$51,814,190"
+0,Ghost World,2001,R,21 Sep 2001,111 min,88,7.3,"110,999",tt0162346,"$4,694,484"
+0,Flight,2012,R,02 Nov 2012,138 min,76,7.3,"317,748",tt1907668,"$89,400,000"
+0,Ferris Bueller's Day Off,1986,PG-13,11 Jun 1986,103 min,61,7.8,"309,550",tt0091042,N/A
+0,Fletch,1985,PG,31 May 1985,98 min,68,6.9,"46,314",tt0089155,N/A
+0,Elizabeth: The Golden Age,2007,PG-13,12 Oct 2007,114 min,45,6.8,"64,844",tt0414055,"$16,264,475"
+0,The Doors: The Soft Parade,1991,N/A,N/A,50 min,N/A,7.9,247,tt0195660,N/A
+0,Street Fighter: The Legend of Chun-Li,2009,PG-13,27 Feb 2009,96 min,17,3.7,"22,615",tt0891592,"$8,646,753"
+0,Four Rooms,1995,R,25 Dec 1995,98 min,N/A,6.8,"95,749",tt0113101,N/A
+0,Forrest Gump,1994,PG-13,06 Jul 1994,142 min,82,8.8,"1,737,186",tt0109830,"$330,000,000"
+0,Drop Dead Gorgeous,1999,PG-13,23 Jul 1999,97 min,28,6.6,"31,682",tt0157503,N/A
+0,Fear and Loathing in Las Vegas,1998,R,22 May 1998,118 min,41,7.6,"252,866",tt0120669,N/A
+0,Ed Wood,1994,R,07 Oct 1994,127 min,70,7.8,"162,206",tt0109707,N/A
+0,Election,1999,R,07 May 1999,103 min,83,7.2,"87,166",tt0126886,N/A
+0,Fast Times at Ridgemont High,1982,R,13 Aug 1982,90 min,61,7.2,"89,930",tt0083929,N/A
+0,Erin Brockovich,2000,R,17 Mar 2000,131 min,73,7.3,"169,051",tt0195685,N/A
+0,Do the Right Thing,1989,R,21 Jul 1989,120 min,93,7.9,"83,609",tt0097216,N/A
+0,Custody,2017,N/A,07 Feb 2018,93 min,83,7.5,"7,590",tt6002232,N/A
+0,Death at a Funeral,2007,R,07 Sep 2007,90 min,67,7.4,"106,835",tt0795368,N/A
+0,Code of Silence,1985,R,03 May 1985,101 min,64,6.1,"6,624",tt0088936,N/A
+0,Dear White People,2014,R,04 Dec 2014,108 min,79,6.1,"23,926",tt2235108,N/A
+0,Creation,2009,PG-13,25 Sep 2009,108 min,51,6.7,"13,626",tt0974014,"$300,000"
+0,Dallas Buyers Club,2013,R,22 Nov 2013,117 min,80,8.0,"426,639",tt0790636,"$23,750,994"
+0,Dead Poets Society,1989,PG,09 Jun 1989,128 min,79,8.1,"407,143",tt0097165,N/A
+0,Diner,1982,R,21 May 1982,110 min,82,7.1,"18,111",tt0083833,N/A
+0,Days of Heaven,1978,PG,06 Oct 1978,94 min,93,7.8,"50,241",tt0077405,N/A
+0,Cobb,1994,R,02 Dec 1994,128 min,66,6.4,"6,890",tt0109450,N/A
+0,Bridesmaids,2011,R,13 May 2011,125 min,75,6.8,"261,565",tt1478338,"$166,500,000"
+0,Charlie's Angels,2000,PG-13,03 Nov 2000,98 min,52,5.5,"172,273",tt0160127,"$124,420,707"
+0,City of Joy,1992,PG-13,17 Apr 1992,132 min,N/A,6.5,"4,526",tt0103976,N/A
+0,Cedar Rapids,2011,R,18 Mar 2011,87 min,70,6.2,"35,674",tt1477837,"$6,800,000"
+0,Clerks,1994,R,09 Nov 1994,92 min,70,7.7,"208,478",tt0109445,N/A
+0,Tall in the Saddle,1944,Approved,29 Sep 1944,87 min,N/A,7.0,"2,719",tt0037343,N/A
+0,Bean,1997,PG-13,07 Nov 1997,89 min,52,6.5,"94,780",tt0118689,N/A
+0,Candle to Water,2012,N/A,01 Nov 2012,110 min,N/A,4.6,17,tt2387411,N/A
+0,Bringing Out the Dead,1999,R,22 Oct 1999,121 min,70,6.8,"62,055",tt0163988,N/A
+0,Boogie Nights,1997,R,31 Oct 1997,155 min,85,7.9,"231,876",tt0118749,N/A
+0,The Bonfire of the Vanities,1990,R,21 Dec 1990,125 min,27,5.6,"21,098",tt0099165,N/A
+0,Break,2019,N/A,14 Feb 2019,85 min,N/A,4.4,"1,078",tt9805504,N/A
+0,Breaking Away,1979,PG,20 Jul 1979,101 min,91,7.7,"21,018",tt0078902,N/A
+0,Authors Anonymous,2014,PG-13,18 Mar 2014,92 min,16,4.3,"1,974",tt2114461,N/A
+0,Boyhood,2014,R,15 Aug 2014,165 min,100,7.9,"328,711",tt1065073,"$18,859,617"
+0,Bachelor Party,1984,R,29 Jun 1984,105 min,56,6.3,"34,617",tt0086927,N/A
+0,Austin Powers: The Spy Who Shagged Me,1999,PG-13,11 Jun 1999,95 min,59,6.6,"212,319",tt0145660,N/A
+0,Black Snake Moan,2006,R,02 Mar 2007,116 min,52,6.9,"59,991",tt0462200,"$9,262,318"
+0,Bad Teacher,2011,R,24 Jun 2011,92 min,47,5.6,"188,694",tt1284575,"$100,292,856"
+0,Bad Boys,1995,R,07 Apr 1995,119 min,41,6.9,"233,204",tt0112442,N/A
+0,All About Steve,2009,PG-13,04 Sep 2009,99 min,17,4.8,"39,062",tt0881891,"$33,806,061"
+0,Austin Powers: International Man of Mystery,1997,PG-13,02 May 1997,89 min,51,7.0,"216,258",tt0118655,N/A
+0,After School Special,2017,TV-MA,27 Jun 2017,78 min,N/A,2.3,214,tt3291632,N/A
+0,American Milkshake,2013,R,20 Jan 2013,83 min,30,4.8,309,tt2254364,N/A
+0,Arthur,2011,PG-13,08 Apr 2011,110 min,36,5.7,"50,207",tt1334512,"$29,200,000"
+0,American Pie,1999,R,09 Jul 1999,95 min,58,7.0,"367,618",tt0163651,N/A
+0,Tombstone,1993,R,25 Dec 1993,130 min,50,7.8,"122,147",tt0108358,N/A
+0,12,2007,PG-13,20 Sep 2007,159 min,72,7.7,"13,680",tt0488478,N/A
+0,True Grit,2010,PG-13,22 Dec 2010,110 min,80,7.6,"301,962",tt1403865,"$171,031,347"
+0,A Serious Man,2009,R,06 Nov 2009,106 min,83,7.0,"129,672",tt1019452,"$9,190,525"
+0,Ace Ventura: Pet Detective,1994,PG-13,04 Feb 1994,86 min,37,6.9,"270,197",tt0109040,N/A
+0,Bamboozled,2000,R,20 Oct 2000,135 min,50,6.5,"9,814",tt0215545,"$1,883,628"
+0,Being There,1979,PG,08 Feb 1980,130 min,83,8.0,"63,525",tt0078841,N/A
+0,Basquiat,1996,R,09 Aug 1996,107 min,65,6.9,"18,958",tt0115632,N/A
+0,Awakenings,1990,PG-13,11 Jan 1991,121 min,74,7.8,"119,327",tt0099077,N/A
+0,Anna Karenina,2012,R,07 Sep 2012,129 min,63,6.6,"89,166",tt1781769,"$12,802,907"
+0,American Splendor,2003,R,12 Sep 2003,101 min,90,7.4,"46,666",tt0305206,"$5,977,550"
+0,An Education,2009,PG-13,05 Feb 2010,100 min,85,7.3,"126,214",tt1174732,"$12,512,069"
+0,August: Osage County,2013,R,10 Jan 2014,121 min,58,7.2,"82,453",tt1322269,"$29,202,643"
+0,American Sniper,2014,R,16 Jan 2015,133 min,72,7.3,"426,179",tt2179136,"$274,377,268"
+0,American Madness,1932,Passed,15 Aug 1932,75 min,N/A,7.4,"1,739",tt0022626,N/A
+0,American Graffiti,1973,PG,11 Aug 1973,110 min,97,7.4,"79,136",tt0069704,N/A
+0,At First Sight,1999,PG-13,15 Jan 1999,128 min,40,6.0,"12,687",tt0132512,N/A
+0,Beloved,1998,R,16 Oct 1998,172 min,57,6.0,"6,937",tt0120603,N/A
+0,American Beauty,1999,R,01 Oct 1999,122 min,84,8.3,"1,041,670",tt0169547,N/A
+0,Amelia,2009,PG,23 Oct 2009,111 min,37,5.8,"11,770",tt1129445,"$14,195,118"
+0,Wild Wild West,1999,PG-13,30 Jun 1999,106 min,38,4.9,"150,148",tt0120891,N/A
+0,All About Eve,1950,Passed,27 Oct 1950,138 min,98,8.2,"116,403",tt0042192,N/A
+0,All the King's Men,2006,PG-13,22 Sep 2006,128 min,37,6.2,"23,302",tt0405676,N/A
+0,12 Years a Slave,2013,R,08 Nov 2013,134 min,96,8.1,"617,390",tt2024544,"$50,628,650"
+0,Ali,2001,R,25 Dec 2001,157 min,65,6.8,"91,630",tt0248667,"$58,183,966"
+0,50-50,2011,N/A,N/A,15 min,N/A,6.1,34,tt1833204,N/A
+0,Amadeus,1984,R,19 Sep 1984,160 min,88,8.3,"357,893",tt0086879,N/A
+0,42,2013,PG-13,12 Apr 2013,128 min,62,7.5,"81,222",tt0453562,"$95,001,343"
+0,Walking Tall,2004,PG-13,02 Apr 2004,86 min,44,6.3,"69,155",tt0351977,"$45,860,039"
+0,Affliction,1997,R,19 Feb 1999,114 min,79,7.0,"14,661",tt0118564,N/A
+0,12 and Holding,2005,R,07 Jul 2006,94 min,65,7.5,"6,623",tt0417385,N/A
+0,Very Bad Things,1998,R,25 Nov 1998,100 min,31,6.4,"44,249",tt0124198,N/A
+0,Zero Dark Thirty,2012,R,11 Jan 2013,157 min,95,7.4,"264,319",tt1790885,"$95,720,716"
+0,Wild Things,1998,R,20 Mar 1998,108 min,52,6.5,"105,203",tt0120890,N/A
+0,Wall Street,1987,R,11 Dec 1987,126 min,56,7.4,"139,830",tt0094291,N/A
+0,We Own the Night,2007,R,12 Oct 2007,117 min,59,6.8,"83,351",tt0498399,"$27,600,000"
+0,Wanted,2008,R,27 Jun 2008,110 min,64,6.7,"353,077",tt0493464,"$134,294,280"
+0,While She Was Out,2008,R,26 Mar 2009,86 min,40,4.8,"6,285",tt0887971,N/A
+0,Ticker,2001,R,23 Jun 2001,92 min,N/A,3.6,"6,489",tt0196158,N/A
+0,Traffic,2000,R,05 Jan 2001,147 min,86,7.6,"192,068",tt0181865,"$123,836,420"
+0,Phone Booth,2002,R,04 Apr 2003,81 min,56,7.0,"246,069",tt0183649,"$46,524,362"
+0,Shifty,2008,Unrated,24 Apr 2009,85 min,N/A,6.5,"2,826",tt1104126,N/A
+0,Single White Female,1992,R,14 Aug 1992,107 min,63,6.4,"31,211",tt0105414,N/A
+0,Spare Me,1994,N/A,03 Sep 1994,N/A,N/A,6.7,27,tt0108200,N/A
+0,Taxi Driver,1976,R,09 Feb 1976,114 min,94,8.3,"695,384",tt0075314,N/A
+0,Year One,2009,PG-13,19 Jun 2009,97 min,34,4.9,"90,154",tt1045778,"$43,337,279"
+0,White Squall,1996,PG-13,02 Feb 1996,129 min,53,6.6,"20,658",tt0118158,N/A
+0,The Long Way Back: The Story of Todd Z-Man Zalkins,2017,Not Rated,N/A,90 min,N/A,8.0,23,tt6573720,N/A
+0,xXx,2002,PG-13,09 Aug 2002,124 min,48,5.9,"171,012",tt0295701,"$141,134,092"
+0,Tomorrow Never Dies,1997,PG-13,19 Dec 1997,119 min,52,6.5,"176,993",tt0120347,N/A
+0,The World Is Not Enough: The Hong Kong Press Conference,2006,N/A,17 Jul 2006,10 min,N/A,5.6,9,tt0828400,N/A
+0,War for the Planet of the Apes,2017,PG-13,14 Jul 2017,140 min,82,7.4,"220,013",tt3450958,"$146,872,826"
+0,Thunderbirds,2004,PG,30 Jul 2004,95 min,36,4.2,"12,891",tt0167456,"$6,768,055"
+0,Thelma & Louise,1991,R,24 May 1991,130 min,88,7.5,"131,689",tt0103074,N/A
+0,Someone to Watch Over Me,1987,R,09 Oct 1987,106 min,55,6.1,"9,057",tt0094008,N/A
+0,Thor: Ragnarok,2017,PG-13,03 Nov 2017,130 min,74,7.9,"555,646",tt3501632,"$314,971,245"
+0,Wild Hogs,2007,PG-13,02 Mar 2007,100 min,27,5.8,"112,516",tt0486946,"$168,213,584"
+0,Sting: The Brand New Day Tour - Live from the Universal Amphitheatre,2000,N/A,N/A,88 min,N/A,7.6,113,tt0271804,N/A
+0,Snatch,2000,R,19 Jan 2001,102 min,55,8.3,"760,412",tt0208092,"$30,093,107"
+0,Spartan,2004,R,12 Mar 2004,106 min,60,6.5,"28,734",tt0360009,"$4,291,858"
+0,Shallow Grave,1994,R,10 Feb 1995,89 min,67,7.3,"55,486",tt0111149,N/A
+0,Sicario,2015,R,02 Oct 2015,121 min,82,7.6,"356,809",tt3397884,N/A
+0,Rush Hour,1998,PG-13,18 Sep 1998,98 min,60,7.0,"232,877",tt0120812,N/A
+0,Reservoir Dogs,1992,R,02 Sep 1992,99 min,79,8.3,"888,475",tt0105236,N/A
+0,Rush Hour 2,2001,PG-13,03 Aug 2001,90 min,48,6.6,"194,706",tt0266915,N/A
+0,Ronin,1998,R,25 Sep 1998,122 min,67,7.3,"168,282",tt0122690,N/A
+0,RocknRolla,2008,R,31 Oct 2008,114 min,53,7.3,"229,434",tt1032755,"$5,665,302"
+0,Reindeer Games,2000,R,25 Feb 2000,104 min,37,5.8,"36,767",tt0184858,N/A
+0,Smokin' Aces,2006,R,26 Jan 2007,108 min,45,6.7,"135,631",tt0475394,"$35,600,000"
+0,Scarface,1983,R,09 Dec 1983,170 min,65,8.3,"711,819",tt0086250,"$656,161"
+0,Pineapple Express,2008,R,06 Aug 2008,111 min,64,6.9,"308,770",tt0910936,N/A
+0,Panic Room,2002,R,29 Mar 2002,112 min,65,6.8,"250,791",tt0258000,"$95,308,367"
+0,Observe and Report,2009,R,10 Apr 2009,86 min,54,5.8,"59,971",tt1197628,"$23,993,605"
+0,Mini's First Time,2006,R,09 Aug 2007,91 min,45,5.8,"7,915",tt0425253,"$21,828"
+0,Only God Forgives,2013,R,22 May 2013,90 min,37,5.7,"105,083",tt1602613,"$700,000"
+0,Ocean's Eleven,2001,PG-13,07 Dec 2001,116 min,74,7.7,"500,741",tt0240772,"$183,349,128"
+0,Public Enemies,2009,R,01 Jul 2009,140 min,70,7.0,"275,023",tt1152836,"$97,000,000"
+0,Ocean's Twelve,2004,PG-13,10 Dec 2004,125 min,58,6.5,"349,441",tt0349903,"$125,402,117"
+0,Obsessed,2009,PG-13,24 Apr 2009,108 min,25,5.0,"28,685",tt1198138,"$68,261,644"
+0,Nurse Betty,2000,R,08 Sep 2000,110 min,69,6.1,"32,505",tt0171580,N/A
+0,Pulp Fiction,1994,R,14 Oct 1994,154 min,94,8.9,"1,764,981",tt0110912,N/A
+0,Ninja Assassin,2009,R,25 Nov 2009,99 min,34,6.3,"66,929",tt1186367,"$38,105,077"
+0,Nick of Time,1995,R,22 Nov 1995,90 min,N/A,6.3,"37,916",tt0113972,N/A
+0,No Country for Old Men,2007,R,21 Nov 2007,122 min,91,8.1,"823,136",tt0477348,"$74,223,625"
+0,Martha Marcy May Marlene,2011,R,21 Dec 2011,102 min,75,6.9,"47,560",tt1441326,"$2,981,038"
+0,Margin Call,2011,R,29 Sep 2011,107 min,76,7.1,"112,802",tt1615147,"$600,000"
+0,Machete,2010,R,03 Sep 2010,105 min,60,6.6,"187,641",tt0985694,"$26,200,000"
+0,Snow White and the Huntsman,2012,PG-13,01 Jun 2012,127 min,57,6.1,"267,818",tt1735898,"$155,081,785"
+0,Metro,1997,R,17 Jan 1997,117 min,N/A,5.5,"25,096",tt0119664,N/A
+0,Midnight Express,1978,R,06 Oct 1978,121 min,59,7.6,"71,083",tt0077928,N/A
+0,Point Break,1991,R,12 Jul 1991,122 min,58,7.3,"150,813",tt0102685,N/A
+0,Miller's Crossing,1990,R,05 Oct 1990,115 min,66,7.7,"123,096",tt0100150,N/A
+0,Revelation Road: The Beginning of the End,2013,Not Rated,01 Mar 2013,88 min,N/A,4.9,"1,706",tt2412746,N/A
+0,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,09 Jul 2003,143 min,63,8.0,"997,584",tt0325980,"$305,343,252"
+0,Robin Hood: Prince of Thieves,1991,PG-13,14 Jun 1991,143 min,51,6.9,"173,748",tt0102798,N/A
+0,Master and Commander: The Far Side of the World,2003,PG-13,14 Nov 2003,138 min,81,7.4,"196,696",tt0311113,"$92,100,000"
+0,Mission: Impossible,1996,PG-13,22 May 1996,110 min,59,7.1,"377,541",tt0117060,N/A
+0,The Man in the Iron Mask,1998,PG-13,13 Mar 1998,132 min,48,6.5,"153,059",tt0120744,N/A
+0,"O Brother, Where Art Thou?",2000,PG-13,02 Feb 2001,107 min,69,7.7,"276,491",tt0190590,"$45,150,731"
+0,Sideways,2004,R,21 Jan 2005,127 min,94,7.5,"175,791",tt0375063,"$71,444,367"
+0,Machine Gun Preacher,2011,R,02 Nov 2011,129 min,43,6.8,"61,962",tt1586752,"$400,000"
+0,Made,2001,R,31 Aug 2001,95 min,62,6.4,"16,911",tt0227005,"$3,673,981"
+0,Max Payne,2008,PG-13,17 Oct 2008,100 min,31,5.4,"120,508",tt0467197,"$40,632,110"
+0,Miami Vice,2006,R,28 Jul 2006,132 min,65,6.0,"107,576",tt0430357,"$63,400,000"
+0,Man on Fire,2004,R,23 Apr 2004,146 min,47,7.7,"321,537",tt0328107,"$77,600,000"
+0,Mean Streets,1973,R,14 Oct 1973,112 min,96,7.3,"95,563",tt0070379,N/A
+0,"Lock, Stock and Two Smoking Barrels",1998,R,28 Aug 1998,107 min,66,8.2,"520,258",tt0120735,N/A
+0,Jackie Brown,1997,R,25 Dec 1997,154 min,64,7.5,"306,026",tt0119396,N/A
+0,Law Abiding Citizen,2009,R,16 Oct 2009,109 min,34,7.4,"264,575",tt1197624,"$73,343,413"
+0,Lord of War,2005,R,16 Sep 2005,122 min,62,7.6,"288,049",tt0399295,"$24,033,036"
+0,The 10th Kingdom: The Making of an Epic,2000,N/A,N/A,30 min,N/A,7.9,253,tt0231059,N/A
+0,Killing Zoe,1993,R,01 Sep 1994,96 min,N/A,6.5,"19,391",tt0110265,N/A
+0,John Wick,2014,R,24 Oct 2014,101 min,68,7.4,"514,375",tt2911666,N/A
+0,Joker,2019,R,04 Oct 2019,122 min,59,8.5,"809,274",tt7286456,N/A
+0,Into the Woods,2014,PG,25 Dec 2014,125 min,69,5.9,"128,879",tt2180411,"$89,789,227"
+0,Kalifornia,1993,R,03 Sep 1993,117 min,49,6.7,"49,891",tt0107302,N/A
+0,Jay and Silent Bob Strike Back,2001,R,24 Aug 2001,104 min,51,6.8,"146,326",tt0261392,"$29,885,424"
+0,Hudson Hawk,1991,R,24 May 1991,100 min,17,5.8,"50,686",tt0102070,N/A
+0,Life of Pi,2012,PG,21 Nov 2012,127 min,79,7.9,"566,900",tt0454876,"$103,500,000"
+0,Into the Wild,2007,R,19 Oct 2007,148 min,73,8.1,"556,447",tt0758758,"$18,173,360"
+0,Jacob's Ladder,1990,R,02 Nov 1990,113 min,62,7.5,"95,662",tt0099871,N/A
+0,Indiana Jones and the Last Crusade,1989,PG-13,24 May 1989,127 min,65,8.2,"671,347",tt0097576,N/A
+0,Indiana Jones and the Temple of Doom,1984,PG,23 May 1984,118 min,57,7.6,"434,438",tt0087469,N/A
+0,In the Bedroom,2001,R,08 Feb 2002,131 min,86,7.4,"36,572",tt0247425,"$35,733,119"
+0,Guardians of the Galaxy Vol. 2,2017,PG-13,05 May 2017,136 min,67,7.6,"542,063",tt3896198,"$389,804,217"
+0,Henry's Crime,2010,R,14 Jan 2011,108 min,49,6.0,"18,377",tt1220888,"$100,000"
+0,Gran Torino,2008,R,09 Jan 2009,116 min,72,8.1,"702,888",tt1205489,"$148,055,047"
+0,Horrible Bosses,2011,R,08 Jul 2011,98 min,57,6.9,"413,492",tt1499658,"$116,900,000"
+0,John Q,2002,PG-13,15 Feb 2002,116 min,30,7.1,"120,302",tt0251160,"$71,026,631"
+0,Gone in 60 Seconds,2000,PG-13,09 Jun 2000,118 min,35,6.5,"255,572",tt0187078,"$100,978,700"
+0,Frozen River,2008,R,05 Sep 2008,97 min,82,7.1,"24,235",tt0978759,"$2,061,019"
+0,Death to Smoochy,2002,R,29 Mar 2002,109 min,38,6.4,"38,056",tt0266452,"$8,308,230"
+0,Get Shorty,1995,R,20 Oct 1995,105 min,82,6.9,"74,125",tt0113161,N/A
+0,The Godfather: Part II,1974,R,18 Dec 1974,202 min,90,9.0,"1,087,543",tt0071562,N/A
+0,Auction Insider: The John Zimmer Collection,2014,N/A,06 Dec 2014,N/A,N/A,9.0,9,tt4234664,N/A
+0,Drive,2011,R,16 Sep 2011,100 min,78,7.8,"552,974",tt0780504,"$34,300,000"
+0,Gangs of New York,2002,R,20 Dec 2002,167 min,72,7.5,"393,904",tt0217505,"$77,605,296"
+0,Insomnia,2002,R,24 May 2002,118 min,78,7.2,"265,985",tt0278504,"$67,300,000"
+0,Go,1999,R,09 Apr 1999,102 min,72,7.2,"65,835",tt0139239,N/A
+0,Gang Related,1997,R,08 Oct 1997,111 min,N/A,6.5,"7,732",tt0118900,N/A
+0,Hostage,2005,R,11 Mar 2005,113 min,44,6.6,"105,076",tt0340163,"$34,617,915"
+0,Heist,2001,R,09 Nov 2001,109 min,66,6.5,"32,600",tt0252503,"$23,287,872"
+0,Heat,1995,R,15 Dec 1995,170 min,76,8.2,"557,580",tt0113277,N/A
+0,Get Carter,2000,R,06 Oct 2000,102 min,24,5.2,"31,985",tt0208988,"$14,551,088"
+0,Godfather,1991,Not Rated,15 Nov 1991,150 min,N/A,8.6,"2,644",tt0353496,N/A
+0,Hard Rain,1998,R,16 Jan 1998,97 min,36,5.9,"31,475",tt0120696,N/A
+0,Hackers,1995,PG-13,15 Sep 1995,105 min,46,6.3,"64,073",tt0113243,N/A
+0,Dumb and Dumber,1994,PG-13,16 Dec 1994,107 min,41,7.3,"345,069",tt0109686,N/A
+0,Zootopia,2016,PG,04 Mar 2016,108 min,78,8.0,"416,353",tt2948356,"$341,264,012"
+0,Cast Away,2000,PG-13,22 Dec 2000,143 min,73,7.8,"506,438",tt0162222,N/A
+0,Croupier,1998,Not Rated,28 Jul 2000,94 min,75,7.1,"17,887",tt0159382,N/A
+0,Deadpool,2016,R,12 Feb 2016,108 min,65,8.0,"874,155",tt1431045,"$328,674,489"
+0,Capote,2005,R,03 Feb 2006,114 min,88,7.3,"122,713",tt0379725,"$28,337,516"
+0,Crime Spree,2003,R,16 Apr 2003,105 min,N/A,6.5,"5,197",tt0310924,N/A
+0,Colombiana,2011,PG-13,26 Aug 2011,108 min,45,6.4,"91,834",tt1657507,"$36,665,854"
+0,Catch Me If You Can,2002,PG-13,25 Dec 2002,141 min,75,8.1,"790,873",tt0264464,"$164,400,000"
+0,Catwoman,2004,PG-13,23 Jul 2004,104 min,27,3.4,"108,332",tt0327554,"$40,200,000"
+0,Confessions of a Dangerous Mind,2002,R,24 Jan 2003,113 min,67,7.0,"81,717",tt0270288,N/A
+0,Black Rain,1989,R,22 Sep 1989,125 min,56,6.7,"47,914",tt0096933,N/A
+0,Casino,1995,R,22 Nov 1995,178 min,73,8.2,"448,054",tt0112641,N/A
+0,Confidence,2003,R,25 Apr 2003,97 min,59,6.7,"32,866",tt0310910,"$12,148,629"
+0,BlacKkKlansman,2018,R,10 Aug 2018,135 min,83,7.5,"198,998",tt7349662,N/A
+0,Bottle Rocket,1996,R,21 Feb 1996,91 min,66,7.0,"68,099",tt0115734,N/A
+0,Burn After Reading,2008,R,12 Sep 2008,96 min,63,7.0,"301,770",tt0887883,"$60,338,891"
+0,Blow,2001,R,06 Apr 2001,124 min,52,7.6,"235,080",tt0221027,N/A
+0,Big Eyes,2014,PG-13,25 Dec 2014,106 min,62,7.0,"82,916",tt1126590,"$8,021,168"
+0,Bad Santa,2003,R,26 Nov 2003,92 min,70,7.0,"131,454",tt0307987,N/A
+0,Frequency,2000,PG-13,28 Apr 2000,118 min,67,7.3,"98,713",tt0186151,N/A
+0,Frozen,2013,PG,27 Nov 2013,102 min,75,7.4,"556,379",tt2294629,"$400,736,600"
+0,Fracture,2007,R,20 Apr 2007,113 min,68,7.2,"181,277",tt0488120,"$39,000,000"
+0,Fargo,1996,R,05 Apr 1996,98 min,85,8.1,"595,812",tt0116282,N/A
+0,Fight Club,1999,R,15 Oct 1999,139 min,66,8.8,"1,790,247",tt0137523,N/A
+0,Face Off,2011–,TV-PG,26 Jan 2011,44 min,N/A,8.2,"5,969",tt1663641,
+0,Entrapment,1999,PG-13,30 Apr 1999,113 min,54,6.3,"104,322",tt0137494,N/A
+0,Fatal Instinct,1993,PG-13,29 Oct 1993,91 min,N/A,5.8,"6,623",tt0106873,N/A
+0,Dog Day Afternoon,1975,R,25 Dec 1975,125 min,86,8.0,"229,397",tt0072890,N/A
+0,Enough,2002,PG-13,24 May 2002,115 min,25,5.8,"38,277",tt0278435,"$39,177,215"
+0,Fair Game,2010,PG-13,03 Dec 2010,108 min,69,6.8,"45,694",tt0977855,"$9,528,092"
+0,Disturbia,2007,PG-13,13 Apr 2007,105 min,62,6.8,"215,909",tt0486822,"$80,050,171"
+0,Die Hard 2,1990,R,03 Jul 1990,124 min,67,7.2,"327,312",tt0099423,N/A
+0,Die Hard,1988,R,20 Jul 1988,132 min,72,8.2,"763,300",tt0095016,N/A
+0,Deep Cover,1992,R,15 Apr 1992,107 min,N/A,6.9,"8,392",tt0104073,N/A
+0,Enemy of the State,1998,R,20 Nov 1998,132 min,67,7.3,"222,054",tt0120660,N/A
+0,Donnie Brasco,1997,R,28 Feb 1997,127 min,76,7.7,"268,559",tt0119008,N/A
+0,Wonder Woman,2017,PG-13,02 Jun 2017,141 min,76,7.4,"531,221",tt0451279,"$412,400,625"
+0,The Departed: The Inspiration,2007,N/A,N/A,13 min,N/A,8.5,24,tt6789740,N/A
+0,Unbreakable,2000,PG-13,22 Nov 2000,106 min,62,7.3,"377,826",tt0217869,"$95,000,000"
+0,Willow,1988,PG,20 May 1988,126 min,47,7.3,"98,271",tt0096446,N/A
+0,Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,07 Jul 2006,151 min,53,7.3,"640,351",tt0383574,"$423,032,628"
+0,Ted,2012,R,29 Jun 2012,106 min,62,6.9,"559,475",tt1637725,"$218,100,000"
+0,Pleasantville,1998,PG-13,23 Oct 1998,124 min,71,7.5,"119,048",tt0120789,N/A
+0,Scott Pilgrim vs. the World,2010,PG-13,13 Aug 2010,112 min,69,7.5,"364,263",tt0446029,"$31,494,270"
+0,Thor,2011,PG-13,06 May 2011,115 min,57,7.0,"725,928",tt0800369,"$181,015,141"
+0,Star Wars: The Force Awakens World Premiere Red Carpet,2015,N/A,14 Dec 2015,108 min,N/A,7.8,5,tt7768640,N/A
+0,Apollo 13,1995,PG,30 Jun 1995,140 min,77,7.6,"259,692",tt0112384,N/A
+0,National Geographic: Beyond the Movie - The Lord of the Rings: Return of the King,2003,Not Rated,12 Dec 2003,52 min,N/A,6.5,290,tt0405185,N/A
+0,Who Framed Roger Rabbit,1988,PG,22 Jun 1988,104 min,83,7.7,"177,122",tt0096438,N/A
+0,30 Minutes or Less,2011,R,12 Aug 2011,83 min,49,6.1,"91,732",tt1622547,"$37,100,000"
+0,Ultimate Avengers: The Movie,2006,PG-13,21 Feb 2006,72 min,N/A,6.7,"11,771",tt0491703,N/A
+0,Three Men and a Baby,1987,PG,25 Nov 1987,102 min,61,6.0,"46,024",tt0094137,N/A
+0,You've Got Mail,1998,PG,18 Dec 1998,119 min,57,6.6,"188,515",tt0128853,N/A
+0,Youth in Revolt,2009,R,08 Jan 2010,90 min,63,6.4,"71,723",tt0403702,"$15,150,933"
+0,Speed Racer,2008,PG,09 May 2008,135 min,37,6.0,"67,391",tt0811080,"$43,929,341"
+0,Zerophilia,2005,N/A,13 Oct 2006,90 min,41,6.2,"2,176",tt0421090,N/A
+0,The Lord of the Rings: The Two Towers,2002,PG-13,18 Dec 2002,179 min,87,8.7,"1,438,266",tt0167261,"$339,700,000"
+0,Mystery Men,1999,PG-13,06 Aug 1999,121 min,65,6.1,"60,815",tt0132347,N/A
+0,Yes Man,2008,PG-13,19 Dec 2008,104 min,46,6.8,"327,362",tt1068680,"$97,600,000"
+0,Wild at Heart,1990,R,17 Aug 1990,125 min,52,7.2,"80,227",tt0100935,N/A
+0,Witness,1985,R,08 Feb 1985,112 min,76,7.4,"83,584",tt0090329,N/A
+0,Water for Elephants,2011,PG-13,22 Apr 2011,120 min,52,6.9,"109,237",tt1067583,"$58,700,247"
+0,True Romance,1993,R,10 Sep 1993,119 min,59,7.9,"199,873",tt0108399,N/A
+0,Up in the Air,2009,R,23 Dec 2009,109 min,83,7.4,"312,450",tt1193138,"$83,775,048"
+0,Tristan and Isolde,1981,N/A,15 Jan 1982,84 min,N/A,6.6,71,tt0089146,N/A
+0,True Lies,1994,R,15 Jul 1994,141 min,63,7.2,"231,028",tt0111503,N/A
+0,Twilight,2008,PG-13,21 Nov 2008,122 min,56,5.2,"412,755",tt1099212,"$191,449,475"
+0,A Walk to Remember: A Day on the Set with Mandy Moore,2002,N/A,N/A,5 min,N/A,6.9,14,tt3921080,N/A
+0,Tamara Drewe,2010,R,10 Sep 2010,107 min,64,6.2,"20,168",tt1486190,"$560,101"
+0,There's Something About Mary,1998,R,15 Jul 1998,119 min,69,7.1,"284,946",tt0129387,N/A
+0,St. Elmo's Fire,1985,R,28 Jun 1985,110 min,35,6.4,"34,515",tt0090060,N/A
+0,Spanglish,2004,PG-13,17 Dec 2004,131 min,48,6.4,"76,974",tt0371246,"$42,044,321"
+0,Titanic,1997,PG-13,19 Dec 1997,194 min,75,7.8,"1,015,018",tt0120338,N/A
+0,Something's Gotta Give,2003,PG-13,12 Dec 2003,128 min,66,6.7,"109,002",tt0337741,"$121,400,000"
+0,Tin Cup,1996,R,16 Aug 1996,135 min,60,6.4,"45,017",tt0117918,N/A
+0,Sleepless in Seattle,1993,PG,25 Jun 1993,105 min,72,6.8,"153,813",tt0108160,N/A
+0,So I Married an Axe Murderer,1993,PG-13,30 Jul 1993,93 min,N/A,6.4,"32,534",tt0108174,N/A
+0,Slumdog Millionaire,2008,R,25 Dec 2008,120 min,84,8.0,"781,199",tt1010048,"$141,243,551"
+0,Silver Linings Playbook,2012,R,25 Dec 2012,122 min,81,7.7,"647,342",tt1045658,"$132,088,910"
+0,Shakespeare in Love,1998,R,08 Jan 1999,123 min,87,7.1,"209,610",tt0138097,N/A
+0,The Saint: The Brazilian Connection,1989,N/A,N/A,92 min,N/A,6.7,26,tt0235734,N/A
+0,Sex and the City,2008,R,30 May 2008,145 min,53,5.6,"113,892",tt1000774,"$152,595,674"
+0,She's Out of My League,2010,R,12 Mar 2010,104 min,46,6.4,"123,849",tt0815236,"$28,712,974"
+0,Sense and Sensibility,1995,PG,26 Jan 1996,136 min,84,7.6,"98,350",tt0114388,N/A
+0,Save the Last Dance,2001,PG-13,12 Jan 2001,112 min,53,6.2,"55,963",tt0206275,N/A
+0,X-Men,2000,PG-13,14 Jul 2000,104 min,64,7.4,"559,246",tt0120903,"$156,164,829"
+0,War of the Worlds,2005,PG-13,29 Jun 2005,116 min,73,6.5,"405,645",tt0407304,"$234,141,872"
+0,TRON: Legacy,2010,PG,17 Dec 2010,125 min,49,6.8,"307,359",tt1104001,"$172,051,787"
+0,Twins,1988,PG,09 Dec 1988,107 min,53,6.1,"109,641",tt0096320,N/A
+0,V for Vendetta,2005,R,17 Mar 2006,132 min,62,8.2,"1,002,654",tt0434409,"$70,500,000"
+0,Virtuosity,1995,R,04 Aug 1995,106 min,39,5.6,"27,248",tt0114857,N/A
+0,Watchmen,2009,R,06 Mar 2009,162 min,56,7.6,"487,586",tt0409459,"$107,453,620"
+0,X-Men Origins: Wolverine,2009,PG-13,01 May 2009,107 min,40,6.6,"457,050",tt0458525,"$179,737,340"
+0,TRON,1982,PG,09 Jul 1982,96 min,58,6.8,"110,680",tt0084827,N/A
+0,Surrogates,2009,PG-13,25 Sep 2009,89 min,45,6.3,"167,007",tt0986263,"$38,542,418"
+0,Total Recall,1990,R,01 Jun 1990,113 min,57,7.5,"291,951",tt0100802,"$119,000,000"
+0,Terminator Salvation,2009,PG-13,21 May 2009,115 min,49,6.5,"337,037",tt0438488,"$125,286,889"
+0,Terminator,1991,N/A,N/A,39 min,N/A,6.1,27,tt5817168,N/A
+0,Time Machine: The Journey Back,1993,N/A,N/A,48 min,N/A,7.8,209,tt0300555,N/A
+0,Starship Troopers,1997,R,07 Nov 1997,129 min,51,7.2,"261,834",tt0120201,N/A
+0,Supergirl,2015–,TV-PG,26 Oct 2015,43 min,N/A,6.3,"106,927",tt4016454,
+0,Shrek the Third,2007,PG,18 May 2007,93 min,58,6.1,"272,550",tt0413267,"$320,706,665"
+0,Toy Story,1995,G,22 Nov 1995,81 min,95,8.3,"857,038",tt0114709,N/A
+0,The Transformers: The Movie,1986,PG,08 Aug 1986,84 min,N/A,7.3,"36,621",tt0092106,N/A
+0,WALL·E,2008,G,27 Jun 2008,98 min,95,8.4,"967,549",tt0910970,"$223,749,872"
+0,Shrek,2001,PG,18 May 2001,90 min,84,7.8,"596,311",tt0126029,"$266,982,666"
+0,TMNT,2007,PG,23 Mar 2007,103 min,41,6.2,"60,242",tt0453556,"$54,132,596"
+0,Up,2009,PG,29 May 2009,96 min,88,8.2,"904,824",tt1049413,"$292,979,556"
+0,Rise of the Guardians,2012,PG,21 Nov 2012,97 min,58,7.3,"152,477",tt1446192,"$98,800,000"
+0,How to Train Your Dragon,2010,PG,26 Mar 2010,98 min,75,8.1,"647,266",tt0892769,"$216,900,000"
+0,How to Train Your Dragon 2,2014,PG,13 Jun 2014,102 min,76,7.8,"296,202",tt1646971,"$147,065,544"
+0,ParaNorman,2012,PG,17 Aug 2012,92 min,72,7.0,"91,243",tt1623288,"$55,994,557"
+0,Monkeybone,2001,PG-13,23 Feb 2001,93 min,40,4.7,"16,394",tt0166276,"$4,942,155"
+0,Beavis and Butt-Head Do America,1996,PG-13,20 Dec 1996,81 min,64,6.8,"50,067",tt0115641,N/A
+0,Despicable Me 2,2013,PG,03 Jul 2013,98 min,62,7.3,"360,967",tt1690953,"$368,049,635"
+0,Cars 2,2011,G,24 Jun 2011,106 min,57,6.1,"152,890",tt1216475,"$191,450,875"
+0,Coco,2017,PG,22 Nov 2017,105 min,81,8.4,"343,940",tt2380307,"$208,487,719"
+0,American Gangster,2007,R,02 Nov 2007,157 min,76,7.8,"381,260",tt0765429,"$130,127,620"
+0,A Scanner Darkly,2006,R,28 Jul 2006,100 min,73,7.1,"104,320",tt0405296,"$5,281,537"
+0,American Hustle,2013,R,20 Dec 2013,138 min,90,7.2,"437,260",tt1800241,"$99,165,609"
+0,Analyze This,1999,R,05 Mar 1999,103 min,61,6.7,"143,019",tt0122933,N/A
+0,Bad Lieutenant,1992,NC-17,17 Dec 1992,96 min,70,7.1,"37,481",tt0103759,N/A
+0,Analyze That,2002,R,06 Dec 2002,96 min,37,5.9,"81,023",tt0289848,"$32,070,920"
+0,Arsenic and Old Lace,1944,Not Rated,23 Sep 1944,118 min,N/A,8.0,"63,845",tt0036613,N/A
+0,Bad Country,2014,R,29 Apr 2014,95 min,N/A,5.8,"7,866",tt2350892,N/A
+0,Collateral Damage,2002,R,08 Feb 2002,108 min,33,5.5,"70,795",tt0233469,"$39,965,988"
+0,Commando,1985,R,04 Oct 1985,90 min,51,6.7,"142,224",tt0088944,N/A
+0,Cradle 2 the Grave,2003,R,28 Feb 2003,101 min,36,5.8,"40,632",tt0306685,"$34,600,000"
+0,Crank,2006,R,01 Sep 2006,88 min,57,6.9,"230,012",tt0479884,"$27,800,000"
+0,44 Inch Chest,2009,R,15 Jan 2010,95 min,47,5.8,"6,420",tt0914837,N/A
+0,Collateral,2004,R,06 Aug 2004,120 min,71,7.5,"349,490",tt0369339,"$100,003,492"
+0,25th Hour,2002,R,10 Jan 2003,135 min,67,7.6,"166,545",tt0307901,N/A
+0,A Prayer Before Dawn,2017,R,10 Aug 2018,116 min,76,6.9,"18,806",tt4080956,N/A
+0,A Most Violent Year,2014,R,30 Jan 2015,125 min,79,7.0,"64,487",tt2937898,N/A
+0,The Cable Guy,1996,PG-13,14 Jun 1996,96 min,56,6.1,"148,526",tt0115798,N/A
+0,Broken Arrow,1996,R,09 Feb 1996,108 min,61,6.0,"88,924",tt0115759,N/A
+0,Breakdown,1997,R,02 May 1997,93 min,73,6.9,"47,264",tt0118771,N/A
+0,Bound,1996,R,04 Oct 1996,109 min,61,7.3,"49,122",tt0115736,N/A
+0,Cecil B. DeMented,2000,R,01 Sep 2000,87 min,57,6.2,"12,999",tt0173716,N/A
+0,Chaos,2005,R,15 Dec 2005,106 min,N/A,6.5,"50,400",tt0402910,N/A
+0,Cliffhanger,1993,R,28 May 1993,113 min,60,6.4,"116,698",tt0106582,N/A
+0,Liar Liar,1997,PG-13,21 Mar 1997,86 min,70,6.9,"273,714",tt0119528,N/A
+0,Blood and Wine,1996,R,21 Feb 1997,101 min,N/A,6.0,"8,985",tt0115710,N/A
+0,Blood Simple,1984,R,18 Jan 1985,99 min,81,7.6,"83,644",tt0086979,N/A
+0,Body Heat,1981,R,28 Aug 1981,113 min,77,7.4,"29,409",tt0082089,N/A
+0,Ghost Rider,2007,PG-13,16 Feb 2007,110 min,35,5.2,"218,752",tt0259324,"$115,802,596"
+0,Erik the Viking,1989,PG-13,22 Sep 1989,107 min,N/A,6.3,"12,609",tt0097289,N/A
+0,Drive Angry,2011,R,25 Feb 2011,104 min,44,5.4,"92,929",tt1502404,"$10,706,786"
+0,Excalibur,1981,PG,10 Apr 1981,140 min,56,7.4,"55,818",tt0082348,N/A
+0,Hancock,2008,PG-13,02 Jul 2008,92 min,49,6.4,"434,647",tt0448157,"$227,946,274"
+0,Flash Gordon,1980,PG,05 Dec 1980,111 min,58,6.5,"49,048",tt0080745,N/A
+0,Highlander,1986,R,07 Mar 1986,116 min,24,7.1,"118,150",tt0091203,N/A
+0,Pokémon: Mewtwo Returns,2000,Not Rated,04 Dec 2001,63 min,N/A,6.5,"3,164",tt0304564,N/A
+0,Dragonslayer,1981,PG,26 Jun 1981,109 min,68,6.7,"14,523",tt0082288,N/A
+0,New York Minute,2004,PG,07 May 2004,91 min,33,5.0,"21,302",tt0363282,"$14,018,364"
+0,Happy Feet,2006,PG,17 Nov 2006,108 min,77,6.4,"165,838",tt0366548,"$197,800,000"
+0,Mighty Morphin Power Rangers: The Movie,1995,PG,30 Jun 1995,95 min,40,5.2,"24,582",tt0113820,N/A
+0,Mighty Joe Young,1998,PG,25 Dec 1998,114 min,51,5.6,"26,935",tt0120751,N/A
+0,Kung Fu Panda,2008,PG,06 Jun 2008,92 min,74,7.5,"405,963",tt0441773,"$215,395,021"
+0,Tales from the Neverending Story: The Beginning,2001,N/A,N/A,120 min,N/A,5.5,33,tt2157312,N/A
+0,Frankenweenie,2012,PG,05 Oct 2012,87 min,74,6.9,"94,595",tt1142977,"$35,287,788"
+0,Fantastic Mr Fox: T4 Movie Special,2009,N/A,24 Oct 2009,N/A,N/A,7.8,29,tt1531905,N/A
+0,Rust and Bone,2012,R,17 May 2012,120 min,73,7.5,"62,034",tt2053425,"$1,900,000"
+0,Dogma,1999,R,12 Nov 1999,130 min,62,7.3,"204,707",tt0120655,N/A
+0,Field of Dreams,1989,PG,05 May 1989,107 min,57,7.5,"105,057",tt0097351,N/A
+0,Finding Nemo,2003,G,30 May 2003,100 min,90,8.1,"920,858",tt0266543,"$380,529,370"
+0,Remember Me,2010,PG-13,12 Mar 2010,113 min,40,7.1,"134,448",tt1403981,"$18,242,661"
+0,Rushmore,1998,R,19 Feb 1999,93 min,86,7.7,"164,730",tt0128445,N/A
+0,Revolutionary Road,2008,R,23 Jan 2009,119 min,69,7.3,"190,055",tt0959337,"$22,877,808"
+0,Rocky,1976,PG,03 Dec 1976,120 min,70,8.1,"502,081",tt0075148,N/A
+0,Romeo & Juliet,1978,TV-14,03 Dec 1978,168 min,N/A,6.8,340,tt0078176,N/A
+0,Runaway Bride,1999,PG,30 Jul 1999,116 min,39,5.5,"90,635",tt0163187,N/A
+0,Punch-Drunk Love,2002,R,01 Nov 2002,95 min,78,7.3,"142,544",tt0272338,"$17,800,000"
+0,Pretty Woman,1990,R,23 Mar 1990,119 min,51,7.0,"278,631",tt0100405,N/A
+0,Rachel Getting Married,2008,R,31 Oct 2008,113 min,82,6.7,"46,580",tt1084950,"$12,748,504"
+0,Out of Sight,1998,R,26 Jun 1998,123 min,85,7.0,"82,946",tt0120780,N/A
+0,Piano: The Melody of a Young Girl's Heart,2002–2003,N/A,01 Jan 2002,24 min,N/A,6.6,11,tt1071676,
+0,Platinum Blonde,1931,Passed,31 Oct 1931,89 min,N/A,6.9,"2,623",tt0022268,N/A
+0,The Princess Bride: The Untold Tales,2007,N/A,N/A,N/A,N/A,8.0,7,tt7716840,N/A
+0,No Strings Attached,2011,R,21 Jan 2011,108 min,50,6.2,"208,225",tt1411238,"$70,300,000"
+0,Never Been Kissed,1999,PG-13,09 Apr 1999,107 min,60,6.1,"81,213",tt0151738,N/A
+0,"Mrs. Brown, You've Got a Lovely Daughter",1968,G,01 Jan 1968,110 min,N/A,4.7,381,tt0063325,N/A
+0,My Girl,1991,PG,27 Nov 1991,102 min,56,6.9,"70,013",tt0102492,N/A
+0,Pride and Prejudice,1995,TV-PG,14 Jan 1996,327 min,N/A,8.8,"72,954",tt0112130,
+0,My Best Friend's Wedding,1997,PG-13,20 Jun 1997,105 min,50,6.3,"124,674",tt0119738,N/A
+0,Notting Hill,1999,PG-13,28 May 1999,124 min,68,7.1,"262,806",tt0125439,N/A
+0,Moonstruck,1987,PG,15 Jan 1988,102 min,83,7.1,"47,598",tt0093565,N/A
+0,Ninotchka,1939,Not Rated,23 Nov 1939,110 min,N/A,7.9,"18,327",tt0031725,N/A
+0,Natural Born Killers,1994,R,26 Aug 1994,118 min,74,7.3,"210,566",tt0110632,N/A
+0,Moonrise Kingdom,2012,PG-13,29 Jun 2012,94 min,84,7.8,"309,299",tt1748122,"$45,507,865"
+0,Monte Carlo,2011,PG,01 Jul 2011,109 min,43,5.8,"40,274",tt1067774,"$22,500,000"
+0,Marty,1955,Not Rated,10 Jun 1955,90 min,N/A,7.7,"20,694",tt0048356,N/A
+0,Behind the Mask: The Rise of Leslie Vernon,2006,R,13 Oct 2006,92 min,66,6.7,"20,933",tt0437857,N/A
+0,Midnight in Paris,2011,PG-13,10 Jun 2011,94 min,81,7.7,"376,423",tt1605783,"$55,400,000"
+0,Marley & Me,2008,PG,25 Dec 2008,115 min,53,7.1,"143,412",tt0822832,"$143,084,510"
+0,Man Trouble,1992,PG-13,17 Jul 1992,100 min,N/A,4.7,"2,825",tt0104804,N/A
+0,Legend,2015,R,20 Nov 2015,132 min,55,6.9,"152,324",tt3569230,"$14,146,549"
+0,Starman,1984,PG,14 Dec 1984,115 min,70,7.0,"41,128",tt0088172,N/A
+0,Last Tango in Paris,1972,NC-17,07 Feb 1973,129 min,77,7.0,"48,278",tt0070849,N/A
+0,Lost in Translation,2003,R,03 Oct 2003,102 min,89,7.7,"398,514",tt0335266,"$44,566,004"
+0,Leaving Las Vegas,1995,R,09 Feb 1996,111 min,82,7.5,"111,717",tt0113627,N/A
+0,Star Trek: The Motion Picture,1979,G,08 Dec 1979,132 min,48,6.4,"79,288",tt0079945,N/A
+0,Star Trek: Generations,1994,PG,18 Nov 1994,118 min,55,6.6,"74,325",tt0111280,N/A
+0,Star Trek: First Contact,1996,PG-13,22 Nov 1996,111 min,71,7.6,"115,453",tt0117731,N/A
+0,Star Trek: Nemesis,2002,PG-13,13 Dec 2002,116 min,51,6.4,"71,988",tt0253754,"$43,056,895"
+0,Monster's Ball,2001,R,01 Mar 2002,111 min,69,7.0,"80,974",tt0285742,"$31,252,964"
+0,Star Trek II: The Wrath of Khan,1982,PG,04 Jun 1982,113 min,67,7.7,"110,150",tt0084726,N/A
+0,Space Milkshake,2012,Not Rated,15 Feb 2013,85 min,N/A,6.0,"1,377",tt1954843,N/A
+0,Star Trek,2009,PG-13,08 May 2009,127 min,82,7.9,"569,689",tt0796366,"$257,704,099"
+0,Solaris,2002,PG-13,27 Nov 2002,99 min,65,6.2,"77,794",tt0307479,"$14,780,776"
+0,Serenity,2005,PG-13,30 Sep 2005,119 min,74,7.8,"278,632",tt0379786,"$25,335,935"
+0,Soldier,1998,R,23 Oct 1998,99 min,N/A,6.0,"50,772",tt0120157,N/A
+0,Sphere,1998,PG-13,13 Feb 1998,134 min,35,6.1,"97,311",tt0120184,N/A
+0,Repo Man,1984,R,02 Mar 1984,92 min,75,6.9,"32,672",tt0087995,N/A
+0,Simone,2013,Not Rated,24 Jun 2013,72 min,N/A,6.0,46,tt2916440,N/A
+0,Rise of the Planet of the Apes,2011,PG-13,05 Aug 2011,105 min,68,7.6,"488,681",tt1318514,"$175,300,000"
+0,Spider-Man,2002,PG-13,03 May 2002,121 min,73,7.3,"671,651",tt0145487,"$403,706,375"
+0,"Poetry, Passion, the Postman: The Poetic Return of Pablo Neruda",1996,N/A,N/A,29 min,N/A,6.9,16,tt1013685,N/A
+0,Dawn of the Planet of the Apes: The World of 'Dawn',2014,N/A,02 Dec 2014,15 min,N/A,8.5,6,tt5244540,N/A
+0,Red Planet,2000,PG-13,10 Nov 2000,106 min,34,5.7,"54,131",tt0199753,N/A
+0,The Omega Man,1971,PG,01 Aug 1971,98 min,56,6.5,"28,013",tt0067525,N/A
+0,Laguna Beach: The Real Orange County,2004–2006,TV-PG,28 Sep 2004,30 min,N/A,4.8,"3,516",tt0426738,
+0,Oblivion,2013,PG-13,19 Apr 2013,124 min,54,7.0,"473,697",tt1483013,"$89,021,735"
+0,Paul,2011,R,18 Mar 2011,104 min,57,7.0,"229,607",tt1092026,"$37,371,385"
+0,Pi,1998,R,10 Jul 1998,84 min,72,7.4,"166,458",tt0138704,N/A
+0,Passengers,2016,PG-13,21 Dec 2016,116 min,41,7.0,"336,522",tt1355644,"$100,014,092"
+0,Badlands,1973,PG,05 Jan 1974,94 min,93,7.8,"63,169",tt0069762,N/A
+0,Assignment: The World,1959–,N/A,N/A,15 min,N/A,6.9,7,tt1419879,
+0,Barton Fink,1991,R,21 Aug 1991,116 min,69,7.7,"109,491",tt0101410,N/A
+0,Assassins,1995,R,06 Oct 1995,132 min,N/A,6.3,"75,979",tt0112401,N/A
+0,Babel,2006,R,10 Nov 2006,143 min,69,7.4,"283,859",tt0449467,"$34,237,104"
+0,Argo,2012,R,12 Oct 2012,120 min,86,7.7,"559,601",tt1024648,"$136,019,448"
+0,American: The Bill Hicks Story,2009,Not Rated,08 Apr 2011,102 min,55,7.8,"4,714",tt1179947,"$90,275"
+0,Arbitrage,2012,R,14 Sep 2012,107 min,73,6.6,"48,611",tt1764183,"$7,918,283"
+0,Anonymous,2011,PG-13,28 Oct 2011,130 min,50,6.9,"38,807",tt1521197,"$4,463,292"
+0,Apt Pupil,1998,R,23 Oct 1998,111 min,51,6.7,"35,097",tt0118636,N/A
+0,American History X,1998,R,20 Nov 1998,119 min,62,8.5,"1,005,357",tt0120586,N/A
+0,Arctic Blue,1993,R,N/A,95 min,N/A,5.1,782,tt0106303,N/A
+0,Antitrust,2001,PG-13,12 Jan 2001,108 min,31,6.1,"28,082",tt0218817,"$10,965,209"
+0,Coraline,2009,PG,06 Feb 2009,100 min,80,7.7,"189,288",tt0327597,"$75,169,351"
+0,48 Hrs.,1982,R,08 Dec 1982,96 min,71,6.9,"66,938",tt0083511,N/A
+0,Air Force One,1997,R,25 Jul 1997,124 min,61,6.5,"175,705",tt0118571,N/A
+0,Absolute Power,1997,R,14 Feb 1997,121 min,52,6.7,"49,030",tt0118548,N/A
+0,Conan the Barbarian,1982,R,14 May 1982,129 min,43,6.9,"134,342",tt0082198,N/A
+0,All the President's Men,1976,PG,09 Apr 1976,138 min,84,8.0,"98,744",tt0074119,N/A
+0,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,09 Dec 2005,143 min,75,6.9,"356,487",tt0363771,"$291,685,219"
+0,Clash of the Titans,2010,PG-13,02 Apr 2010,106 min,39,5.8,"266,023",tt0800320,"$163,100,000"
+0,Christ Complex,2012,NOT RATED,06 Oct 2012,76 min,N/A,6.5,22,tt2416048,N/A
+0,Beasts of the Southern Wild,2012,PG-13,05 Jul 2012,93 min,86,7.3,"79,506",tt2125435,"$12,784,397"
+0,Cirque du Freak: The Vampire's Assistant,2009,PG-13,23 Oct 2009,109 min,43,5.8,"42,495",tt0450405,"$13,838,130"
+0,Being John Malkovich,1999,R,03 Dec 1999,113 min,90,7.7,"301,611",tt0120601,N/A
+0,Big,1988,PG,03 Jun 1988,104 min,73,7.3,"191,523",tt0094737,N/A
+0,Being Human,2011–2014,TV-14,17 Jan 2011,44 min,N/A,7.5,"23,849",tt1595680,
+0,Big Fish,2003,PG-13,09 Jan 2004,125 min,58,8.0,"406,074",tt0319061,"$66,257,002"
+0,Butterfly Effect: The Creative Process,2004,N/A,06 Jul 2004,18 min,N/A,6.3,19,tt0464794,N/A
+0,Antz,1998,PG,02 Oct 1998,83 min,72,6.5,"143,658",tt0120587,N/A
+0,When a Stranger Calls,2006,PG-13,03 Feb 2006,87 min,27,5.1,"42,023",tt0455857,"$47,860,214"
+0,Batman,1989,PG-13,23 Jun 1989,126 min,69,7.5,"329,552",tt0096895,N/A
+0,Wind Chill,2007,R,03 Aug 2007,91 min,52,5.8,"21,423",tt0486051,N/A
+0,The Rage: Carrie 2,1999,R,12 Mar 1999,104 min,42,4.7,"15,199",tt0144814,N/A
+0,Timber Falls,2007,R,23 May 2008,100 min,N/A,5.2,"5,721",tt0857295,N/A
+0,They,2002,PG-13,27 Nov 2002,89 min,31,4.8,"12,153",tt0283632,"$12,575,046"
+0,Next Big Thing: The 2 Skinnee J's Farewell Show,2005,N/A,18 Jul 2005,120 min,N/A,8.2,8,tt0479727,N/A
+0,Tremors,1990,PG-13,19 Jan 1990,96 min,65,7.1,"116,480",tt0100814,N/A
+0,Taking Lives,2004,R,19 Mar 2004,103 min,38,6.3,"78,540",tt0364045,"$32,634,479"
+0,Larry Crowne,2011,PG-13,01 Jul 2011,98 min,41,6.1,"61,791",tt1583420,"$35,565,975"
+0,Last Chance Harvey,2008,PG-13,16 Jan 2009,93 min,57,6.6,"20,161",tt1046947,"$14,840,421"
+0,Kate & Leopold,2001,PG-13,25 Dec 2001,118 min,44,6.4,"77,364",tt0035423,"$47,095,453"
+0,Kill Your Darlings,2013,R,19 Sep 2013,104 min,65,6.5,"34,380",tt1311071,"$679,958"
+0,Jane Eyre,2011,PG-13,22 Apr 2011,120 min,76,7.3,"78,895",tt1229822,N/A
+0,Jerry Maguire,1996,R,13 Dec 1996,139 min,77,7.3,"234,615",tt0116695,N/A
+0,It's a Wonderful Life,1946,Passed,07 Jan 1947,130 min,89,8.6,"384,831",tt0038650,N/A
+0,It's Complicated,2009,R,25 Dec 2009,120 min,57,6.5,"84,281",tt1230414,"$112,703,470"
+0,Juno,2007,PG-13,25 Dec 2007,96 min,81,7.4,"481,291",tt0467406,"$143,380,890"
+0,Labor of Love,2020–,N/A,21 May 2020,N/A,N/A,3.0,108,tt12237066,
+0,How to Lose Friends & Alienate People,2008,R,03 Oct 2008,110 min,35,6.4,"67,038",tt0455538,"$2,458,092"
+0,I Love You Phillip Morris,2009,R,07 Jan 2011,98 min,65,6.6,"90,006",tt1045772,"$2,026,852"
+0,Intolerable Cruelty,2003,PG-13,10 Oct 2003,100 min,71,6.2,"89,079",tt0138524,"$35,096,190"
+0,Knocked Up,2007,R,01 Jun 2007,129 min,85,6.9,"343,267",tt0478311,"$148,734,225"
+0,Hard to Kill,1990,R,09 Feb 1990,96 min,41,5.8,"26,659",tt0099739,N/A
+0,Inventing the Abbotts,1997,R,04 Apr 1997,110 min,49,6.4,"11,311",tt0119381,N/A
+0,High Fidelity,2000,R,31 Mar 2000,113 min,79,7.5,"164,661",tt0146882,N/A
+0,Hannah and Her Sisters,1986,PG-13,14 Mar 1986,107 min,90,7.9,"64,792",tt0091167,N/A
+0,It Happened One Night,1934,Approved,22 Feb 1934,105 min,87,8.1,"90,473",tt0025316,N/A
+0,His Girl Friday,1940,Passed,18 Jan 1940,92 min,N/A,7.9,"51,664",tt0032599,N/A
+0,He's Just Not That Into You,2009,PG-13,06 Feb 2009,129 min,47,6.4,"158,297",tt1001508,"$93,800,000"
+0,Groundhog Day,1993,PG,12 Feb 1993,101 min,72,8.0,"565,244",tt0107048,N/A
+0,Hall Pass,2011,R,25 Feb 2011,105 min,45,5.8,"117,950",tt0480687,"$45,045,037"
+0,The Fault in Our Stars: The Stars Align,2014,N/A,16 Sep 2014,N/A,N/A,7.8,31,tt4078994,N/A
+0,F. Scott Fitzgerald's 'The Great Gatsby': The Making of a Classic,2000,N/A,01 Dec 2000,N/A,N/A,5.0,11,tt0365178,N/A
+0,Ghost,1990,PG-13,13 Jul 1990,127 min,52,7.0,"190,146",tt0099653,N/A
+0,Garden State,2004,R,20 Aug 2004,102 min,67,7.4,"204,465",tt0333766,"$26,706,668"
+0,Grand Hotel,1932,Not Rated,11 Sep 1932,112 min,N/A,7.4,"16,495",tt0022958,N/A
+0,Easy A,2010,PG-13,17 Sep 2010,92 min,72,7.0,"348,160",tt1282140,"$58,401,464"
+0,Date Night,2010,PG-13,09 Apr 2010,88 min,56,6.3,"149,520",tt1279935,"$98,710,290"
+0,Megamind,2010,PG,05 Nov 2010,95 min,63,7.2,"221,105",tt1001526,"$148,244,405"
+0,Even Cowgirls Get the Blues,1993,R,20 May 1994,95 min,28,4.4,"6,950",tt0106834,N/A
+0,The Matrix: The Movie Special,1999,Approved,28 Mar 1999,30 min,N/A,7.8,69,tt0438231,N/A
+0,Men in Black 3,2012,PG-13,25 May 2012,106 min,58,6.8,"327,497",tt1409024,"$179,020,854"
+0,Extract,2009,R,04 Sep 2009,92 min,61,6.1,"43,911",tt1225822,"$10,642,511"
+0,Next,2007,PG-13,27 Apr 2007,96 min,42,6.2,"145,493",tt0435705,"$17,993,461"
+0,Men in Black,1997,PG-13,02 Jul 1997,98 min,71,7.3,"503,621",tt0119654,N/A
+0,Mission to Mars,2000,PG,10 Mar 2000,114 min,34,5.7,"69,016",tt0183523,N/A
+0,Edward Scissorhands,1990,PG-13,14 Dec 1990,105 min,74,7.9,"434,782",tt0099487,N/A
+0,Mad Max 2: The Road Warrior,1981,R,21 May 1982,96 min,77,7.6,"162,472",tt0082694,N/A
+0,Your Favorite Martian: The Series,2011–,N/A,02 Dec 2011,N/A,N/A,6.2,94,tt2141561,
+0,Looper,2012,R,28 Sep 2012,113 min,84,7.4,"522,483",tt1276104,"$66,305,045"
+0,Logan,2017,R,03 Mar 2017,137 min,77,8.1,"619,868",tt3315342,"$226,276,809"
+0,Judge Dredd,1995,R,30 Jun 1995,96 min,N/A,5.6,"107,979",tt0113492,N/A
+0,Logan's Run,1976,PG,23 Jun 1976,119 min,53,6.8,"50,342",tt0074812,N/A
+0,Interstellar,2014,PG-13,07 Nov 2014,169 min,74,8.6,"1,424,440",tt0816692,"$158,737,441"
+0,Surviving Gilligan's Island: The Incredibly True Story of the Longest Three Hour Tour in History,2001,N/A,14 Oct 2001,100 min,N/A,7.2,445,tt0286181,N/A
+0,I Am Number Four,2011,PG-13,18 Feb 2011,111 min,36,6.1,"224,308",tt1464540,"$55,086,029"
+0,Lost in Space,2018–,TV-PG,13 Apr 2018,60 min,N/A,7.3,"69,373",tt5232792,
+0,"I, Robot",2004,PG-13,16 Jul 2004,115 min,59,7.1,"487,756",tt0343818,N/A
+0,Ghostbusters,1984,PG,08 Jun 1984,105 min,71,7.8,"344,050",tt0087332,N/A
+0,Hot Tub Time Machine,2010,R,26 Mar 2010,101 min,63,6.4,"159,298",tt1231587,"$48,925,682"
+0,Her,2013,R,10 Jan 2014,126 min,90,8.0,"518,386",tt1798709,"$17,901,029"
+0,Godzilla,2014,PG-13,16 May 2014,123 min,62,6.4,"368,029",tt0831387,"$172,962,996"
+0,Gravity,2013,PG-13,04 Oct 2013,91 min,96,7.7,"749,518",tt1454468,"$274,084,951"
+0,Time Is But a Window: Ghostbusters 2 and Beyond,2014,N/A,16 Sep 2014,17 min,N/A,6.4,5,tt4083432,N/A
+0,Highlander: Endgame,2000,R,01 Sep 2000,87 min,21,4.6,"19,029",tt0144964,N/A
+0,Independence Day,1996,PG-13,03 Jul 1996,145 min,59,7.0,"516,789",tt0116629,N/A
+0,Gamer,2009,R,04 Sep 2009,95 min,27,5.8,"128,252",tt1034032,"$20,488,579"
+0,Sweet Smell of Success,1957,Approved,04 Jul 1957,96 min,100,8.1,"26,523",tt0051036,N/A
+0,Sunset Blvd.,1950,Passed,29 Sep 1950,110 min,N/A,8.4,"193,512",tt0043014,N/A
+0,Gattaca,1997,PG-13,24 Oct 1997,106 min,64,7.8,"274,114",tt0119177,N/A
+0,Slither,2006,R,31 Mar 2006,95 min,69,6.4,"72,340",tt0439815,"$7,774,730"
+0,Shivers,1975,R,06 Jul 1976,87 min,58,6.5,"17,029",tt0073705,N/A
+0,Silver Bullet,1985,R,11 Oct 1985,95 min,26,6.4,"22,891",tt0090021,N/A
+0,Shining the Ball,2005,N/A,10 Jun 2005,17 min,N/A,4.3,36,tt0470918,N/A
+0,Signs,2002,PG-13,02 Aug 2002,106 min,59,6.7,"329,663",tt0286106,"$227,935,522"
+0,My Roommate the,2010–,N/A,01 Mar 2010,8 min,N/A,8.5,53,tt1863469,
+0,Resident Evil,2002,R,15 Mar 2002,100 min,33,6.7,"241,735",tt0120804,"$39,532,308"
+0,Scary Movie 2,2001,R,04 Jul 2001,83 min,29,5.3,"146,030",tt0257106,N/A
+0,Serial Mom,1994,R,13 Apr 1994,95 min,64,6.8,"26,154",tt0111127,N/A
+0,Silence of the Lambs,2002–,N/A,07 May 2002,N/A,N/A,7.8,11,tt2665218,
+0,City of Ruins: The Halifax Explosion,2003,N/A,28 Oct 2003,60 min,N/A,6.7,6,tt0387938,N/A
+0,Strangers on a Train,1951,PG,30 Jun 1951,101 min,88,8.0,"119,936",tt0044079,N/A
+0,Double Indemnity,1944,Passed,06 Jul 1944,107 min,95,8.3,"137,436",tt0036775,N/A
+0,Psycho,1960,R,08 Sep 1960,109 min,97,8.5,"580,762",tt0054215,N/A
+0,Priest,2011,PG-13,13 May 2011,87 min,41,5.7,"112,664",tt0822847,"$29,100,000"
+0,Queen of the Damned,2002,R,22 Feb 2002,101 min,30,5.3,"51,416",tt0238546,"$31,000,000"
+0,Predator,1987,R,12 Jun 1987,107 min,45,7.8,"362,392",tt0093773,N/A
+0,Pitch Black,2000,R,18 Feb 2000,109 min,49,7.1,"221,297",tt0134847,N/A
+0,Pet Sematary II,1992,R,28 Aug 1992,100 min,35,4.9,"18,777",tt0105128,N/A
+0,Orgy of the Dead,1965,Unrated,01 Jun 1965,92 min,N/A,2.9,"2,400",tt0054240,N/A
+0,Pet Sematary,1989,R,21 Apr 1989,103 min,38,6.6,"91,220",tt0098084,N/A
+0,Pandorum,2009,R,25 Sep 2009,108 min,28,6.7,"141,282",tt1188729,"$10,261,085"
+0,Perfect Creature,2006,R,18 Oct 2007,90 min,N/A,5.4,"5,228",tt0403407,N/A
+0,Nightbreed,1990,R,16 Feb 1990,102 min,40,6.6,"18,970",tt0100260,N/A
+0,Peeping Tom,1960,Not Rated,01 Dec 1961,101 min,N/A,7.7,"29,733",tt0054167,N/A
+0,Crazylove,2005,N/A,N/A,95 min,N/A,6.3,361,tt0416658,N/A
+0,Mute Witness,1995,R,15 Sep 1995,95 min,N/A,6.7,"5,168",tt0110604,N/A
+0,Revenge of the Mummy: The Ride,2004,N/A,21 May 2004,6 min,N/A,7.5,966,tt0409221,N/A
+0,"Crouching Tiger, Hidden Dragon",2000,PG-13,12 Jan 2001,120 min,94,7.8,"248,295",tt0190332,N/A
+0,Cruel Intentions,1999,R,05 Mar 1999,97 min,56,6.8,"175,410",tt0139134,N/A
+0,The Crying Game,1992,R,19 Feb 1993,112 min,90,7.2,"49,460",tt0104036,N/A
+0,Misery,1990,R,30 Nov 1990,107 min,75,7.8,"176,467",tt0100157,N/A
+0,Clueless,1995,PG-13,19 Jul 1995,97 min,68,6.8,"172,678",tt0112697,N/A
+0,Cinema Paradiso,1988,R,23 Feb 1990,155 min,80,8.5,"220,232",tt0095765,"$239,630"
+0,The Cider House Rules: The Making of an American Classic,1999,N/A,N/A,23 min,N/A,5.5,84,tt0370414,N/A
+0,Crash,2004,R,06 May 2005,112 min,66,7.8,"413,193",tt0375679,"$55,382,847"
+0,"Crazy, Stupid, Love.",2011,PG-13,29 Jul 2011,118 min,68,7.4,"459,394",tt1570728,"$83,300,000"
+0,Chasing Amy,1997,R,18 Apr 1997,113 min,71,7.2,"130,082",tt0118842,N/A
+0,Celeste & Jesse Forever,2012,R,24 Aug 2012,92 min,59,6.6,"28,381",tt1405365,"$3,094,687"
+0,Bruce Almighty,2003,PG-13,23 May 2003,101 min,46,6.8,"363,773",tt0315327,"$242,589,580"
+0,Bounty Hunter: The Hard,1996,N/A,01 May 1996,60 min,N/A,5.0,7,tt6051146,N/A
+0,Bonnie and Clyde,1967,R,14 Aug 1967,111 min,86,7.8,"99,575",tt0061418,N/A
+0,Burning Annie,2004,N/A,08 Mar 2003,95 min,38,5.6,257,tt0307879,N/A
+0,Broadcast News,1987,R,25 Dec 1987,133 min,84,7.2,"26,026",tt0092699,N/A
+0,Bull Durham,1988,R,15 Jun 1988,108 min,73,7.1,"45,793",tt0094812,N/A
+0,Broken Embraces,2009,R,15 Jan 2010,127 min,76,7.2,"37,315",tt0913425,"$4,900,000"
+0,"Bodies, Rest & Motion",1993,R,09 Apr 1993,95 min,N/A,5.7,"2,137",tt0106447,N/A
+0,Body of Evidence,1992,R,15 Jan 1993,99 min,29,4.5,"13,732",tt0106453,N/A
+0,Blue Valentine,2010,R,28 Jan 2011,112 min,81,7.4,"179,610",tt1120985,"$9,600,000"
+0,Benny & Joon,1993,PG,23 Apr 1993,98 min,57,7.2,"53,594",tt0106387,N/A
+0,Birdman,1967–1987,TV-G,09 Sep 1967,30 min,N/A,6.8,832,tt0061237,
+0,Birthday Girl,2001,R,01 Feb 2002,93 min,51,6.1,"23,959",tt0188453,"$4,919,896"
+0,Bodyguard,2018–,TV-MA,26 Aug 2018,60 min,N/A,8.1,"83,514",tt7493974,
+0,Beginners,2010,R,09 Jun 2011,105 min,81,7.2,"85,878",tt1532503,"$5,764,842"
+0,Belle,2013,PG,13 Jun 2014,100 min,64,7.3,"27,285",tt2404181,"$8,792,708"
+0,A Portrait of an Artist: The Making of 'Get Rich or Die Tryin',2006,N/A,28 Mar 2006,29 min,N/A,7.0,51,tt0811024,N/A
+0,As Good as It Gets,1997,PG-13,25 Dec 1997,139 min,67,7.7,"268,254",tt0119822,N/A
+0,G.I. Joe: The Rise of Cobra,2009,PG-13,07 Aug 2009,118 min,32,5.8,"196,262",tt1046173,"$150,167,630"
+0,Angel Eyes,2001,R,18 May 2001,102 min,39,5.6,"22,124",tt0225071,N/A
+0,Annie Hall,1977,PG,20 Apr 1977,93 min,92,8.0,"246,741",tt0075686,N/A
+0,Autumn in New York,2000,PG-13,11 Aug 2000,103 min,24,5.7,"24,293",tt0174480,N/A
+0,Escape from L.A.,1996,R,09 Aug 1996,101 min,54,5.8,"67,869",tt0116225,N/A
+0,Escape from New York,1981,R,10 Jul 1981,99 min,76,7.2,"121,061",tt0082340,N/A
+0,Eternal Sunshine of the Spotless Mind,2004,R,19 Mar 2004,108 min,89,8.3,"880,215",tt0338013,"$34,126,138"
+0,E.T. the Extra-Terrestrial,1982,PG,11 Jun 1982,115 min,91,7.8,"358,478",tt0083866,N/A
+0,Dark Star,1974,G,09 Feb 1979,83 min,66,6.3,"21,554",tt0069945,N/A
+0,Fantastic Four,2005,PG-13,08 Jul 2005,106 min,40,5.7,"306,728",tt0120667,"$154,485,963"
+0,Freaked,1993,PG-13,31 Mar 1994,80 min,N/A,6.4,"6,150",tt0109838,N/A
+0,Darkman,1990,R,24 Aug 1990,96 min,65,6.4,"56,589",tt0099365,N/A
+0,Dune,1984,PG-13,14 Dec 1984,137 min,40,6.5,"119,802",tt0087182,N/A
+0,Cowboys & Aliens,2011,PG-13,29 Jul 2011,119 min,50,6.0,"203,646",tt0409847,"$100,215,116"
+0,Chronicle,2012,PG-13,03 Feb 2012,84 min,69,7.0,"236,421",tt1706593,"$60,800,000"
+0,eXistenZ,1999,R,23 Apr 1999,97 min,68,6.8,"91,724",tt0120907,N/A
+0,Brazil,1985,R,18 Dec 1985,132 min,84,7.9,"183,229",tt0088846,N/A
+0,Battle Los Angeles,2011,PG-13,11 Mar 2011,116 min,37,5.7,"172,012",tt1217613,"$83,537,651"
+0,Blade Runner,1982,R,25 Jun 1982,117 min,84,8.1,"671,833",tt0083658,N/A
+0,Black Panther,2018,PG-13,16 Feb 2018,134 min,88,7.3,"587,388",tt1825683,"$501,105,037"
+0,Little Nicky,2000,PG-13,10 Nov 2000,90 min,38,5.3,"95,788",tt0185431,"$38,542,597"
+0,Arcade,1993,R,30 Mar 1994,85 min,N/A,4.7,"1,442",tt0106302,N/A
+0,Leviathan,2014,R,05 Feb 2015,140 min,92,7.6,"47,377",tt2802154,"$754,393"
+0,Legion,2010,R,22 Jan 2010,100 min,32,5.2,"97,302",tt1038686,"$40,168,080"
+0,Avatar,2009,PG-13,18 Dec 2009,162 min,83,7.8,"1,095,138",tt0499549,"$749,700,000"
+0,Jurassic Park III,2001,PG-13,18 Jul 2001,92 min,42,5.9,"288,763",tt0163025,N/A
+0,The Making of 'Jurassic Park: The Lost World',1997,N/A,N/A,13 min,N/A,7.1,52,tt0369690,N/A
+0,Jennifer's Body,2009,R,18 Sep 2009,102 min,47,5.2,"111,913",tt1131734,"$16,031,583"
+0,Lake Placid,1999,R,16 Jul 1999,82 min,34,5.7,"53,156",tt0139414,N/A
+0,Jaws 2,1978,PG,16 Jun 1978,116 min,51,5.8,"68,798",tt0077766,N/A
+0,Jaws,1975,PG,20 Jun 1975,124 min,87,8.0,"531,727",tt0073195,N/A
+0,Armageddon,1998,PG-13,01 Jul 1998,151 min,42,6.7,"387,888",tt0120591,N/A
+0,Land of the Dead,2005,R,24 Jun 2005,93 min,71,6.2,"90,019",tt0418819,"$20,433,940"
+0,Jurassic Park,1993,PG-13,11 Jun 1993,127 min,68,8.1,"836,515",tt0107290,"$45,299,680"
+0,Insidious,2010,PG-13,01 Apr 2011,103 min,52,6.8,"269,122",tt1591095,"$53,700,000"
+0,Interview with the Vampire: The Vampire Chronicles,1994,R,11 Nov 1994,123 min,59,7.6,"287,024",tt0110148,N/A
+0,It,2017,R,08 Sep 2017,135 min,69,7.3,"436,909",tt1396484,"$326,898,358"
+0,Jason X,2001,R,26 Apr 2002,91 min,25,4.4,"48,982",tt0211443,"$12,610,731"
+0,House of 1000 Corpses,2003,R,11 Apr 2003,89 min,31,6.1,"74,271",tt0251736,"$12,583,510"
+0,Hollow Man,2000,R,04 Aug 2000,112 min,24,5.8,"121,015",tt0164052,"$72,055,301"
+0,I Spit on Your Grave,2010,R,20 Jan 2011,108 min,27,6.3,"73,601",tt1242432,"$92,401"
+0,Heavy Metal,1981,R,07 Aug 1981,86 min,51,6.7,"30,539",tt0082509,N/A
+0,Hellboy,2004,PG-13,02 Apr 2004,122 min,72,6.8,"301,177",tt0167190,"$59,035,104"
+0,Hellraiser,1987,R,18 Sep 1987,94 min,57,7.0,"99,356",tt0093177,N/A
+0,Hellraiser: Hellseeker,2002,R,15 Oct 2002,89 min,46,5.0,"10,764",tt0274546,N/A
+0,Hellbound: Hellraiser II,1988,R,23 Dec 1988,97 min,41,6.5,"40,301",tt0095294,N/A
+0,Grabbers,2012,Not Rated,10 Aug 2012,94 min,62,6.3,"16,540",tt1525366,N/A
+0,Gremlins 2: The New Batch,1990,PG-13,15 Jun 1990,106 min,N/A,6.4,"89,769",tt0099700,N/A
+0,Gremlins,1984,PG,08 Jun 1984,106 min,70,7.3,"190,722",tt0087363,N/A
+0,Halloween: The Curse of Michael Myers,1995,R,29 Sep 1995,87 min,10,4.9,"30,004",tt0113253,N/A
+0,Ginger Snaps,2000,Not Rated,11 May 2001,108 min,70,6.8,"40,534",tt0210070,N/A
+0,Halloween,1978,R,27 Oct 1978,91 min,87,7.8,"220,388",tt0077651,N/A
+0,From Dusk Till Dawn,1996,R,19 Jan 1996,108 min,48,7.2,"278,873",tt0116367,N/A
+0,Heavenly Creatures,1994,R,14 Oct 1994,99 min,N/A,7.3,"57,795",tt0110005,N/A
+0,Ghost Ship,2002,R,25 Oct 2002,91 min,28,5.5,"91,186",tt0288477,"$30,100,000"
+0,Hannibal,2001,R,09 Feb 2001,131 min,57,6.8,"247,645",tt0212985,"$163,877,858"
+0,Amour,2012,PG-13,20 Sep 2012,127 min,94,7.9,"90,346",tt1602620,"$6,700,000"
+0,Almost Famous,2000,R,22 Sep 2000,122 min,90,7.9,"244,995",tt0181875,"$31,716,715"
+0,10 Things I Hate About You,1999,PG-13,31 Mar 1999,97 min,70,7.3,"286,162",tt0147800,N/A
+0,17 Again,2009,PG-13,17 Apr 2009,102 min,48,6.3,"175,034",tt0974661,"$64,087,443"
+0,Airplane!,1980,PG,02 Jul 1980,88 min,78,7.7,"204,730",tt0080339,N/A
+0,Alien Nation,1988,R,07 Oct 1988,91 min,45,6.3,"13,735",tt0094631,N/A
+0,500 Days of Summer,2009,PG-13,07 Aug 2009,95 min,76,7.7,"461,195",tt1022603,"$32,118,648"
+0,2001: A Space Odyssey,1968,G,12 May 1968,149 min,84,8.3,"581,882",tt0062622,"$135,620"
+0,Quantum Project,2000,N/A,05 May 2000,40 min,N/A,5.9,39,tt0239860,N/A
+0,12 Monkeys,1995,R,05 Jan 1996,129 min,74,8.0,"565,400",tt0114746,N/A
+0,9,2009,PG-13,09 Sep 2009,79 min,60,7.1,"130,452",tt0472033,"$31,691,649"
+0,My Mother Dreams the Satan's Disciples in New York,1998,N/A,01 Oct 1998,30 min,N/A,7.2,108,tt0177023,N/A
+0,Wild Things: Diamonds in the Rough,2005,R,19 Feb 2005,87 min,N/A,4.5,"4,528",tt0448179,N/A
+0,Whiteout,2009,R,11 Sep 2009,101 min,N/A,5.5,"36,710",tt0365929,"$10,300,000"
+0,What Lies Beneath,2000,PG-13,21 Jul 2000,130 min,51,6.6,"115,116",tt0161081,"$155,018,556"
+0,Vanilla Sky,2001,R,14 Dec 2001,136 min,45,6.9,"242,934",tt0259711,N/A
+0,Unknown,2011,PG-13,18 Feb 2011,113 min,56,6.8,"243,834",tt1401152,"$63,677,735"
+0,Twin Peaks,1990–1991,TV-MA,08 Apr 1990,47 min,N/A,8.8,"167,193",tt0098936,
+0,Thunderheart,1992,R,03 Apr 1992,119 min,N/A,6.8,"13,569",tt0105585,N/A
+0,Tinker Tailor Soldier Spy,2011,R,06 Jan 2012,122 min,85,7.1,"182,286",tt1340800,"$20,200,000"
+0,Super 8,2011,PG-13,10 Jun 2011,112 min,72,7.0,"332,405",tt1650062,"$126,975,169"
+0,Strange Days,1995,R,13 Oct 1995,145 min,66,7.2,"65,550",tt0114558,N/A
+0,Source Code,2011,PG-13,01 Apr 2011,93 min,74,7.5,"473,918",tt0945513,"$54,696,902"
+0,Stir of Echoes,1999,R,10 Sep 1999,99 min,67,7.0,"72,713",tt0164181,N/A
+0,Six Degrees of Separation,1993,R,08 Dec 1993,112 min,72,6.8,"19,325",tt0108149,N/A
+0,The Sixth Sense: The Actors,2000,N/A,28 Mar 2000,7 min,N/A,7.1,7,tt5447522,N/A
+0,Sleepy Hollow,1999,R,19 Nov 1999,105 min,65,7.3,"320,922",tt0162661,N/A
+0,Sherlock Holmes,2009,PG-13,25 Dec 2009,128 min,57,7.6,"570,347",tt0988045,"$208,711,166"
+0,Se7en,1995,R,22 Sep 1995,127 min,65,8.6,"1,386,280",tt0114369,N/A
+0,Scream 3,2000,R,04 Feb 2000,116 min,56,5.6,"120,066",tt0134084,N/A
+0,Scream,1996,R,20 Dec 1996,111 min,65,7.2,"276,236",tt0117571,N/A
+0,Scream 2,1997,R,12 Dec 1997,120 min,63,6.2,"152,234",tt0120082,N/A
+0,S. Darko,2009,R,21 Aug 2009,103 min,N/A,3.6,"13,023",tt1231277,N/A
+0,Red Riding Hood,2011,PG-13,11 Mar 2011,100 min,29,5.5,"105,800",tt1486185,"$37,200,000"
+0,Ringu,1998,Not Rated,31 Jan 1998,96 min,N/A,7.2,"61,624",tt0178868,N/A
+0,Saw,2004,R,29 Oct 2004,103 min,46,7.6,"369,218",tt0387564,"$55,100,000"
+0,Prom Night,2008,PG-13,11 Apr 2008,88 min,17,3.9,"33,088",tt0926129,"$43,818,159"
+0,Prometheus,2012,R,08 Jun 2012,124 min,64,7.0,"557,392",tt1446714,"$126,464,904"
+0,Valkyrie,2008,PG-13,25 Dec 2008,121 min,56,7.1,"223,731",tt0985699,"$82,989,109"
+0,Rear Window,1954,PG,01 Sep 1954,112 min,100,8.4,"428,644",tt0047396,N/A
+0,Tropic Thunder,2008,R,13 Aug 2008,107 min,71,7.0,"369,925",tt0942385,"$110,416,702"
+0,Schindler's List,1993,R,04 Feb 1994,195 min,94,8.9,"1,171,229",tt0108052,N/A
+0,Three Kings,1999,R,01 Oct 1999,114 min,82,7.1,"157,590",tt0120188,N/A
+0,Saving Private Ryan,1998,R,24 Jul 1998,169 min,91,8.6,"1,193,695",tt0120815,N/A
+0,Pearl Harbor,2001,PG-13,25 May 2001,183 min,44,6.2,"305,436",tt0213149,"$197,761,540"
+0,Platoon,1986,R,06 Feb 1987,120 min,92,8.1,"370,072",tt0091763,N/A
+0,Inglourious Basterds,2009,R,21 Aug 2009,153 min,69,8.3,"1,217,923",tt0361748,"$120,523,073"
+0,Coriolanus,2011,R,20 Jan 2012,123 min,79,6.1,"30,473",tt1372686,"$487,578"
+0,Defiance,2008,R,16 Jan 2009,137 min,58,7.2,"134,977",tt1034303,"$28,622,873"
+0,From Here to Eternity,1953,Passed,28 Aug 1953,118 min,85,7.6,"41,623",tt0045793,N/A
+0,Cold Mountain,2003,R,25 Dec 2003,154 min,73,7.2,"137,116",tt0159365,N/A
+0,Hotel Rwanda,2004,PG-13,04 Feb 2005,121 min,79,8.1,"326,991",tt0395169,"$23,472,900"

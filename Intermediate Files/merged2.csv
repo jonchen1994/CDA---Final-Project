@@ -1,0 +1,832 @@
+,Film_x,Genre,A,B,D,F,S,test,Unnamed: 0,Film_y,Year,Rated,Released,Runtime,Metascore,imdbRating,imdbVotes,imdbID,BoxOffice
+0,127 Hours,Adventure,3,0,1,18,6,127 hours,0,127 Hours,2010.0,R,28 Jan 2011,94 min,82.0,7.6,"339,139",tt1542344,"$18,329,466"
+1,127 Hours,Thriller,3,0,1,18,6,127 hours,0,127 Hours,2010.0,R,28 Jan 2011,94 min,82.0,7.6,"339,139",tt1542344,"$18,329,466"
+2,15 Minutes,Action,4,0,3,28,16,15 minutes,0,15 Minutes,2001.0,R,09 Mar 2001,120 min,34.0,6.1,"47,723",tt0179626,"$24,160,216"
+3,15 Minutes,Thriller,4,0,3,28,16,15 minutes,0,15 Minutes,2001.0,R,09 Mar 2001,120 min,34.0,6.1,"47,723",tt0179626,"$24,160,216"
+4,1492: Conquest of Paradise,Adventure,2,0,3,1,1,1492: conquest of paradise,0,1492: Conquest of Paradise,1992.0,PG-13,09 Oct 1992,154 min,47.0,6.5,"27,491",tt0103594,
+5,1492: Conquest of Paradise,Adventure,2,0,3,1,1,1492: conquest of paradise,0,1492: Conquest of Paradise,1992.0,PG-13,09 Oct 1992,154 min,47.0,6.5,"27,491",tt0103594,
+6,2012,Action,4,0,5,1,8,2012,0,2012,2009.0,PG-13,13 Nov 2009,158 min,49.0,5.8,"345,022",tt1190080,"$166,112,167"
+7,2012,Sci-Fi,4,0,5,1,8,2012,0,2012,2009.0,PG-13,13 Nov 2009,158 min,49.0,5.8,"345,022",tt1190080,"$166,112,167"
+8,Lord of Illusions,Horror,2,1,4,32,18,lord of illusions,0,Lord of Illusions,1995.0,R,25 Aug 1995,109 min,,6.1,"14,199",tt0113690,
+9,Mimic,Horror,1,1,1,16,17,mimic,0,Mimic,1997.0,R,22 Aug 1997,105 min,55.0,5.9,"44,905",tt0119675,
+10,War Horse,War,0,0,1,0,0,war horse,0,War Horse,2011.0,PG-13,25 Dec 2011,146 min,72.0,7.2,"143,515",tt1568911,"$79,883,359"
+11,Station West,Western,0,0,0,0,0,station west,0,Station West,1948.0,Approved,01 Sep 1948,97 min,,6.6,882,tt0040835,
+12,Suspect Zero,Horror,4,0,3,31,13,suspect zero,0,Suspect Zero,2004.0,R,27 Aug 2004,99 min,37.0,5.8,"18,572",tt0324127,"$8,570,393"
+13,Manhunter,Horror,2,3,6,8,5,manhunter,0,Manhunter,1986.0,R,15 Aug 1986,120 min,75.0,7.2,"63,266",tt0091474,
+14,Aliens,Horror,4,3,6,22,14,aliens,0,Aliens,1986.0,R,18 Jul 1986,137 min,84.0,8.3,"634,359",tt0090605,
+15,Swordfish,Thriller,11,2,2,29,18,swordfish,0,Swordfish,2001.0,R,08 Jun 2001,99 min,32.0,6.5,"173,365",tt0244244,
+16,U Turn,Thriller,17,15,23,63,27,u turn,0,U Turn,1997.0,R,03 Oct 1997,125 min,54.0,6.8,"48,185",tt0120399,
+17,Take Shelter,Thriller,1,2,1,4,10,take shelter,0,Take Shelter,2011.0,R,10 Nov 2011,120 min,85.0,7.4,"88,699",tt1675192,"$1,600,000"
+18,Syriana,Thriller,4,0,8,19,12,syriana,0,Syriana,2005.0,R,09 Dec 2005,128 min,76.0,6.9,"123,836",tt0365737,"$50,800,000"
+19,Training Day,Thriller,44,11,6,121,104,training day,0,Training Day,2001.0,R,05 Oct 2001,122 min,69.0,7.7,"378,654",tt0139654,
+20,Two For The Money,Thriller,16,6,12,104,22,two for the money,0,Two for the Money,2005.0,R,07 Oct 2005,122 min,50.0,6.3,"42,584",tt0417217,"$22,862,049"
+21,Wall Street: Money Never Sleeps,Drama,6,3,3,35,12,wall street: money never sleeps,0,Wall Street: Money Never Sleeps,2010.0,PG-13,24 Sep 2010,133 min,59.0,6.2,"96,388",tt1027718,"$52,474,616"
+22,Warm Springs,Drama,0,3,13,0,0,warm springs,0,Warm Springs,2005.0,Not Rated,30 Apr 2005,121 min,,7.5,"2,473",tt0423510,
+23,You Can Count On Me,Drama,4,1,4,15,16,you can count on me,0,You Can Count on Me,2000.0,R,22 Dec 2000,111 min,85.0,7.5,"27,273",tt0203230,"$8,409,329"
+24,Warrior,Drama,1,3,3,1,14,warrior,0,Warrior,2011.0,PG-13,09 Sep 2011,140 min,71.0,8.2,"423,944",tt1291584,"$13,600,000"
+25,Under Fire,Drama,4,2,7,29,4,under fire,0,Under Fire,1983.0,R,21 Oct 1983,128 min,,7.0,"6,556",tt0086510,
+26,Trainspotting,Drama,0,0,0,104,5,trainspotting,0,Trainspotting,1996.0,R,09 Aug 1996,93 min,83.0,8.1,"619,568",tt0117951,
+27,Sling Blade,Drama,10,7,17,17,11,sling blade,0,Sling Blade,1996.0,R,14 Mar 1997,135 min,84.0,8.0,"85,323",tt0117666,
+28,Taking Sides,Drama,0,0,3,8,6,taking sides,0,Taking Sides,2001.0,Not Rated,07 Mar 2002,108 min,61.0,7.2,"2,993",tt0260414,
+29,Thirteen Days,Drama,11,3,16,8,16,thirteen days,0,Thirteen Days,2000.0,PG-13,12 Jan 2001,145 min,67.0,7.3,"52,749",tt0146309,
+30,Straight Outta Compton,Drama,40,9,22,161,159,straight outta compton,0,Straight Outta Compton,2015.0,R,14 Aug 2015,147 min,72.0,7.9,"175,063",tt1398426,"$129,402,415"
+31,Sugar,Drama,2,0,3,8,15,sugar,0,Sugar,2008.0,R,24 Apr 2009,114 min,82.0,7.2,"4,503",tt0990413,"$1,037,595"
+32,Snow Falling On Cedars,Drama,2,4,3,5,1,snow falling on cedars,0,Snow Falling on Cedars,1999.0,PG-13,07 Jan 2000,127 min,44.0,6.7,"13,473",tt0120834,
+33,Rebel Without A Cause,Drama,0,0,0,0,0,rebel without a cause,0,Rebel Without a Cause,1955.0,PG-13,24 Nov 1955,111 min,89.0,7.7,"81,022",tt0048545,
+34,Raging Bull,Drama,10,3,2,67,7,raging bull,0,Raging Bull,1980.0,R,19 Dec 1980,129 min,89.0,8.2,"310,546",tt0081398,
+35,Room,Drama,1,0,1,2,3,room,0,Room,2015.0,R,22 Jan 2016,118 min,86.0,8.1,"351,480",tt3170832,"$14,677,654"
+36,Shame,Drama,10,1,0,68,6,shame,0,Shame,2011.0,NC-17,13 Jan 2012,101 min,72.0,7.2,"178,488",tt1723811,"$2,971,782"
+37,Precious,Drama,22,19,8,15,13,precious,0,Precious,2009.0,R,20 Nov 2009,110 min,78.0,7.3,"103,598",tt0929632,"$47,536,959"
+38,Shampoo,Drama,6,5,5,32,17,shampoo,0,Shampoo,1975.0,R,13 Mar 1975,109 min,65.0,6.3,"10,200",tt0073692,
+39,RKO 281,Drama,1,3,22,26,12,rko 281,0,RKO 281,1999.0,R,20 Nov 1999,86 min,,7.0,"5,558",tt0120801,
+40,Rush,Drama,13,0,0,8,6,rush,0,Rush,2013.0,R,27 Sep 2013,123 min,74.0,8.1,"419,377",tt1979320,"$22,442,876"
+41,Rambling Rose,Drama,4,13,27,0,3,rambling rose,0,Rambling Rose,1991.0,R,20 Sep 1991,112 min,,6.6,"4,482",tt0102753,
+42,This Boy's Life,Drama,6,3,13,12,10,this boy's life,0,This Boy's Life,1993.0,R,23 Apr 1993,115 min,60.0,7.3,"45,100",tt0108330,
+43,To Sleep with Anger,Drama,4,0,11,0,0,to sleep with anger,0,To Sleep with Anger,1990.0,PG,12 Oct 1990,102 min,,7.3,"1,640",tt0100791,
+44,Purple Rain,Drama,8,2,3,22,11,purple rain,0,Purple Rain,1984.0,R,27 Jul 1984,111 min,55.0,6.6,"18,889",tt0087957,
+45,Top Gun,Drama,3,6,14,0,11,top gun,0,Top Gun,1986.0,PG,16 May 1986,110 min,50.0,6.9,"283,087",tt0092099,
+46,Pariah,Drama,8,0,13,10,14,pariah,0,Pariah,2011.0,R,20 Jan 2011,86 min,79.0,7.2,"5,885",tt1233334,"$758,099"
+47,Petulia,Drama,1,1,9,0,0,petulia,0,Petulia,1968.0,R,02 Sep 1968,105 min,,7.1,"2,705",tt0063426,
+48,Wonder Boys,Comedy,3,1,6,14,14,wonder boys,0,Wonder Boys,2000.0,R,25 Feb 2000,107 min,73.0,7.3,"60,120",tt0185014,
+49,Wag the Dog,Comedy,1,0,2,8,5,wag the dog,0,Wag the Dog,1997.0,R,09 Jan 1998,97 min,73.0,7.2,"77,317",tt0120885,
+50,Win Win,Comedy,3,0,3,19,32,win win,0,Win Win,2011.0,R,15 Apr 2011,106 min,75.0,7.1,"52,319",tt1606392,"$10,100,000"
+51,What About Bob?,Comedy,6,4,1,0,3,what about bob?,0,What About Bob?,1991.0,PG,17 May 1991,99 min,60.0,7.0,"60,767",tt0103241,
+52,Ordinary People,Drama,8,1,14,10,12,ordinary people,0,Ordinary People,1980.0,R,19 Sep 1980,124 min,86.0,7.7,"45,278",tt0081283,
+53,Philadelphia,Drama,6,1,7,17,13,philadelphia,0,Philadelphia,1993.0,PG-13,14 Jan 1994,125 min,66.0,7.7,"217,505",tt0107818,
+54,Sunshine Cleaning,Comedy,4,0,7,15,21,sunshine cleaning,0,Sunshine Cleaning,2008.0,R,17 Apr 2009,91 min,61.0,6.8,"68,621",tt0862846,"$12,033,702"
+55,Swingers,Comedy,19,26,3,26,25,swingers,0,Swingers,1996.0,R,11 Apr 1997,96 min,71.0,7.2,"73,586",tt0117802,
+56,Tin Men,Comedy,15,15,17,27,15,tin men,0,Tin Men,1987.0,R,13 Mar 1987,112 min,75.0,6.5,"7,527",tt0094155,
+57,Sugar and Spice,Comedy,17,6,5,9,28,sugar and spice,0,Sugar and Spice,1989–,,06 Apr 1989,25 min,,8.1,23,tt0363379,
+58,My Week with Marilyn,Drama,1,0,2,12,3,my week with marilyn,0,My Week with Marilyn,2011,R,23 Dec 2011,99 min,65.0,7.0,"82,007",tt1655420,"$12,600,000"
+59,Mud,Drama,11,8,4,0,28,mud,0,Mud,2012,PG-13,10 May 2013,130 min,76.0,7.4,"163,320",tt1935179,"$21,589,307"
+60,Moneyball,Drama,8,1,0,8,10,moneyball,0,Moneyball,2011,PG-13,23 Sep 2011,133 min,87.0,7.6,"349,587",tt1210166,"$75,605,492"
+61,This is 40,Comedy,14,8,6,63,17,this is 40,0,This Is 40,2012,R,21 Dec 2012,134 min,59.0,6.2,"124,171",tt1758830,"$65,200,000"
+62,Music of the Heart,Drama,1,1,2,0,3,music of the heart,0,Music of the Heart,1999,PG,29 Oct 1999,124 min,54.0,6.8,"11,502",tt0166943,
+63,Superbad,Comedy,28,16,4,123,71,superbad,0,Superbad,2007,R,17 Aug 2007,113 min,76.0,7.6,"508,694",tt0829482,"$121,463,226"
+64,"Synecdoche, New York",Comedy,5,0,2,37,5,"synecdoche, new york",0,"Synecdoche, New York",2008,R,05 Feb 2009,124 min,67.0,7.6,"78,444",tt0383028,"$3,000,000"
+65,One Flew Over the Cuckoo's Nest,Drama,14,3,4,12,8,one flew over the cuckoo's nest,0,One Flew Over the Cuckoo's Nest,1975,R,19 Nov 1975,133 min,83.0,8.7,"884,641",tt0073486,
+66,Milk,Drama,5,0,7,8,12,milk,0,Milk,2008,R,30 Jan 2009,128 min,84.0,7.5,"161,742",tt1013753,"$31,716,847"
+67,Smashed,Comedy,5,7,4,40,17,smashed,0,Smashed,2012,R,14 Dec 2012,81 min,71.0,6.8,"16,181",tt2063781,"$375,981"
+68,Sexual Life,Comedy,5,1,2,10,7,sexual life,0,Sexual Life,2004,R,19 Jun 2004,96 min,,5.0,900,tt0376874,
+69,Saving Mr. Banks,Comedy,0,0,1,0,0,saving mr. banks,0,Saving Mr. Banks,2013,PG-13,20 Dec 2013,125 min,65.0,7.5,"147,963",tt2140373,"$53,260,198"
+70,Real Genius,Comedy,0,0,0,0,0,real genius,0,Real Genius,1985,PG,07 Aug 1985,108 min,71.0,7.0,"29,339",tt0089886,
+71,State and Main,Comedy,4,3,3,6,3,state and main,0,State and Main,2000,R,12 Jan 2001,105 min,75.0,6.7,"20,113",tt0120202,"$5,770,800"
+72,Little Men,Drama,0,2,2,1,1,little men,0,Little Men,2016,PG,04 May 2017,85 min,86.0,6.7,"6,675",tt4919484,"$702,191"
+73,Raising Arizona,Comedy,4,8,20,3,13,raising arizona,0,Raising Arizona,1987,PG-13,17 Apr 1987,94 min,68.0,7.3,"123,452",tt0093822,
+74,Semi-Pro,Comedy,17,3,8,24,28,semi-pro,0,Semi-Pro,2008,R,29 Feb 2008,91 min,47.0,5.8,"77,000",tt0839980,"$33,370,443"
+75,Lincoln,Drama,0,2,18,1,3,lincoln,0,Lincoln,2012,PG-13,16 Nov 2012,150 min,86.0,7.3,"239,062",tt0443272,"$129,477,447"
+76,Magnolia,Drama,13,6,10,168,34,magnolia,0,Magnolia,1999,R,07 Jan 2000,188 min,77.0,8.0,"282,457",tt0175880,
+77,Malcolm X,Drama,2,9,4,1,13,malcolm x,0,Malcolm X,1992,PG-13,18 Nov 1992,202 min,72.0,7.7,"82,459",tt0104797,
+78,Margaret,Drama,6,1,3,49,12,margaret,0,Margaret,2011,R,01 Jun 2012,150 min,61.0,6.4,"15,594",tt0466893,"$46,495"
+79,Stepmom,Comedy,3,2,10,13,9,stepmom,0,Stepmom,1998,PG-13,25 Dec 1998,125 min,58.0,6.8,"58,507",tt0120686,
+80,Light Sleeper,Drama,5,1,2,26,8,light sleeper,0,Light Sleeper,1992,R,13 Mar 1992,103 min,70.0,6.9,"5,232",tt0102307,
+81,Kundun,Drama,0,0,0,0,0,kundun,0,Kundun,1997,PG-13,16 Jan 1998,134 min,74.0,7.0,"25,507",tt0119485,
+82,Papadopoulos & Sons,Comedy,0,1,0,7,4,papadopoulos & sons,0,Papadopoulos & Sons,2012,Not Rated,05 Apr 2013,105 min,,6.0,"2,228",tt2006810,
+83,Peggy Sue Got Married,Comedy,0,1,10,0,3,peggy sue got married,0,Peggy Sue Got Married,1986,PG-13,10 Oct 1986,103 min,74.0,6.3,"31,521",tt0091738,
+84,Storytelling,Comedy,2,2,1,19,6,storytelling,0,Storytelling,2001,R,08 Nov 2001,87 min,50.0,6.8,"16,848",tt0250081,"$850,758"
+85,Midnight Cowboy,Drama,3,3,3,0,1,midnight cowboy,0,Midnight Cowboy,1969,R,16 Jun 1969,113 min,79.0,7.8,"97,754",tt0064665,
+86,Napoleon Dynamite,Comedy,0,0,0,0,0,napoleon dynamite,0,Napoleon Dynamite,2004,PG,27 Aug 2004,96 min,64.0,6.9,"193,466",tt0374900,"$44,478,018"
+87,Next Friday,Comedy,46,7,29,32,26,next friday,0,Next Friday,2000,R,12 Jan 2000,98 min,41.0,6.2,"35,810",tt0195945,
+88,Office Space,Comedy,13,3,3,12,23,office space,0,Office Space,1999,R,19 Feb 1999,89 min,68.0,7.7,"236,377",tt0151804,
+89,Mumford,Comedy,5,3,3,6,6,mumford,0,Mumford,1999,R,24 Sep 1999,112 min,62.0,6.8,"8,660",tt0140397,
+90,Invictus,Drama,1,0,2,0,4,invictus,0,Invictus,2009,PG-13,11 Dec 2009,134 min,74.0,7.3,"146,753",tt1057500,"$37,431,431"
+91,Margot at the Wedding,Comedy,4,1,0,39,11,margot at the wedding,0,Margot at the Wedding,2007,R,14 Dec 2007,91 min,66.0,6.0,"19,133",tt0757361,"$1,929,081"
+92,Major League,Comedy,5,2,8,14,25,major league,0,Major League,1989,R,07 Apr 1989,107 min,62.0,7.2,"60,183",tt0097815,
+93,Kafka,Drama,0,0,1,0,0,kafka,0,Kafka,1991,PG-13,15 Nov 1991,98 min,46.0,6.9,"9,089",tt0102181,
+94,I am Sam,Drama,1,1,6,1,1,i am sam,0,I Am Sam,2001,PG-13,25 Jan 2002,132 min,28.0,7.7,"140,577",tt0277027,"$40,270,895"
+95,Meet John Doe,Comedy,0,0,0,0,0,meet john doe,0,Meet John Doe,1941,Not Rated,03 May 1941,122 min,,7.7,"11,442",tt0033891,
+96,Hitchcock,Drama,0,1,3,0,0,hitchcock,0,Hitchcock,2012,PG-13,14 Dec 2012,98 min,55.0,6.8,"70,613",tt0975645,"$6,002,708"
+97,Man on the Moon,Comedy,6,0,3,6,6,man on the moon,0,Man on the Moon,1999,R,22 Dec 1999,118 min,58.0,7.4,"121,427",tt0125664,
+98,Malibu's Most Wanted,Comedy,37,17,30,1,7,malibu's most wanted,0,Malibu's Most Wanted,2003,PG-13,18 Apr 2003,86 min,43.0,5.1,"18,248",tt0328099,"$34,308,901"
+99,Living in Oblivion,Comedy,8,0,5,47,13,living in oblivion,0,Living in Oblivion,1995,R,21 Jul 1995,90 min,81.0,7.5,"15,918",tt0113677,
+100,Kids,Drama,9,12,2,99,42,kids,0,Kids,1995,Unrated,01 Sep 1995,91 min,63.0,7.1,"71,099",tt0113540,
+101,Hesher,Drama,8,2,0,98,24,hesher,0,Hesher,2010,R,25 Jun 2011,106 min,45.0,7.0,"49,780",tt1403177,"$300,000"
+102,Legally Blonde,Comedy,13,5,3,2,3,legally blonde,0,Legally Blonde,2001,PG-13,13 Jul 2001,96 min,59.0,6.3,"178,156",tt0250494,"$95,001,351"
+103,Life,Comedy,13,10,28,19,16,life,0,Life,2017,R,24 Mar 2017,104 min,54.0,6.6,"199,775",tt5442430,"$30,180,466"
+104,Life As A House,Comedy,4,1,2,16,11,life as a house,0,Life as a House,2001,R,09 Nov 2001,125 min,45.0,7.5,"42,248",tt0264796,"$15,412,701"
+105,Little Athens,Comedy,41,11,1,136,79,little athens,0,Little Athens,2005,R,01 Jun 2005,103 min,,5.6,902,tt0417907,
+106,Gladiator,Drama,1,0,7,0,1,gladiator,0,Gladiator,2000,R,05 May 2000,155 min,67.0,8.5,"1,295,815",tt0172495,
+107,Get on Up,Drama,6,1,4,9,20,get on up,0,Get on Up,2014,PG-13,01 Aug 2014,139 min,71.0,6.9,"20,086",tt2473602,"$22,838,662"
+108,Gods and Monsters,Drama,4,2,7,11,5,gods and monsters,0,Gods and Monsters,1998,R,04 Nov 1998,105 min,74.0,7.4,"28,694",tt0120684,
+109,Gandhi,Drama,0,0,7,0,0,gandhi,0,Gandhi,1982,PG,25 Feb 1983,191 min,79.0,8.0,"214,287",tt0083987,
+110,Henry Fool,Comedy,5,0,1,17,13,henry fool,0,Henry Fool,1997,R,19 Jun 1998,137 min,68.0,7.2,"6,762",tt0122529,
+111,Human Nature,Comedy,3,5,4,14,8,human nature,0,Human Nature,2001,R,12 Sep 2001,96 min,56.0,6.4,"17,093",tt0219822,"$651,165"
+112,G.I. Jane,Drama,11,3,11,14,17,g.i. jane,0,G.I. Jane,1997,R,22 Aug 1997,125 min,62.0,5.9,"71,574",tt0119173,
+113,Fruitvale Station,Drama,15,11,1,58,40,fruitvale station,0,Fruitvale Station,2013,R,26 Jul 2013,85 min,85.0,7.5,"72,709",tt2334649,"$11,010,136"
+114,Grand Theft Parsons,Comedy,3,5,9,2,9,grand theft parsons,0,Grand Theft Parsons,2003,PG-13,18 Jun 2004,88 min,46.0,6.0,"3,273",tt0338075,
+115,Heathers,Comedy,16,11,22,28,32,heathers,0,Heathers,1989,R,31 Mar 1989,103 min,72.0,7.2,"83,648",tt0097493,
+116,"Happy Birthday, Wanda June",Comedy,4,7,10,10,11,"happy birthday, wanda june",0,"Happy Birthday, Wanda June",1971,R,09 Dec 1971,105 min,,6.1,248,tt0067180,
+117,I'll Do Anything,Comedy,0,2,2,11,11,i'll do anything,0,I'll Do Anything,1994,PG-13,04 Feb 1994,115 min,,5.5,"2,389",tt0110097,
+118,In the Loop,Comedy,2,2,0,150,26,in the loop,0,In the Loop,2009,Not Rated,04 Sep 2009,106 min,83.0,7.4,"53,087",tt1226774,"$2,251,324"
+119,Good Will Hunting,Comedy,13,4,7,93,28,good will hunting,0,Good Will Hunting,1997,R,09 Jan 1998,126 min,70.0,8.3,"829,889",tt0119217,
+120,Game 6,Comedy,0,1,0,0,2,game 6,0,Game 6,2005,R,01 Jan 2005,87 min,56.0,5.8,"2,422",tt0425055,
+121,Five Easy Pieces,Drama,6,3,10,1,13,five easy pieces,0,Five Easy Pieces,1970,R,12 Sep 1970,98 min,85.0,7.5,"32,018",tt0065724,
+122,Foxcatcher,Drama,1,1,0,7,4,foxcatcher,0,Foxcatcher,2014,R,16 Jan 2015,134 min,81.0,7.0,"131,194",tt1100089,"$9,744,477"
+123,Frances,Drama,2,5,15,8,4,frances,0,Frances,1982,R,11 Mar 1983,140 min,48.0,7.4,"6,605",tt0083967,
+124,Funny People,Comedy,9,4,1,101,54,funny people,0,Funny People,2009,R,31 Jul 2009,146 min,60.0,6.3,"112,695",tt1201167,"$51,814,190"
+125,Ghost World,Comedy,9,7,1,28,6,ghost world,0,Ghost World,2001,R,21 Sep 2001,111 min,88.0,7.3,"110,999",tt0162346,"$4,694,484"
+126,Flight,Drama,10,4,6,61,27,flight,0,Flight,2012,R,02 Nov 2012,138 min,76.0,7.3,"317,748",tt1907668,"$89,400,000"
+127,Ferris Bueller's Day Off,Comedy,19,1,4,0,29,ferris bueller's day off,0,Ferris Bueller's Day Off,1986,PG-13,11 Jun 1986,103 min,61.0,7.8,"309,550",tt0091042,
+128,Fletch,Comedy,0,0,0,0,0,fletch,0,Fletch,1985,PG,31 May 1985,98 min,68.0,6.9,"46,314",tt0089155,
+129,Elizabeth: The Golden Age,Drama,0,1,0,0,0,elizabeth: the golden age,0,Elizabeth: The Golden Age,2007,PG-13,12 Oct 2007,114 min,45.0,6.8,"64,844",tt0414055,"$16,264,475"
+130,Four Rooms,Comedy,10,4,4,85,14,four rooms,0,Four Rooms,1995,R,25 Dec 1995,98 min,,6.8,"95,749",tt0113101,
+131,Forrest Gump,Comedy,8,7,17,5,11,forrest gump,0,Forrest Gump,1994,PG-13,06 Jul 1994,142 min,82.0,8.8,"1,737,186",tt0109830,"$330,000,000"
+132,Drop Dead Gorgeous,Comedy,19,10,18,9,10,drop dead gorgeous,0,Drop Dead Gorgeous,1999,PG-13,23 Jul 1999,97 min,28.0,6.6,"31,682",tt0157503,
+133,Fear and Loathing in Las Vegas,Comedy,4,7,48,44,33,fear and loathing in las vegas,0,Fear and Loathing in Las Vegas,1998,R,22 May 1998,118 min,41.0,7.6,"252,866",tt0120669,
+134,Ed Wood,Comedy,5,3,9,11,9,ed wood,0,Ed Wood,1994,R,07 Oct 1994,127 min,70.0,7.8,"162,206",tt0109707,
+135,Election,Comedy,2,3,1,10,2,election,0,Election,1999,R,07 May 1999,103 min,83.0,7.2,"87,166",tt0126886,
+136,Fast Times at Ridgemont High,Comedy,2,4,0,19,10,fast times at ridgemont high,0,Fast Times at Ridgemont High,1982,R,13 Aug 1982,90 min,61.0,7.2,"89,930",tt0083929,
+137,Erin Brockovich,Comedy,12,5,31,33,35,erin brockovich,0,Erin Brockovich,2000,R,17 Mar 2000,131 min,73.0,7.3,"169,051",tt0195685,
+138,Do The Right Thing,Comedy,11,2,6,62,25,do the right thing,0,Do the Right Thing,1989,R,21 Jul 1989,120 min,93.0,7.9,"83,609",tt0097216,
+139,Custody,Comedy,3,2,0,3,3,custody,0,Custody,2017,,07 Feb 2018,93 min,83.0,7.5,"7,590",tt6002232,
+140,Death at a Funeral,Comedy,5,0,19,3,22,death at a funeral,0,Death at a Funeral,2007,R,07 Sep 2007,90 min,67.0,7.4,"106,835",tt0795368,
+141,Code of Silence,Drama,13,3,6,26,16,code of silence,0,Code of Silence,1985,R,03 May 1985,101 min,64.0,6.1,"6,624",tt0088936,
+142,Dear White People,Drama,9,11,9,37,19,dear white people,0,Dear White People,2014,R,04 Dec 2014,108 min,79.0,6.1,"23,926",tt2235108,
+143,Creation,Drama,0,0,3,0,3,creation,0,Creation,2009,PG-13,25 Sep 2009,108 min,51.0,6.7,"13,626",tt0974014,"$300,000"
+144,Dallas Buyers Club,Drama,12,4,9,58,37,dallas buyers club,0,Dallas Buyers Club,2013,R,22 Nov 2013,117 min,80.0,8.0,"426,639",tt0790636,"$23,750,994"
+145,Dead Poets Society,Drama,1,0,6,0,3,dead poets society,0,Dead Poets Society,1989,PG,09 Jun 1989,128 min,79.0,8.1,"407,143",tt0097165,
+146,Diner,Comedy,4,3,1,4,5,diner,0,Diner,1982,R,21 May 1982,110 min,82.0,7.1,"18,111",tt0083833,
+147,Days of Heaven,Drama,0,0,0,0,0,days of heaven,0,Days of Heaven,1978,PG,06 Oct 1978,94 min,93.0,7.8,"50,241",tt0077405,
+148,Cobb,Drama,16,9,38,40,24,cobb,0,Cobb,1994,R,02 Dec 1994,128 min,66.0,6.4,"6,890",tt0109450,
+149,Bridesmaids,Comedy,7,5,2,6,19,bridesmaids,0,Bridesmaids,2011,R,13 May 2011,125 min,75.0,6.8,"261,565",tt1478338,"$166,500,000"
+150,Charlie's Angels,Comedy,11,6,7,2,8,charlie's angels,0,Charlie's Angels,2000,PG-13,03 Nov 2000,98 min,52.0,5.5,"172,273",tt0160127,"$124,420,707"
+151,City of Joy,Drama,2,0,13,0,0,city of joy,0,City of Joy,1992,PG-13,17 Apr 1992,132 min,,6.5,"4,526",tt0103976,
+152,Cedar Rapids,Comedy,8,1,8,38,34,cedar rapids,0,Cedar Rapids,2011,R,18 Mar 2011,87 min,70.0,6.2,"35,674",tt1477837,"$6,800,000"
+153,Clerks,Comedy,12,10,8,80,38,clerks,0,Clerks,1994,R,09 Nov 1994,92 min,70.0,7.7,"208,478",tt0109445,
+154,Tall in the Saddle,Western,0,0,0,0,0,tall in the saddle,0,Tall in the Saddle,1944,Approved,29 Sep 1944,87 min,,7.0,"2,719",tt0037343,
+155,Bean,Comedy,4,1,11,0,1,bean,0,Bean,1997,PG-13,07 Nov 1997,89 min,52.0,6.5,"94,780",tt0118689,
+156,Candle to Water,Drama,0,11,2,75,15,candle to water,0,Candle to Water,2012,,01 Nov 2012,110 min,,4.6,17,tt2387411,
+157,Bringing Out the Dead,Drama,4,1,4,11,10,bringing out the dead,0,Bringing Out the Dead,1999,R,22 Oct 1999,121 min,70.0,6.8,"62,055",tt0163988,
+158,Boogie Nights,Drama,18,3,3,98,25,boogie nights,0,Boogie Nights,1997,R,31 Oct 1997,155 min,85.0,7.9,"231,876",tt0118749,
+159,Break,Drama,0,0,0,0,0,break,0,Break,2019,,14 Feb 2019,85 min,,4.4,"1,078",tt9805504,
+160,Breaking Away,Drama,1,0,15,0,3,breaking away,0,Breaking Away,1979,PG,20 Jul 1979,101 min,91.0,7.7,"21,018",tt0078902,
+161,Authors Anonymous,Comedy,1,0,6,0,3,authors anonymous,0,Authors Anonymous,2014,PG-13,18 Mar 2014,92 min,16.0,4.3,"1,974",tt2114461,
+162,Boyhood,Drama,13,8,8,41,22,boyhood,0,Boyhood,2014,R,15 Aug 2014,165 min,100.0,7.9,"328,711",tt1065073,"$18,859,617"
+163,Bachelor Party,Comedy,12,3,3,2,21,bachelor party,0,Bachelor Party,1984,R,29 Jun 1984,105 min,56.0,6.3,"34,617",tt0086927,
+164,Black Snake Moan,Drama,10,6,12,29,42,black snake moan,0,Black Snake Moan,2006,R,02 Mar 2007,116 min,52.0,6.9,"59,991",tt0462200,"$9,262,318"
+165,Bad Teacher,Comedy,7,3,2,23,10,bad teacher,0,Bad Teacher,2011,R,24 Jun 2011,92 min,47.0,5.6,"188,694",tt1284575,"$100,292,856"
+166,Bad Boys,Comedy,21,4,6,64,30,bad boys,0,Bad Boys,1995,R,07 Apr 1995,119 min,41.0,6.9,"233,204",tt0112442,
+167,All About Steve,Comedy,9,0,2,1,2,all about steve,0,All About Steve,2009,PG-13,04 Sep 2009,99 min,17.0,4.8,"39,062",tt0881891,"$33,806,061"
+168,After School Special,Comedy,9,0,6,2,14,after school special,0,After School Special,2017,TV-MA,27 Jun 2017,78 min,,2.3,214,tt3291632,
+169,American Milkshake,Comedy,10,0,9,26,22,american milkshake,0,American Milkshake,2013,R,20 Jan 2013,83 min,30.0,4.8,309,tt2254364,
+170,Arthur,Comedy,5,2,1,8,15,arthur,0,Arthur,2011,PG-13,08 Apr 2011,110 min,36.0,5.7,"50,207",tt1334512,"$29,200,000"
+171,American Pie,Comedy,6,0,9,33,29,american pie,0,American Pie,1999,R,09 Jul 1999,95 min,58.0,7.0,"367,618",tt0163651,
+172,Tombstone,Western,4,5,27,1,1,tombstone,0,Tombstone,1993,R,25 Dec 1993,130 min,50.0,7.8,"122,147",tt0108358,
+173,12,Comedy,0,0,0,0,0,12,0,12,2007,PG-13,20 Sep 2007,159 min,72.0,7.7,"13,680",tt0488478,
+174,True Grit,Western,1,3,9,0,0,true grit,0,True Grit,2010,PG-13,22 Dec 2010,110 min,80.0,7.6,"301,962",tt1403865,"$171,031,347"
+175,A Serious Man,Comedy,4,0,0,17,6,a serious man,0,A Serious Man,2009,R,06 Nov 2009,106 min,83.0,7.0,"129,672",tt1019452,"$9,190,525"
+176,Ace Ventura: Pet Detective,Comedy,0,0,0,0,0,ace ventura: pet detective,0,Ace Ventura: Pet Detective,1994,PG-13,04 Feb 1994,86 min,37.0,6.9,"270,197",tt0109040,
+177,Bamboozled,Drama,13,3,12,1,1,bamboozled,0,Bamboozled,2000,R,20 Oct 2000,135 min,50.0,6.5,"9,814",tt0215545,"$1,883,628"
+178,Being There,Drama,6,3,6,1,3,being there,0,Being There,1979,PG,08 Feb 1980,130 min,83.0,8.0,"63,525",tt0078841,
+179,Basquiat,Drama,2,0,3,21,13,basquiat,0,Basquiat,1996,R,09 Aug 1996,107 min,65.0,6.9,"18,958",tt0115632,
+180,Awakenings,Drama,0,0,0,0,0,awakenings,0,Awakenings,1990,PG-13,11 Jan 1991,121 min,74.0,7.8,"119,327",tt0099077,
+181,Anna Karenina,Drama,0,0,3,0,0,anna karenina,0,Anna Karenina,2012,R,07 Sep 2012,129 min,63.0,6.6,"89,166",tt1781769,"$12,802,907"
+182,American Splendor,Drama,6,2,9,3,18,american splendor,0,American Splendor,2003,R,12 Sep 2003,101 min,90.0,7.4,"46,666",tt0305206,"$5,977,550"
+183,An Education,Drama,1,0,0,0,0,an education,0,An Education,2009,PG-13,05 Feb 2010,100 min,85.0,7.3,"126,214",tt1174732,"$12,512,069"
+184,August: Osage County,Drama,12,5,32,38,25,august: osage county,0,August: Osage County,2013,R,10 Jan 2014,121 min,58.0,7.2,"82,453",tt1322269,"$29,202,643"
+185,American Sniper,Drama,20,3,3,60,28,american sniper,0,American Sniper,2014,R,16 Jan 2015,133 min,72.0,7.3,"426,179",tt2179136,"$274,377,268"
+186,American Madness,Drama,0,0,0,0,0,american madness,0,American Madness,1932,Passed,15 Aug 1932,75 min,,7.4,"1,739",tt0022626,
+187,American Graffiti,Drama,7,11,8,0,11,american graffiti,0,American Graffiti,1973,PG,11 Aug 1973,110 min,97.0,7.4,"79,136",tt0069704,
+188,At First Sight,Drama,0,0,0,0,0,at first sight,0,At First Sight,1999,PG-13,15 Jan 1999,128 min,40.0,6.0,"12,687",tt0132512,
+189,Beloved,Drama,0,1,8,0,1,beloved,0,Beloved,1998,R,16 Oct 1998,172 min,57.0,6.0,"6,937",tt0120603,
+190,American Beauty,Drama,7,2,3,21,10,american beauty,0,American Beauty,1999,R,01 Oct 1999,122 min,84.0,8.3,"1,041,670",tt0169547,
+191,Amelia,Drama,2,0,5,1,1,amelia,0,Amelia,2009,PG,23 Oct 2009,111 min,37.0,5.8,"11,770",tt1129445,"$14,195,118"
+192,Wild Wild West,Western,9,0,11,1,5,wild wild west,0,Wild Wild West,1999,PG-13,30 Jun 1999,106 min,38.0,4.9,"150,148",tt0120891,
+193,All About Eve,Drama,0,0,1,0,0,all about eve,0,All About Eve,1950,Passed,27 Oct 1950,138 min,98.0,8.2,"116,403",tt0042192,
+194,All the King's Men,Drama,0,0,0,0,0,all the king's men,0,All the King's Men,2006,PG-13,22 Sep 2006,128 min,37.0,6.2,"23,302",tt0405676,
+195,12 Years a Slave,Drama,0,1,25,1,0,12 years a slave,0,12 Years a Slave,2013,R,08 Nov 2013,134 min,96.0,8.1,"617,390",tt2024544,"$50,628,650"
+196,Ali,Drama,3,0,6,11,2,ali,0,Ali,2001,R,25 Dec 2001,157 min,65.0,6.8,"91,630",tt0248667,"$58,183,966"
+197,50-50,Drama,4,2,2,26,15,50-50,0,50-50,2011,,,15 min,,6.1,34,tt1833204,
+198,Amadeus,Drama,0,0,3,2,6,amadeus,0,Amadeus,1984,R,19 Sep 1984,160 min,88.0,8.3,"357,893",tt0086879,
+199,42,Drama,1,3,8,0,3,42,0,42,2013,PG-13,12 Apr 2013,128 min,62.0,7.5,"81,222",tt0453562,"$95,001,343"
+200,Walking Tall,Thriller,3,1,0,1,1,walking tall,0,Walking Tall,2004,PG-13,02 Apr 2004,86 min,44.0,6.3,"69,155",tt0351977,"$45,860,039"
+201,Affliction,Drama,8,11,22,53,17,affliction,0,Affliction,1997,R,19 Feb 1999,114 min,79.0,7.0,"14,661",tt0118564,
+202,12 and Holding,Drama,9,2,3,10,10,12 and holding,0,12 and Holding,2005,R,07 Jul 2006,94 min,65.0,7.5,"6,623",tt0417385,
+203,Very Bad Things,Thriller,8,2,6,66,11,very bad things,0,Very Bad Things,1998,R,25 Nov 1998,100 min,31.0,6.4,"44,249",tt0124198,
+204,Zero Dark Thirty,Thriller,4,1,1,45,7,zero dark thirty,0,Zero Dark Thirty,2012,R,11 Jan 2013,157 min,95.0,7.4,"264,319",tt1790885,"$95,720,716"
+205,Wild Things,Crime,9,6,4,22,27,wild things,0,Wild Things,1998,R,20 Mar 1998,108 min,52.0,6.5,"105,203",tt0120890,
+206,Wall Street,Crime,7,10,10,3,6,wall street,0,Wall Street,1987,R,11 Dec 1987,126 min,56.0,7.4,"139,830",tt0094291,
+207,We Own the Night,Crime,5,1,5,65,15,we own the night,0,We Own the Night,2007,R,12 Oct 2007,117 min,59.0,6.8,"83,351",tt0498399,"$27,600,000"
+208,Wanted,Crime,10,5,17,23,14,wanted,0,Wanted,2008,R,27 Jun 2008,110 min,64.0,6.7,"353,077",tt0493464,"$134,294,280"
+209,While She Was Out,Crime,12,12,4,5,12,while she was out,0,While She Was Out,2008,R,26 Mar 2009,86 min,40.0,4.8,"6,285",tt0887971,
+210,Ticker,Crime,1,2,2,15,11,ticker,0,Ticker,2001,R,23 Jun 2001,92 min,,3.6,"6,489",tt0196158,
+211,Traffic,Crime,1,0,3,48,17,traffic,0,Traffic,2000,R,05 Jan 2001,147 min,86.0,7.6,"192,068",tt0181865,"$123,836,420"
+212,Phone Booth,Thriller,9,6,8,49,19,phone booth,0,Phone Booth,2002,R,04 Apr 2003,81 min,56.0,7.0,"246,069",tt0183649,"$46,524,362"
+213,Shifty,Thriller,0,0,0,176,14,shifty,0,Shifty,2008,Unrated,24 Apr 2009,85 min,,6.5,"2,826",tt1104126,
+214,Single White Female,Thriller,1,3,1,6,4,single white female,0,Single White Female,1992,R,14 Aug 1992,107 min,63.0,6.4,"31,211",tt0105414,
+215,Spare Me,Thriller,2,1,0,15,3,spare me,0,Spare Me,1994,,03 Sep 1994,,,6.7,27,tt0108200,
+216,Taxi Driver,Crime,5,2,11,23,8,taxi driver,0,Taxi Driver,1976,R,09 Feb 1976,114 min,94.0,8.3,"695,384",tt0075314,
+217,Year One,Adventure,9,0,2,1,5,year one,0,Year One,2009,PG-13,19 Jun 2009,97 min,34.0,4.9,"90,154",tt1045778,"$43,337,279"
+218,White Squall,Adventure,1,7,8,6,9,white squall,0,White Squall,1996,PG-13,02 Feb 1996,129 min,53.0,6.6,"20,658",tt0118158,
+219,xXx,Adventure,11,6,8,0,19,xxx,0,xXx,2002,PG-13,09 Aug 2002,124 min,48.0,5.9,"171,012",tt0295701,"$141,134,092"
+220,Tomorrow Never Dies,Adventure,1,0,7,0,0,tomorrow never dies,0,Tomorrow Never Dies,1997,PG-13,19 Dec 1997,119 min,52.0,6.5,"176,993",tt0120347,
+221,War for the Planet of the Apes,Adventure,0,0,0,1,1,war for the planet of the apes,0,War for the Planet of the Apes,2017,PG-13,14 Jul 2017,140 min,82.0,7.4,"220,013",tt3450958,"$146,872,826"
+222,Thunderbirds,Adventure,1,0,2,0,0,thunderbirds,0,Thunderbirds,2004,PG,30 Jul 2004,95 min,36.0,4.2,"12,891",tt0167456,"$6,768,055"
+223,Thelma & Louise,Crime,15,6,38,18,44,thelma & louise,0,Thelma & Louise,1991,R,24 May 1991,130 min,88.0,7.5,"131,689",tt0103074,
+224,Someone To Watch Over Me,Crime,12,1,8,34,9,someone to watch over me,0,Someone to Watch Over Me,1987,R,09 Oct 1987,106 min,55.0,6.1,"9,057",tt0094008,
+225,Wild Hogs,Adventure,20,8,9,0,12,wild hogs,0,Wild Hogs,2007,PG-13,02 Mar 2007,100 min,27.0,5.8,"112,516",tt0486946,"$168,213,584"
+226,Snatch,Crime,1,0,0,155,9,snatch,0,Snatch,2000,R,19 Jan 2001,102 min,55.0,8.3,"760,412",tt0208092,"$30,093,107"
+227,Spartan,Crime,1,6,0,32,2,spartan,0,Spartan,2004,R,12 Mar 2004,106 min,60.0,6.5,"28,734",tt0360009,"$4,291,858"
+228,Shallow Grave,Crime,0,0,0,5,1,shallow grave,0,Shallow Grave,1994,R,10 Feb 1995,89 min,67.0,7.3,"55,486",tt0111149,
+229,Sicario,Crime,4,1,2,32,9,sicario,0,Sicario,2015,R,02 Oct 2015,121 min,82.0,7.6,"356,809",tt3397884,
+230,Rush Hour,Crime,17,3,23,40,28,rush hour,0,Rush Hour,1998,PG-13,18 Sep 1998,98 min,60.0,7.0,"232,877",tt0120812,
+231,Reservoir Dogs,Crime,31,10,13,200,67,reservoir dogs,0,Reservoir Dogs,1992,R,02 Sep 1992,99 min,79.0,8.3,"888,475",tt0105236,
+232,Rush Hour 2,Crime,16,1,7,0,24,rush hour 2,0,Rush Hour 2,2001,PG-13,03 Aug 2001,90 min,48.0,6.6,"194,706",tt0266915,
+233,Ronin,Crime,7,6,13,35,12,ronin,0,Ronin,1998,R,25 Sep 1998,122 min,67.0,7.3,"168,282",tt0122690,
+234,RocknRolla,Crime,0,0,0,55,11,rocknrolla,0,RocknRolla,2008,R,31 Oct 2008,114 min,53.0,7.3,"229,434",tt1032755,"$5,665,302"
+235,Reindeer Games,Crime,3,2,26,61,14,reindeer games,0,Reindeer Games,2000,R,25 Feb 2000,104 min,37.0,5.8,"36,767",tt0184858,
+236,Smokin' Aces,Crime,17,10,13,65,53,smokin' aces,0,Smokin' Aces,2006,R,26 Jan 2007,108 min,45.0,6.7,"135,631",tt0475394,"$35,600,000"
+237,Scarface,Crime,6,1,3,42,14,scarface,0,Scarface,1983,R,09 Dec 1983,170 min,65.0,8.3,"711,819",tt0086250,"$656,161"
+238,Pineapple Express,Crime,11,5,2,194,61,pineapple express,0,Pineapple Express,2008,R,06 Aug 2008,111 min,64.0,6.9,"308,770",tt0910936,
+239,Panic Room,Thriller,5,0,5,30,12,panic room,0,Panic Room,2002,R,29 Mar 2002,112 min,65.0,6.8,"250,791",tt0258000,"$95,308,367"
+240,Observe and Report,Crime,18,10,34,87,46,observe and report,0,Observe and Report,2009,R,10 Apr 2009,86 min,54.0,5.8,"59,971",tt1197628,"$23,993,605"
+241,Mini's First Time,Crime,2,8,7,25,9,mini's first time,0,Mini's First Time,2006,R,09 Aug 2007,91 min,45.0,5.8,"7,915",tt0425253,"$21,828"
+242,Only God Forgives,Thriller,0,1,0,28,2,only god forgives,0,Only God Forgives,2013,R,22 May 2013,90 min,37.0,5.7,"105,083",tt1602613,"$700,000"
+243,Ocean's Eleven,Thriller,1,2,7,7,14,ocean's eleven,0,Ocean's Eleven,2001,PG-13,07 Dec 2001,116 min,74.0,7.7,"500,741",tt0240772,"$183,349,128"
+244,Public Enemies,Crime,2,5,11,3,3,public enemies,0,Public Enemies,2009,R,01 Jul 2009,140 min,70.0,7.0,"275,023",tt1152836,"$97,000,000"
+245,Ocean's Twelve,Thriller,1,1,6,1,4,ocean's twelve,0,Ocean's Twelve,2004,PG-13,10 Dec 2004,125 min,58.0,6.5,"349,441",tt0349903,"$125,402,117"
+246,Obsessed,Thriller,7,4,6,8,3,obsessed,0,Obsessed,2009,PG-13,24 Apr 2009,108 min,25.0,5.0,"28,685",tt1198138,"$68,261,644"
+247,Nurse Betty,Thriller,12,4,32,45,30,nurse betty,0,Nurse Betty,2000,R,08 Sep 2000,110 min,69.0,6.1,"32,505",tt0171580,
+248,Pulp Fiction,Crime,41,13,22,169,72,pulp fiction,0,Pulp Fiction,1994,R,14 Oct 1994,154 min,94.0,8.9,"1,764,981",tt0110912,
+249,Ninja Assassin,Thriller,1,1,3,29,6,ninja assassin,0,Ninja Assassin,2009,R,25 Nov 2009,99 min,34.0,6.3,"66,929",tt1186367,"$38,105,077"
+250,Nick of Time,Thriller,3,5,4,22,8,nick of time,0,Nick of Time,1995,R,22 Nov 1995,90 min,,6.3,"37,916",tt0113972,
+251,No Country for Old Men,Thriller,5,2,9,2,1,no country for old men,0,No Country for Old Men,2007,R,21 Nov 2007,122 min,91.0,8.1,"823,136",tt0477348,"$74,223,625"
+252,Martha Marcy May Marlene,Thriller,4,0,1,14,5,martha marcy may marlene,0,Martha Marcy May Marlene,2011,R,21 Dec 2011,102 min,75.0,6.9,"47,560",tt1441326,"$2,981,038"
+253,Margin Call,Thriller,2,0,3,67,11,margin call,0,Margin Call,2011,R,29 Sep 2011,107 min,76.0,7.1,"112,802",tt1615147,"$600,000"
+254,Machete,Thriller,10,12,11,50,14,machete,0,Machete,2010,R,03 Sep 2010,105 min,60.0,6.6,"187,641",tt0985694,"$26,200,000"
+255,Snow White and the Huntsman,Adventure,1,0,2,0,0,snow white and the huntsman,0,Snow White and the Huntsman,2012,PG-13,01 Jun 2012,127 min,57.0,6.1,"267,818",tt1735898,"$155,081,785"
+256,Metro,Thriller,5,5,6,45,27,metro,0,Metro,1997,R,17 Jan 1997,117 min,,5.5,"25,096",tt0119664,
+257,Midnight Express,Thriller,14,1,8,43,21,midnight express,0,Midnight Express,1978,R,06 Oct 1978,121 min,59.0,7.6,"71,083",tt0077928,
+258,Point Break,Adventure,14,4,15,54,31,point break,0,Point Break,1991,R,12 Jul 1991,122 min,58.0,7.3,"150,813",tt0102685,
+259,Miller's Crossing,Thriller,1,16,23,1,2,miller's crossing,0,Miller's Crossing,1990,R,05 Oct 1990,115 min,66.0,7.7,"123,096",tt0100150,
+260,Robin Hood: Prince of Thieves,Adventure,2,1,19,0,0,robin hood: prince of thieves,0,Robin Hood: Prince of Thieves,1991,PG-13,14 Jun 1991,143 min,51.0,6.9,"173,748",tt0102798,
+261,Sideways,Adventure,6,2,6,80,16,sideways,0,Sideways,2004,R,21 Jan 2005,127 min,94.0,7.5,"175,791",tt0375063,"$71,444,367"
+262,Machine Gun Preacher,Crime,1,4,6,28,13,machine gun preacher,0,Machine Gun Preacher,2011,R,02 Nov 2011,129 min,43.0,6.8,"61,962",tt1586752,"$400,000"
+263,Made,Crime,22,3,10,126,85,made,0,Made,2001,R,31 Aug 2001,95 min,62.0,6.4,"16,911",tt0227005,"$3,673,981"
+264,Max Payne,Crime,2,2,1,0,7,max payne,0,Max Payne,2008,PG-13,17 Oct 2008,100 min,31.0,5.4,"120,508",tt0467197,"$40,632,110"
+265,Miami Vice,Crime,4,2,1,23,10,miami vice,0,Miami Vice,2006,R,28 Jul 2006,132 min,65.0,6.0,"107,576",tt0430357,"$63,400,000"
+266,Man On Fire,Crime,6,0,3,19,6,man on fire,0,Man on Fire,2004,R,23 Apr 2004,146 min,47.0,7.7,"321,537",tt0328107,"$77,600,000"
+267,Mean Streets,Crime,0,2,3,11,12,mean streets,0,Mean Streets,1973,R,14 Oct 1973,112 min,96.0,7.3,"95,563",tt0070379,
+268,"Lock, Stock and Two Smoking Barrels",Thriller,0,0,0,85,16,"lock, stock and two smoking barrels",0,"Lock, Stock and Two Smoking Barrels",1998,R,28 Aug 1998,107 min,66.0,8.2,"520,258",tt0120735,
+269,Jackie Brown,Crime,52,8,14,109,64,jackie brown,0,Jackie Brown,1997,R,25 Dec 1997,154 min,64.0,7.5,"306,026",tt0119396,
+270,Law Abiding Citizen,Thriller,15,5,8,43,32,law abiding citizen,0,Law Abiding Citizen,2009,R,16 Oct 2009,109 min,34.0,7.4,"264,575",tt1197624,"$73,343,413"
+271,Lord of War,Crime,2,0,2,54,3,lord of war,0,Lord of War,2005,R,16 Sep 2005,122 min,62.0,7.6,"288,049",tt0399295,"$24,033,036"
+272,Killing Zoe,Thriller,10,5,7,82,21,killing zoe,0,Killing Zoe,1993,R,01 Sep 1994,96 min,,6.5,"19,391",tt0110265,
+273,John Wick,Thriller,2,1,1,36,9,john wick,0,John Wick,2014,R,24 Oct 2014,101 min,68.0,7.4,"514,375",tt2911666,
+274,Joker,Thriller,10,0,0,36,15,joker,0,Joker,2019,R,04 Oct 2019,122 min,59.0,8.5,"809,274",tt7286456,
+275,Into the Woods,Adventure,0,0,0,0,0,into the woods,0,Into the Woods,2014,PG,25 Dec 2014,125 min,69.0,5.9,"128,879",tt2180411,"$89,789,227"
+276,Kalifornia,Thriller,7,7,9,22,14,kalifornia,0,Kalifornia,1993,R,03 Sep 1993,117 min,49.0,6.7,"49,891",tt0107302,
+277,Jay and Silent Bob Strike Back,Adventure,38,40,6,202,84,jay and silent bob strike back,0,Jay and Silent Bob Strike Back,2001,R,24 Aug 2001,104 min,51.0,6.8,"146,326",tt0261392,"$29,885,424"
+278,Hudson Hawk,Crime,6,5,18,16,13,hudson hawk,0,Hudson Hawk,1991,R,24 May 1991,100 min,17.0,5.8,"50,686",tt0102070,
+279,Life of Pi,Adventure,0,0,0,0,0,life of pi,0,Life of Pi,2012,PG,21 Nov 2012,127 min,79.0,7.9,"566,900",tt0454876,"$103,500,000"
+280,Into the Wild,Adventure,4,0,2,4,7,into the wild,0,Into the Wild,2007,R,19 Oct 2007,148 min,73.0,8.1,"556,447",tt0758758,"$18,173,360"
+281,Jacob's Ladder,Thriller,1,7,29,19,20,jacob's ladder,0,Jacob's Ladder,1990,R,02 Nov 1990,113 min,62.0,7.5,"95,662",tt0099871,
+282,Indiana Jones and the Last Crusade,Adventure,0,0,5,0,0,indiana jones and the last crusade,0,Indiana Jones and the Last Crusade,1989,PG-13,24 May 1989,127 min,65.0,8.2,"671,347",tt0097576,
+283,Indiana Jones and the Temple of Doom,Adventure,2,0,8,0,1,indiana jones and the temple of doom,0,Indiana Jones and the Temple of Doom,1984,PG,23 May 1984,118 min,57.0,7.6,"434,438",tt0087469,
+284,In the Bedroom,Crime,2,3,1,5,3,in the bedroom,0,In the Bedroom,2001,R,08 Feb 2002,131 min,86.0,7.4,"36,572",tt0247425,"$35,733,119"
+285,Henry's Crime,Crime,0,2,7,12,11,henry's crime,0,Henry's Crime,2010,R,14 Jan 2011,108 min,49.0,6.0,"18,377",tt1220888,"$100,000"
+286,Gran Torino,Crime,8,20,36,31,18,gran torino,0,Gran Torino,2008,R,09 Jan 2009,116 min,72.0,8.1,"702,888",tt1205489,"$148,055,047"
+287,Horrible Bosses,Crime,9,4,8,48,27,horrible bosses,0,Horrible Bosses,2011,R,08 Jul 2011,98 min,57.0,6.9,"413,492",tt1499658,"$116,900,000"
+288,John Q,Thriller,0,0,0,0,0,john q,0,John Q,2002,PG-13,15 Feb 2002,116 min,30.0,7.1,"120,302",tt0251160,"$71,026,631"
+289,Gone in 60 Seconds,Crime,15,3,15,9,33,gone in 60 seconds,0,Gone in 60 Seconds,2000,PG-13,09 Jun 2000,118 min,35.0,6.5,"255,572",tt0187078,"$100,978,700"
+290,Frozen River,Crime,3,4,2,5,8,frozen river,0,Frozen River,2008,R,05 Sep 2008,97 min,82.0,7.1,"24,235",tt0978759,"$2,061,019"
+291,Death to Smoochy,Crime,16,7,5,39,12,death to smoochy,0,Death to Smoochy,2002,R,29 Mar 2002,109 min,38.0,6.4,"38,056",tt0266452,"$8,308,230"
+292,Get Shorty,Crime,0,0,0,0,0,get shorty,0,Get Shorty,1995,R,20 Oct 1995,105 min,82.0,6.9,"74,125",tt0113161,
+293,Drive,Crime,4,0,1,43,3,drive,0,Drive,2011,R,16 Sep 2011,100 min,78.0,7.8,"552,974",tt0780504,"$34,300,000"
+294,Gangs of New York,Crime,0,2,21,0,1,gangs of new york,0,Gangs of New York,2002,R,20 Dec 2002,167 min,72.0,7.5,"393,904",tt0217505,"$77,605,296"
+295,Insomnia,Thriller,6,4,4,21,13,insomnia,0,Insomnia,2002,R,24 May 2002,118 min,78.0,7.2,"265,985",tt0278504,"$67,300,000"
+296,Go,Crime,14,6,2,61,34,go,0,Go,1999,R,09 Apr 1999,102 min,72.0,7.2,"65,835",tt0139239,
+297,Gang Related,Crime,16,4,25,103,47,gang related,0,Gang Related,1997,R,08 Oct 1997,111 min,,6.5,"7,732",tt0118900,
+298,Hostage,Thriller,19,2,15,73,25,hostage,0,Hostage,2005,R,11 Mar 2005,113 min,44.0,6.6,"105,076",tt0340163,"$34,617,915"
+299,Heist,Thriller,2,3,2,33,5,heist,0,Heist,2001,R,09 Nov 2001,109 min,66.0,6.5,"32,600",tt0252503,"$23,287,872"
+300,Heat,Thriller,8,5,2,44,8,heat,0,Heat,1995,R,15 Dec 1995,170 min,76.0,8.2,"557,580",tt0113277,
+301,Get Carter,Thriller,0,4,0,2,5,get carter,0,Get Carter,2000,R,06 Oct 2000,102 min,24.0,5.2,"31,985",tt0208988,"$14,551,088"
+302,Godfather,Crime,1,6,4,0,0,godfather,0,Godfather,1991,Not Rated,15 Nov 1991,150 min,,8.6,"2,644",tt0353496,
+303,Hard Rain,Thriller,3,3,11,3,15,hard rain,0,Hard Rain,1998,R,16 Jan 1998,97 min,36.0,5.9,"31,475",tt0120696,
+304,Hackers,Thriller,4,1,1,1,24,hackers,0,Hackers,1995,PG-13,15 Sep 1995,105 min,46.0,6.3,"64,073",tt0113243,
+305,Dumb and Dumber,Adventure,6,5,14,6,13,dumb and dumber,0,Dumb and Dumber,1994,PG-13,16 Dec 1994,107 min,41.0,7.3,"345,069",tt0109686,
+306,Zootopia,Animation,0,0,0,0,0,zootopia,0,Zootopia,2016,PG,04 Mar 2016,108 min,78.0,8.0,"416,353",tt2948356,"$341,264,012"
+307,Cast Away,Adventure,1,5,26,20,15,cast away,0,Cast Away,2000,PG-13,22 Dec 2000,143 min,73.0,7.8,"506,438",tt0162222,
+308,Croupier,Crime,0,2,0,18,10,croupier,0,Croupier,1998,Not Rated,28 Jul 2000,94 min,75.0,7.1,"17,887",tt0159382,
+309,Deadpool,Adventure,7,2,1,35,22,deadpool,0,Deadpool,2016,R,12 Feb 2016,108 min,65.0,8.0,"874,155",tt1431045,"$328,674,489"
+310,Capote,Crime,0,0,2,2,0,capote,0,Capote,2005,R,03 Feb 2006,114 min,88.0,7.3,"122,713",tt0379725,"$28,337,516"
+311,Crime Spree,Crime,9,1,1,30,15,crime spree,0,Crime Spree,2003,R,16 Apr 2003,105 min,,6.5,"5,197",tt0310924,
+312,Colombiana,Crime,6,8,0,13,8,colombiana,0,Colombiana,2011,PG-13,26 Aug 2011,108 min,45.0,6.4,"91,834",tt1657507,"$36,665,854"
+313,Catch Me If You Can,Crime,0,2,11,7,9,catch me if you can,0,Catch Me If You Can,2002,PG-13,25 Dec 2002,141 min,75.0,8.1,"790,873",tt0264464,"$164,400,000"
+314,Catwoman,Crime,0,0,0,0,0,catwoman,0,Catwoman,2004,PG-13,23 Jul 2004,104 min,27.0,3.4,"108,332",tt0327554,"$40,200,000"
+315,Confessions of a Dangerous Mind,Crime,14,2,6,65,15,confessions of a dangerous mind,0,Confessions of a Dangerous Mind,2002,R,24 Jan 2003,113 min,67.0,7.0,"81,717",tt0270288,
+316,Black Rain,Crime,8,2,4,1,9,black rain,0,Black Rain,1989,R,22 Sep 1989,125 min,56.0,6.7,"47,914",tt0096933,
+317,Casino,Crime,18,9,16,439,56,casino,0,Casino,1995,R,22 Nov 1995,178 min,73.0,8.2,"448,054",tt0112641,
+318,Confidence,Crime,15,4,2,52,29,confidence,0,Confidence,2003,R,25 Apr 2003,97 min,59.0,6.7,"32,866",tt0310910,"$12,148,629"
+319,BlacKkKlansman,Crime,8,7,11,33,18,blackkklansman,0,BlacKkKlansman,2018,R,10 Aug 2018,135 min,83.0,7.5,"198,998",tt7349662,
+320,Bottle Rocket,Crime,3,2,5,36,25,bottle rocket,0,Bottle Rocket,1996,R,21 Feb 1996,91 min,66.0,7.0,"68,099",tt0115734,
+321,Burn After Reading,Crime,9,4,3,66,20,burn after reading,0,Burn After Reading,2008,R,12 Sep 2008,96 min,63.0,7.0,"301,770",tt0887883,"$60,338,891"
+322,Blow,Crime,5,3,2,91,24,blow,0,Blow,2001,R,06 Apr 2001,124 min,52.0,7.6,"235,080",tt0221027,
+323,Big Eyes,Crime,2,2,1,1,3,big eyes,0,Big Eyes,2014,PG-13,25 Dec 2014,106 min,62.0,7.0,"82,916",tt1126590,"$8,021,168"
+324,Bad Santa,Crime,24,8,3,137,44,bad santa,0,Bad Santa,2003,R,26 Nov 2003,92 min,70.0,7.0,"131,454",tt0307987,
+325,Frequency,Thriller,6,0,5,19,6,frequency,0,Frequency,2000,PG-13,28 Apr 2000,118 min,67.0,7.3,"98,713",tt0186151,
+326,Frozen,Thriller,13,1,3,25,32,frozen,0,Frozen,2013,PG,27 Nov 2013,102 min,75.0,7.4,"556,379",tt2294629,"$400,736,600"
+327,Fracture,Thriller,3,2,3,2,6,fracture,0,Fracture,2007,R,20 Apr 2007,113 min,68.0,7.2,"181,277",tt0488120,"$39,000,000"
+328,Fargo,Thriller,1,1,13,41,4,fargo,0,Fargo,1996,R,05 Apr 1996,98 min,85.0,8.1,"595,812",tt0116282,
+329,Fight Club,Thriller,7,5,3,37,12,fight club,0,Fight Club,1999,R,15 Oct 1999,139 min,66.0,8.8,"1,790,247",tt0137523,
+330,Face Off,Thriller,4,2,7,15,8,face off,0,Face Off,2011–,TV-PG,26 Jan 2011,44 min,,8.2,"5,969",tt1663641,
+331,Entrapment,Thriller,7,2,0,13,12,entrapment,0,Entrapment,1999,PG-13,30 Apr 1999,113 min,54.0,6.3,"104,322",tt0137494,
+332,Fatal Instinct,Thriller,1,2,7,0,3,fatal instinct,0,Fatal Instinct,1993,PG-13,29 Oct 1993,91 min,,5.8,"6,623",tt0106873,
+333,Dog Day Afternoon,Thriller,4,4,14,42,26,dog day afternoon,0,Dog Day Afternoon,1975,R,25 Dec 1975,125 min,86.0,8.0,"229,397",tt0072890,
+334,Enough,Thriller,5,2,1,3,4,enough,0,Enough,2002,PG-13,24 May 2002,115 min,25.0,5.8,"38,277",tt0278435,"$39,177,215"
+335,Fair Game,Thriller,2,1,0,22,6,fair game,0,Fair Game,2010,PG-13,03 Dec 2010,108 min,69.0,6.8,"45,694",tt0977855,"$9,528,092"
+336,Disturbia,Thriller,12,2,6,2,28,disturbia,0,Disturbia,2007,PG-13,13 Apr 2007,105 min,62.0,6.8,"215,909",tt0486822,"$80,050,171"
+337,Die Hard 2,Thriller,22,4,24,44,17,die hard 2,0,Die Hard 2,1990,R,03 Jul 1990,124 min,67.0,7.2,"327,312",tt0099423,
+338,Die Hard,Thriller,16,3,18,27,19,die hard,0,Die Hard,1988,R,20 Jul 1988,132 min,72.0,8.2,"763,300",tt0095016,
+339,Deep Cover,Thriller,10,7,4,53,26,deep cover,0,Deep Cover,1992,R,15 Apr 1992,107 min,,6.9,"8,392",tt0104073,
+340,Enemy of the State,Thriller,5,0,4,32,11,enemy of the state,0,Enemy of the State,1998,R,20 Nov 1998,132 min,67.0,7.3,"222,054",tt0120660,
+341,Donnie Brasco,Thriller,9,2,2,210,13,donnie brasco,0,Donnie Brasco,1997,R,28 Feb 1997,127 min,76.0,7.7,"268,559",tt0119008,
+342,Wonder Woman,Fantasy,0,0,0,0,0,wonder woman,0,Wonder Woman,2017,PG-13,02 Jun 2017,141 min,76.0,7.4,"531,221",tt0451279,"$412,400,625"
+343,Unbreakable,Fantasy,3,1,2,1,4,unbreakable,0,Unbreakable,2000,PG-13,22 Nov 2000,106 min,62.0,7.3,"377,826",tt0217869,"$95,000,000"
+344,Willow,Fantasy,0,0,0,0,0,willow,0,Willow,1988,PG,20 May 1988,126 min,47.0,7.3,"98,271",tt0096446,
+345,Pirates of the Caribbean: Dead Man's Chest,Fantasy,1,0,1,0,0,pirates of the caribbean: dead man's chest,0,Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,07 Jul 2006,151 min,53.0,7.3,"640,351",tt0383574,"$423,032,628"
+346,Ted,Fantasy,18,1,1,73,45,ted,0,Ted,2012,R,29 Jun 2012,106 min,62.0,6.9,"559,475",tt1637725,"$218,100,000"
+347,Pleasantville,Fantasy,0,1,3,1,2,pleasantville,0,Pleasantville,1998,PG-13,23 Oct 1998,124 min,71.0,7.5,"119,048",tt0120789,
+348,Thor,Fantasy,1,0,2,0,0,thor,0,Thor,2011,PG-13,06 May 2011,115 min,57.0,7.0,"725,928",tt0800369,"$181,015,141"
+349,Apollo 13,Adventure,0,0,0,0,0,apollo 13,0,Apollo 13,1995,PG,30 Jun 1995,140 min,77.0,7.6,"259,692",tt0112384,
+350,30 Minutes or Less,Adventure,17,13,10,182,65,30 minutes or less,0,30 Minutes or Less,2011,R,12 Aug 2011,83 min,49.0,6.1,"91,732",tt1622547,"$37,100,000"
+351,Three Men and a Baby,Family,30,9,29,11,39,three men and a baby,0,Three Men and a Baby,1987,PG,25 Nov 1987,102 min,61.0,6.0,"46,024",tt0094137,
+352,You've Got Mail,Romance,1,1,2,4,5,you've got mail,0,You've Got Mail,1998,PG,18 Dec 1998,119 min,57.0,6.6,"188,515",tt0128853,
+353,Youth in Revolt,Romance,7,0,5,5,5,youth in revolt,0,Youth in Revolt,2009,R,08 Jan 2010,90 min,63.0,6.4,"71,723",tt0403702,"$15,150,933"
+354,Speed Racer,Family,6,0,1,0,0,speed racer,0,Speed Racer,2008,PG,09 May 2008,135 min,37.0,6.0,"67,391",tt0811080,"$43,929,341"
+355,Zerophilia,Romance,8,3,7,15,5,zerophilia,0,Zerophilia,2005,,13 Oct 2006,90 min,41.0,6.2,"2,176",tt0421090,
+356,Mystery Men,Fantasy,1,2,3,0,0,mystery men,0,Mystery Men,1999,PG-13,06 Aug 1999,121 min,65.0,6.1,"60,815",tt0132347,
+357,Yes Man,Romance,2,3,2,2,10,yes man,0,Yes Man,2008,PG-13,19 Dec 2008,104 min,46.0,6.8,"327,362",tt1068680,"$97,600,000"
+358,Wild At Heart,Romance,7,4,9,38,20,wild at heart,0,Wild at Heart,1990,R,17 Aug 1990,125 min,52.0,7.2,"80,227",tt0100935,
+359,Witness,Romance,1,2,6,3,6,witness,0,Witness,1985,R,08 Feb 1985,112 min,76.0,7.4,"83,584",tt0090329,
+360,Water for Elephants,Romance,3,1,9,1,7,water for elephants,0,Water for Elephants,2011,PG-13,22 Apr 2011,120 min,52.0,6.9,"109,237",tt1067583,"$58,700,247"
+361,True Romance,Romance,0,0,0,0,0,true romance,0,True Romance,1993,R,10 Sep 1993,119 min,59.0,7.9,"199,873",tt0108399,
+362,Up in the Air,Romance,8,0,0,28,10,up in the air,0,Up in the Air,2009,R,23 Dec 2009,109 min,83.0,7.4,"312,450",tt1193138,"$83,775,048"
+363,Tristan and Isolde,Romance,0,0,0,0,0,tristan and isolde,0,Tristan and Isolde,1981,,15 Jan 1982,84 min,,6.6,71,tt0089146,
+364,True Lies,Romance,2,14,10,3,17,true lies,0,True Lies,1994,R,15 Jul 1994,141 min,63.0,7.2,"231,028",tt0111503,
+365,Twilight,Romance,1,0,0,0,0,twilight,0,Twilight,2008,PG-13,21 Nov 2008,122 min,56.0,5.2,"412,755",tt1099212,"$191,449,475"
+366,Tamara Drewe,Romance,2,2,3,42,15,tamara drewe,0,Tamara Drewe,2010,R,10 Sep 2010,107 min,64.0,6.2,"20,168",tt1486190,"$560,101"
+367,There's Something About Mary,Romance,9,6,6,60,29,there's something about mary,0,There's Something About Mary,1998,R,15 Jul 1998,119 min,69.0,7.1,"284,946",tt0129387,
+368,St. Elmo's Fire,Romance,3,1,5,12,16,st. elmo's fire,0,St. Elmo's Fire,1985,R,28 Jun 1985,110 min,35.0,6.4,"34,515",tt0090060,
+369,Spanglish,Romance,3,0,10,3,2,spanglish,0,Spanglish,2004,PG-13,17 Dec 2004,131 min,48.0,6.4,"76,974",tt0371246,"$42,044,321"
+370,Titanic,Romance,1,2,17,2,10,titanic,0,Titanic,1997,PG-13,19 Dec 1997,194 min,75.0,7.8,"1,015,018",tt0120338,
+371,Something's Gotta Give,Romance,5,2,2,7,5,something's gotta give,0,Something's Gotta Give,2003,PG-13,12 Dec 2003,128 min,66.0,6.7,"109,002",tt0337741,"$121,400,000"
+372,Tin Cup,Romance,23,2,14,15,25,tin cup,0,Tin Cup,1996,R,16 Aug 1996,135 min,60.0,6.4,"45,017",tt0117918,
+373,Sleepless in Seattle,Romance,0,0,0,2,2,sleepless in seattle,0,Sleepless in Seattle,1993,PG,25 Jun 1993,105 min,72.0,6.8,"153,813",tt0108160,
+374,So I Married an Axe Murderer,Romance,9,4,2,2,7,so i married an axe murderer,0,So I Married an Axe Murderer,1993,PG-13,30 Jul 1993,93 min,,6.4,"32,534",tt0108174,
+375,Slumdog Millionaire,Romance,0,0,1,2,11,slumdog millionaire,0,Slumdog Millionaire,2008,R,25 Dec 2008,120 min,84.0,8.0,"781,199",tt1010048,"$141,243,551"
+376,Silver Linings Playbook,Romance,4,0,5,75,24,silver linings playbook,0,Silver Linings Playbook,2012,R,25 Dec 2012,122 min,81.0,7.7,"647,342",tt1045658,"$132,088,910"
+377,Shakespeare in Love,Romance,0,0,2,0,1,shakespeare in love,0,Shakespeare in Love,1998,R,08 Jan 1999,123 min,87.0,7.1,"209,610",tt0138097,
+378,Sex and the City,Romance,4,1,1,7,6,sex and the city,0,Sex and the City,2008,R,30 May 2008,145 min,53.0,5.6,"113,892",tt1000774,"$152,595,674"
+379,She's Out of My League,Romance,12,7,7,45,39,she's out of my league,0,She's Out of My League,2010,R,12 Mar 2010,104 min,46.0,6.4,"123,849",tt0815236,"$28,712,974"
+380,Sense and Sensibility,Romance,0,1,0,0,0,sense and sensibility,0,Sense and Sensibility,1995,PG,26 Jan 1996,136 min,84.0,7.6,"98,350",tt0114388,
+381,Save the Last Dance,Romance,26,12,9,32,56,save the last dance,0,Save the Last Dance,2001,PG-13,12 Jan 2001,112 min,53.0,6.2,"55,963",tt0206275,
+382,X-Men,Sci-Fi,1,0,1,0,0,x-men,0,X-Men,2000,PG-13,14 Jul 2000,104 min,64.0,7.4,"559,246",tt0120903,"$156,164,829"
+383,War of the Worlds,Sci-Fi,2,0,3,0,6,war of the worlds,0,War of the Worlds,2005,PG-13,29 Jun 2005,116 min,73.0,6.5,"405,645",tt0407304,"$234,141,872"
+384,TRON: Legacy,Sci-Fi,0,0,2,0,0,tron: legacy,0,TRON: Legacy,2010,PG,17 Dec 2010,125 min,49.0,6.8,"307,359",tt1104001,"$172,051,787"
+385,Twins,Sci-Fi,3,1,4,1,19,twins,0,Twins,1988,PG,09 Dec 1988,107 min,53.0,6.1,"109,641",tt0096320,
+386,V for Vendetta,Sci-Fi,1,1,11,8,2,v for vendetta,0,V for Vendetta,2005,R,17 Mar 2006,132 min,62.0,8.2,"1,002,654",tt0434409,"$70,500,000"
+387,Virtuosity,Sci-Fi,8,8,2,7,7,virtuosity,0,Virtuosity,1995,R,04 Aug 1995,106 min,39.0,5.6,"27,248",tt0114857,
+388,Watchmen,Sci-Fi,3,3,12,0,6,watchmen,0,Watchmen,2009,R,06 Mar 2009,162 min,56.0,7.6,"487,586",tt0409459,"$107,453,620"
+389,X-Men Origins: Wolverine,Sci-Fi,2,1,6,0,0,x-men origins: wolverine,0,X-Men Origins: Wolverine,2009,PG-13,01 May 2009,107 min,40.0,6.6,"457,050",tt0458525,"$179,737,340"
+390,TRON,Sci-Fi,0,0,2,0,0,tron,0,TRON,1982,PG,09 Jul 1982,96 min,58.0,6.8,"110,680",tt0084827,
+391,Surrogates,Sci-Fi,7,2,8,0,2,surrogates,0,Surrogates,2009,PG-13,25 Sep 2009,89 min,45.0,6.3,"167,007",tt0986263,"$38,542,418"
+392,Total Recall,Sci-Fi,0,1,0,2,4,total recall,0,Total Recall,1990,R,01 Jun 1990,113 min,57.0,7.5,"291,951",tt0100802,"$119,000,000"
+393,Terminator Salvation,Sci-Fi,3,1,7,2,6,terminator salvation,0,Terminator Salvation,2009,PG-13,21 May 2009,115 min,49.0,6.5,"337,037",tt0438488,"$125,286,889"
+394,Terminator,Sci-Fi,3,1,4,9,4,terminator,0,Terminator,1991,,,39 min,,6.1,27,tt5817168,
+395,Starship Troopers,Sci-Fi,2,3,0,0,0,starship troopers,0,Starship Troopers,1997,R,07 Nov 1997,129 min,51.0,7.2,"261,834",tt0120201,
+396,Supergirl,Sci-Fi,1,1,0,0,0,supergirl,0,Supergirl,2015–,TV-PG,26 Oct 2015,43 min,,6.3,"106,927",tt4016454,
+397,Shrek the Third,Animation,0,0,0,0,0,shrek the third,0,Shrek the Third,2007,PG,18 May 2007,93 min,58.0,6.1,"272,550",tt0413267,"$320,706,665"
+398,Toy Story,Animation,0,0,0,0,0,toy story,0,Toy Story,1995,G,22 Nov 1995,81 min,95.0,8.3,"857,038",tt0114709,
+399,Shrek,Animation,2,0,2,0,0,shrek,0,Shrek,2001,PG,18 May 2001,90 min,84.0,7.8,"596,311",tt0126029,"$266,982,666"
+400,TMNT,Animation,4,0,0,0,0,tmnt,0,TMNT,2007,PG,23 Mar 2007,103 min,41.0,6.2,"60,242",tt0453556,"$54,132,596"
+401,Up,Animation,0,0,0,0,0,up,0,Up,2009,PG,29 May 2009,96 min,88.0,8.2,"904,824",tt1049413,"$292,979,556"
+402,Rise of the Guardians,Animation,0,0,0,0,0,rise of the guardians,0,Rise of the Guardians,2012,PG,21 Nov 2012,97 min,58.0,7.3,"152,477",tt1446192,"$98,800,000"
+403,How to Train Your Dragon,Animation,0,0,0,0,0,how to train your dragon,0,How to Train Your Dragon,2010,PG,26 Mar 2010,98 min,75.0,8.1,"647,266",tt0892769,"$216,900,000"
+404,How to Train Your Dragon 2,Animation,0,0,0,0,0,how to train your dragon 2,0,How to Train Your Dragon 2,2014,PG,13 Jun 2014,102 min,76.0,7.8,"296,202",tt1646971,"$147,065,544"
+405,ParaNorman,Animation,0,0,3,0,0,paranorman,0,ParaNorman,2012,PG,17 Aug 2012,92 min,72.0,7.0,"91,243",tt1623288,"$55,994,557"
+406,Monkeybone,Animation,11,1,6,0,7,monkeybone,0,Monkeybone,2001,PG-13,23 Feb 2001,93 min,40.0,4.7,"16,394",tt0166276,"$4,942,155"
+407,Beavis and Butt-head Do America,Animation,14,1,13,0,0,beavis and butt-head do america,0,Beavis and Butt-Head Do America,1996,PG-13,20 Dec 1996,81 min,64.0,6.8,"50,067",tt0115641,
+408,Despicable Me 2,Animation,0,0,0,0,0,despicable me 2,0,Despicable Me 2,2013,PG,03 Jul 2013,98 min,62.0,7.3,"360,967",tt1690953,"$368,049,635"
+409,Cars 2,Animation,0,0,0,0,0,cars 2,0,Cars 2,2011,G,24 Jun 2011,106 min,57.0,6.1,"152,890",tt1216475,"$191,450,875"
+410,Coco,Animation,0,0,0,0,0,coco,0,Coco,2017,PG,22 Nov 2017,105 min,81.0,8.4,"343,940",tt2380307,"$208,487,719"
+411,American Gangster,Crime,3,1,5,79,10,american gangster,0,American Gangster,2007,R,02 Nov 2007,157 min,76.0,7.8,"381,260",tt0765429,"$130,127,620"
+412,A Scanner Darkly,Crime,5,0,6,70,29,a scanner darkly,0,A Scanner Darkly,2006,R,28 Jul 2006,100 min,73.0,7.1,"104,320",tt0405296,"$5,281,537"
+413,American Hustle,Crime,2,4,5,99,32,american hustle,0,American Hustle,2013,R,20 Dec 2013,138 min,90.0,7.2,"437,260",tt1800241,"$99,165,609"
+414,Analyze This,Crime,8,2,7,56,22,analyze this,0,Analyze This,1999,R,05 Mar 1999,103 min,61.0,6.7,"143,019",tt0122933,
+415,Bad Lieutenant,Crime,5,2,3,68,21,bad lieutenant,0,Bad Lieutenant,1992,NC-17,17 Dec 1992,96 min,70.0,7.1,"37,481",tt0103759,
+416,Analyze That,Crime,8,3,2,74,24,analyze that,0,Analyze That,2002,R,06 Dec 2002,96 min,37.0,5.9,"81,023",tt0289848,"$32,070,920"
+417,Arsenic and Old Lace,Crime,0,0,0,0,0,arsenic and old lace,0,Arsenic and Old Lace,1944,Not Rated,23 Sep 1944,118 min,,8.0,"63,845",tt0036613,
+418,Bad Country,Crime,7,3,10,83,21,bad country,0,Bad Country,2014,R,29 Apr 2014,95 min,,5.8,"7,866",tt2350892,
+419,Collateral Damage,Thriller,8,6,4,12,13,collateral damage,0,Collateral Damage,2002,R,08 Feb 2002,108 min,33.0,5.5,"70,795",tt0233469,"$39,965,988"
+420,Commando,Thriller,5,0,0,7,7,commando,0,Commando,1985,R,04 Oct 1985,90 min,51.0,6.7,"142,224",tt0088944,
+421,Cradle 2 the Grave,Thriller,9,5,0,34,21,cradle 2 the grave,0,Cradle 2 the Grave,2003,R,28 Feb 2003,101 min,36.0,5.8,"40,632",tt0306685,"$34,600,000"
+422,Crank,Thriller,24,14,5,36,41,crank,0,Crank,2006,R,01 Sep 2006,88 min,57.0,6.9,"230,012",tt0479884,"$27,800,000"
+423,44 Inch Chest,Crime,0,4,1,179,7,44 inch chest,0,44 Inch Chest,2009,R,15 Jan 2010,95 min,47.0,5.8,"6,420",tt0914837,
+424,Collateral,Thriller,0,0,0,0,0,collateral,0,Collateral,2004,R,06 Aug 2004,120 min,71.0,7.5,"349,490",tt0369339,"$100,003,492"
+425,25th Hour,Crime,0,0,0,0,0,25th hour,0,25th Hour,2002,R,10 Jan 2003,135 min,67.0,7.6,"166,545",tt0307901,
+426,A Prayer Before Dawn,Crime,4,0,0,29,4,a prayer before dawn,0,A Prayer Before Dawn,2017,R,10 Aug 2018,116 min,76.0,6.9,"18,806",tt4080956,
+427,A Most Violent Year,Crime,1,0,1,29,10,a most violent year,0,A Most Violent Year,2014,R,30 Jan 2015,125 min,79.0,7.0,"64,487",tt2937898,
+428,Broken Arrow,Thriller,5,1,5,2,8,broken arrow,0,Broken Arrow,1996,R,09 Feb 1996,108 min,61.0,6.0,"88,924",tt0115759,
+429,Breakdown,Thriller,8,10,5,24,9,breakdown,0,Breakdown,1997,R,02 May 1997,93 min,73.0,6.9,"47,264",tt0118771,
+430,Bound,Thriller,7,6,4,90,28,bound,0,Bound,1996,R,04 Oct 1996,109 min,61.0,7.3,"49,122",tt0115736,
+431,Cecil B. Demented,Thriller,11,3,2,32,3,cecil b. demented,0,Cecil B. DeMented,2000,R,01 Sep 2000,87 min,57.0,6.2,"12,999",tt0173716,
+432,Chaos,Thriller,2,6,2,9,20,chaos,0,Chaos,2005,R,15 Dec 2005,106 min,,6.5,"50,400",tt0402910,
+433,Cliffhanger,Thriller,2,3,5,21,6,cliffhanger,0,Cliffhanger,1993,R,28 May 1993,113 min,60.0,6.4,"116,698",tt0106582,
+434,Liar Liar,Fantasy,3,1,5,0,6,liar liar,0,Liar Liar,1997,PG-13,21 Mar 1997,86 min,70.0,6.9,"273,714",tt0119528,
+435,Blood and Wine,Thriller,6,2,6,18,9,blood and wine,0,Blood and Wine,1996,R,21 Feb 1997,101 min,,6.0,"8,985",tt0115710,
+436,Blood Simple,Thriller,8,0,5,7,4,blood simple,0,Blood Simple,1984,R,18 Jan 1985,99 min,81.0,7.6,"83,644",tt0086979,
+437,Body Heat,Thriller,2,0,4,5,6,body heat,0,Body Heat,1981,R,28 Aug 1981,113 min,77.0,7.4,"29,409",tt0082089,
+438,Ghost Rider,Fantasy,10,2,5,47,9,ghost rider,0,Ghost Rider,2007,PG-13,16 Feb 2007,110 min,35.0,5.2,"218,752",tt0259324,"$115,802,596"
+439,Erik the Viking,Fantasy,0,0,0,0,0,erik the viking,0,Erik the Viking,1989,PG-13,22 Sep 1989,107 min,,6.3,"12,609",tt0097289,
+440,Drive Angry,Fantasy,8,14,10,73,17,drive angry,0,Drive Angry,2011,R,25 Feb 2011,104 min,44.0,5.4,"92,929",tt1502404,"$10,706,786"
+441,Excalibur,Fantasy,0,0,0,0,0,excalibur,0,Excalibur,1981,PG,10 Apr 1981,140 min,56.0,7.4,"55,818",tt0082348,
+442,Hancock,Fantasy,13,3,6,30,24,hancock,0,Hancock,2008,PG-13,02 Jul 2008,92 min,49.0,6.4,"434,647",tt0448157,"$227,946,274"
+443,Flash Gordon,Fantasy,0,1,5,0,0,flash gordon,0,Flash Gordon,1980,PG,05 Dec 1980,111 min,58.0,6.5,"49,048",tt0080745,
+444,Highlander,Fantasy,2,2,1,0,2,highlander,0,Highlander,1986,R,07 Mar 1986,116 min,24.0,7.1,"118,150",tt0091203,
+445,Dragonslayer,Fantasy,0,0,4,0,0,dragonslayer,0,Dragonslayer,1981,PG,26 Jun 1981,109 min,68.0,6.7,"14,523",tt0082288,
+446,New York Minute,Family,1,0,5,0,1,new york minute,0,New York Minute,2004,PG,07 May 2004,91 min,33.0,5.0,"21,302",tt0363282,"$14,018,364"
+447,Happy Feet,Family,1,0,0,0,1,happy feet,0,Happy Feet,2006,PG,17 Nov 2006,108 min,77.0,6.4,"165,838",tt0366548,"$197,800,000"
+448,Mighty Morphin Power Rangers: The Movie,Family,0,0,1,0,0,mighty morphin power rangers: the movie,0,Mighty Morphin Power Rangers: The Movie,1995,PG,30 Jun 1995,95 min,40.0,5.2,"24,582",tt0113820,
+449,Mighty Joe Young,Family,3,0,5,0,0,mighty joe young,0,Mighty Joe Young,1998,PG,25 Dec 1998,114 min,51.0,5.6,"26,935",tt0120751,
+450,Kung Fu Panda,Family,0,0,0,0,0,kung fu panda,0,Kung Fu Panda,2008,PG,06 Jun 2008,92 min,74.0,7.5,"405,963",tt0441773,"$215,395,021"
+451,Frankenweenie,Family,0,0,0,0,0,frankenweenie,0,Frankenweenie,2012,PG,05 Oct 2012,87 min,74.0,6.9,"94,595",tt1142977,"$35,287,788"
+452,Rust and Bone,Romance,4,3,1,20,13,rust and bone,0,Rust and Bone,2012,R,17 May 2012,120 min,73.0,7.5,"62,034",tt2053425,"$1,900,000"
+453,Dogma,Fantasy,20,15,6,66,57,dogma,0,Dogma,1999,R,12 Nov 1999,130 min,62.0,7.3,"204,707",tt0120655,
+454,Field of Dreams,Family,5,2,8,6,6,field of dreams,0,Field of Dreams,1989,PG,05 May 1989,107 min,57.0,7.5,"105,057",tt0097351,
+455,Finding Nemo,Family,0,0,0,0,0,finding nemo,0,Finding Nemo,2003,G,30 May 2003,100 min,90.0,8.1,"920,858",tt0266543,"$380,529,370"
+456,Remember Me,Romance,13,2,2,3,10,remember me,0,Remember Me,2010,PG-13,12 Mar 2010,113 min,40.0,7.1,"134,448",tt1403981,"$18,242,661"
+457,Rushmore,Romance,0,0,0,0,0,rushmore,0,Rushmore,1998,R,19 Feb 1999,93 min,86.0,7.7,"164,730",tt0128445,
+458,Revolutionary Road,Romance,3,0,12,12,3,revolutionary road,0,Revolutionary Road,2008,R,23 Jan 2009,119 min,69.0,7.3,"190,055",tt0959337,"$22,877,808"
+459,Rocky,Romance,2,0,8,2,0,rocky,0,Rocky,1976,PG,03 Dec 1976,120 min,70.0,8.1,"502,081",tt0075148,
+460,Romeo & Juliet,Romance,0,0,0,0,0,romeo & juliet,0,Romeo & Juliet,1978,TV-14,03 Dec 1978,168 min,,6.8,340,tt0078176,
+461,Runaway Bride,Romance,3,0,1,0,0,runaway bride,0,Runaway Bride,1999,PG,30 Jul 1999,116 min,39.0,5.5,"90,635",tt0163187,
+462,Punch-Drunk Love,Romance,1,0,4,18,6,punch-drunk love,0,Punch-Drunk Love,2002,R,01 Nov 2002,95 min,78.0,7.3,"142,544",tt0272338,"$17,800,000"
+463,Pretty Woman,Romance,7,3,2,4,11,pretty woman,0,Pretty Woman,1990,R,23 Mar 1990,119 min,51.0,7.0,"278,631",tt0100405,
+464,Rachel Getting Married,Romance,5,0,1,10,7,rachel getting married,0,Rachel Getting Married,2008,R,31 Oct 2008,113 min,82.0,6.7,"46,580",tt1084950,"$12,748,504"
+465,Out of Sight,Romance,15,0,3,51,42,out of sight,0,Out of Sight,1998,R,26 Jun 1998,123 min,85.0,7.0,"82,946",tt0120780,
+466,Platinum Blonde,Romance,0,0,0,0,0,platinum blonde,0,Platinum Blonde,1931,Passed,31 Oct 1931,89 min,,6.9,"2,623",tt0022268,
+467,No Strings Attached,Romance,7,5,1,29,13,no strings attached,0,No Strings Attached,2011,R,21 Jan 2011,108 min,50.0,6.2,"208,225",tt1411238,"$70,300,000"
+468,Never Been Kissed,Romance,0,0,0,0,0,never been kissed,0,Never Been Kissed,1999,PG-13,09 Apr 1999,107 min,60.0,6.1,"81,213",tt0151738,
+469,My Girl,Romance,0,0,2,0,3,my girl,0,My Girl,1991,PG,27 Nov 1991,102 min,56.0,6.9,"70,013",tt0102492,
+470,Pride and Prejudice,Romance,1,0,5,0,0,pride and prejudice,0,Pride and Prejudice,1995,TV-PG,14 Jan 1996,327 min,,8.8,"72,954",tt0112130,
+471,My Best Friend's Wedding,Romance,4,4,8,12,19,my best friend's wedding,0,My Best Friend's Wedding,1997,PG-13,20 Jun 1997,105 min,50.0,6.3,"124,674",tt0119738,
+472,Notting Hill,Romance,2,1,8,2,4,notting hill,0,Notting Hill,1999,PG-13,28 May 1999,124 min,68.0,7.1,"262,806",tt0125439,
+473,Moonstruck,Romance,0,2,2,0,2,moonstruck,0,Moonstruck,1987,PG,15 Jan 1988,102 min,83.0,7.1,"47,598",tt0093565,
+474,Ninotchka,Romance,0,0,0,0,0,ninotchka,0,Ninotchka,1939,Not Rated,23 Nov 1939,110 min,,7.9,"18,327",tt0031725,
+475,Natural Born Killers,Romance,20,11,8,46,30,natural born killers,0,Natural Born Killers,1994,R,26 Aug 1994,118 min,74.0,7.3,"210,566",tt0110632,
+476,Moonrise Kingdom,Romance,0,0,5,0,1,moonrise kingdom,0,Moonrise Kingdom,2012,PG-13,29 Jun 2012,94 min,84.0,7.8,"309,299",tt1748122,"$45,507,865"
+477,Monte Carlo,Romance,2,1,1,0,0,monte carlo,0,Monte Carlo,2011,PG,01 Jul 2011,109 min,43.0,5.8,"40,274",tt1067774,"$22,500,000"
+478,Marty,Romance,0,0,0,0,0,marty,0,Marty,1955,Not Rated,10 Jun 1955,90 min,,7.7,"20,694",tt0048356,
+479,Midnight in Paris,Romance,0,0,5,0,0,midnight in paris,0,Midnight in Paris,2011,PG-13,10 Jun 2011,94 min,81.0,7.7,"376,423",tt1605783,"$55,400,000"
+480,Marley & Me,Romance,5,1,3,0,0,marley & me,0,Marley & Me,2008,PG,25 Dec 2008,115 min,53.0,7.1,"143,412",tt0822832,"$143,084,510"
+481,Man Trouble,Romance,5,6,15,6,10,man trouble,0,Man Trouble,1992,PG-13,17 Jul 1992,100 min,,4.7,"2,825",tt0104804,
+482,Legend,Romance,2,0,3,0,1,legend,0,Legend,2015,R,20 Nov 2015,132 min,55.0,6.9,"152,324",tt3569230,"$14,146,549"
+483,Starman,Sci-Fi,3,1,9,0,10,starman,0,Starman,1984,PG,14 Dec 1984,115 min,70.0,7.0,"41,128",tt0088172,
+484,Last Tango in Paris,Romance,10,0,6,25,14,last tango in paris,0,Last Tango in Paris,1972,NC-17,07 Feb 1973,129 min,77.0,7.0,"48,278",tt0070849,
+485,Lost in Translation,Romance,0,0,0,3,1,lost in translation,0,Lost in Translation,2003,R,03 Oct 2003,102 min,89.0,7.7,"398,514",tt0335266,"$44,566,004"
+486,Leaving Las Vegas,Romance,4,0,1,38,3,leaving las vegas,0,Leaving Las Vegas,1995,R,09 Feb 1996,111 min,82.0,7.5,"111,717",tt0113627,
+487,Star Trek: The Motion Picture,Sci-Fi,0,0,3,0,0,star trek: the motion picture,0,Star Trek: The Motion Picture,1979,G,08 Dec 1979,132 min,48.0,6.4,"79,288",tt0079945,
+488,Star Trek: Generations,Sci-Fi,0,0,0,0,0,star trek: generations,0,Star Trek: Generations,1994,PG,18 Nov 1994,118 min,55.0,6.6,"74,325",tt0111280,
+489,Star Trek: First Contact,Sci-Fi,0,0,0,0,0,star trek: first contact,0,Star Trek: First Contact,1996,PG-13,22 Nov 1996,111 min,71.0,7.6,"115,453",tt0117731,
+490,Star Trek: Nemesis,Sci-Fi,1,0,3,0,0,star trek: nemesis,0,Star Trek: Nemesis,2002,PG-13,13 Dec 2002,116 min,51.0,6.4,"71,988",tt0253754,"$43,056,895"
+491,Monster's Ball,Romance,0,0,0,0,0,monster's ball,0,Monster's Ball,2001,R,01 Mar 2002,111 min,69.0,7.0,"80,974",tt0285742,"$31,252,964"
+492,Star Trek II: The Wrath of Khan,Sci-Fi,0,0,0,0,0,star trek ii: the wrath of khan,0,Star Trek II: The Wrath of Khan,1982,PG,04 Jun 1982,113 min,67.0,7.7,"110,150",tt0084726,
+493,Space Milkshake,Sci-Fi,1,2,3,1,1,space milkshake,0,Space Milkshake,2012,Not Rated,15 Feb 2013,85 min,,6.0,"1,377",tt1954843,
+494,Star Trek,Sci-Fi,5,0,16,29,6,star trek,0,Star Trek,2009,PG-13,08 May 2009,127 min,82.0,7.9,"569,689",tt0796366,"$257,704,099"
+495,Solaris,Sci-Fi,0,0,1,12,1,solaris,0,Solaris,2002,PG-13,27 Nov 2002,99 min,65.0,6.2,"77,794",tt0307479,"$14,780,776"
+496,Serenity,Sci-Fi,4,0,3,1,2,serenity,0,Serenity,2005,PG-13,30 Sep 2005,119 min,74.0,7.8,"278,632",tt0379786,"$25,335,935"
+497,Soldier,Sci-Fi,10,1,4,4,8,soldier,0,Soldier,1998,R,23 Oct 1998,99 min,,6.0,"50,772",tt0120157,
+498,Sphere,Sci-Fi,1,1,13,18,20,sphere,0,Sphere,1998,PG-13,13 Feb 1998,134 min,35.0,6.1,"97,311",tt0120184,
+499,Repo Man,Sci-Fi,11,1,22,54,36,repo man,0,Repo Man,1984,R,02 Mar 1984,92 min,75.0,6.9,"32,672",tt0087995,
+500,Simone,Sci-Fi,0,3,5,0,2,simone,0,Simone,2013,Not Rated,24 Jun 2013,72 min,,6.0,46,tt2916440,
+501,Rise of the Planet of the Apes,Sci-Fi,4,2,5,0,0,rise of the planet of the apes,0,Rise of the Planet of the Apes,2011,PG-13,05 Aug 2011,105 min,68.0,7.6,"488,681",tt1318514,"$175,300,000"
+502,Spider-Man,Sci-Fi,2,0,10,0,1,spider-man,0,Spider-Man,2002,PG-13,03 May 2002,121 min,73.0,7.3,"671,651",tt0145487,"$403,706,375"
+503,Red Planet,Sci-Fi,0,0,0,0,0,red planet,0,Red Planet,2000,PG-13,10 Nov 2000,106 min,34.0,5.7,"54,131",tt0199753,
+504,Oblivion,Sci-Fi,0,2,1,0,0,oblivion,0,Oblivion,2013,PG-13,19 Apr 2013,124 min,54.0,7.0,"473,697",tt1483013,"$89,021,735"
+505,Paul,Sci-Fi,3,2,10,25,19,paul,0,Paul,2011,R,18 Mar 2011,104 min,57.0,7.0,"229,607",tt1092026,"$37,371,385"
+506,Pi,Sci-Fi,1,0,9,10,5,pi,0,Pi,1998,R,10 Jul 1998,84 min,72.0,7.4,"166,458",tt0138704,
+507,Passengers,Sci-Fi,0,1,0,0,0,passengers,0,Passengers,2016,PG-13,21 Dec 2016,116 min,41.0,7.0,"336,522",tt1355644,"$100,014,092"
+508,Badlands,Thriller,1,4,3,0,0,badlands,0,Badlands,1973,PG,05 Jan 1974,94 min,93.0,7.8,"63,169",tt0069762,
+509,Barton Fink,Thriller,5,13,30,4,5,barton fink,0,Barton Fink,1991,R,21 Aug 1991,116 min,69.0,7.7,"109,491",tt0101410,
+510,Assassins,Thriller,5,5,5,64,31,assassins,0,Assassins,1995,R,06 Oct 1995,132 min,,6.3,"75,979",tt0112401,
+511,Babel,Thriller,7,1,7,21,6,babel,0,Babel,2006,R,10 Nov 2006,143 min,69.0,7.4,"283,859",tt0449467,"$34,237,104"
+512,Argo,Thriller,1,1,5,24,4,argo,0,Argo,2012,R,12 Oct 2012,120 min,86.0,7.7,"559,601",tt1024648,"$136,019,448"
+513,Arbitrage,Thriller,4,1,5,61,5,arbitrage,0,Arbitrage,2012,R,14 Sep 2012,107 min,73.0,6.6,"48,611",tt1764183,"$7,918,283"
+514,Anonymous,Thriller,1,0,2,0,0,anonymous,0,Anonymous,2011,PG-13,28 Oct 2011,130 min,50.0,6.9,"38,807",tt1521197,"$4,463,292"
+515,Apt Pupil,Thriller,0,0,1,1,0,apt pupil,0,Apt Pupil,1998,R,23 Oct 1998,111 min,51.0,6.7,"35,097",tt0118636,
+516,American History X,Thriller,25,11,8,161,54,american history x,0,American History X,1998,R,20 Nov 1998,119 min,62.0,8.5,"1,005,357",tt0120586,
+517,Arctic Blue,Thriller,7,4,22,27,18,arctic blue,0,Arctic Blue,1993,R,,95 min,,5.1,782,tt0106303,
+518,Antitrust,Thriller,3,0,2,1,5,antitrust,0,Antitrust,2001,PG-13,12 Jan 2001,108 min,31.0,6.1,"28,082",tt0218817,"$10,965,209"
+519,Coraline,Fantasy,0,0,0,0,0,coraline,0,Coraline,2009,PG,06 Feb 2009,100 min,80.0,7.7,"189,288",tt0327597,"$75,169,351"
+520,48 Hrs.,Thriller,33,8,28,26,53,48 hrs.,0,48 Hrs.,1982,R,08 Dec 1982,96 min,71.0,6.9,"66,938",tt0083511,
+521,Air Force One,Thriller,6,1,14,13,10,air force one,0,Air Force One,1997,R,25 Jul 1997,124 min,61.0,6.5,"175,705",tt0118571,
+522,Absolute Power,Thriller,6,1,6,11,11,absolute power,0,Absolute Power,1997,R,14 Feb 1997,121 min,52.0,6.7,"49,030",tt0118548,
+523,Conan the Barbarian,Fantasy,1,0,1,0,1,conan the barbarian,0,Conan the Barbarian,1982,R,14 May 1982,129 min,43.0,6.9,"134,342",tt0082198,
+524,All the President's Men,Thriller,1,1,19,25,15,all the president's men,0,All the President's Men,1976,PG,09 Apr 1976,138 min,84.0,8.0,"98,744",tt0074119,
+525,Clash of the Titans,Fantasy,0,0,1,0,1,clash of the titans,0,Clash of the Titans,2010,PG-13,02 Apr 2010,106 min,39.0,5.8,"266,023",tt0800320,"$163,100,000"
+526,Christ Complex,Fantasy,5,0,2,30,1,christ complex,0,Christ Complex,2012,NOT RATED,06 Oct 2012,76 min,,6.5,22,tt2416048,
+527,Beasts of the Southern Wild,Fantasy,6,0,5,1,3,beasts of the southern wild,0,Beasts of the Southern Wild,2012,PG-13,05 Jul 2012,93 min,86.0,7.3,"79,506",tt2125435,"$12,784,397"
+528,Cirque du Freak: The Vampire's Assistant,Fantasy,0,0,0,0,0,cirque du freak: the vampire's assistant,0,Cirque du Freak: The Vampire's Assistant,2009,PG-13,23 Oct 2009,109 min,43.0,5.8,"42,495",tt0450405,"$13,838,130"
+529,Being John Malkovich,Fantasy,1,2,13,14,14,being john malkovich,0,Being John Malkovich,1999,R,03 Dec 1999,113 min,90.0,7.7,"301,611",tt0120601,
+530,Big,Fantasy,2,0,7,1,2,big,0,Big,1988,PG,03 Jun 1988,104 min,73.0,7.3,"191,523",tt0094737,
+531,Being Human,Fantasy,0,0,1,3,1,being human,0,Being Human,2011–2014,TV-14,17 Jan 2011,44 min,,7.5,"23,849",tt1595680,
+532,Big Fish,Fantasy,3,3,3,0,4,big fish,0,Big Fish,2003,PG-13,09 Jan 2004,125 min,58.0,8.0,"406,074",tt0319061,"$66,257,002"
+533,Antz,Fantasy,1,0,2,0,0,antz,0,Antz,1998,PG,02 Oct 1998,83 min,72.0,6.5,"143,658",tt0120587,
+534,When a Stranger Calls,Horror,0,0,3,1,0,when a stranger calls,0,When a Stranger Calls,2006,PG-13,03 Feb 2006,87 min,27.0,5.1,"42,023",tt0455857,"$47,860,214"
+535,Batman,Fantasy,1,1,2,1,3,batman,0,Batman,1989,PG-13,23 Jun 1989,126 min,69.0,7.5,"329,552",tt0096895,
+536,Wind Chill,Horror,7,0,4,1,10,wind chill,0,Wind Chill,2007,R,03 Aug 2007,91 min,52.0,5.8,"21,423",tt0486051,
+537,The Rage: Carrie 2,Horror,3,5,4,6,11,the rage: carrie 2,0,The Rage: Carrie 2,1999,R,12 Mar 1999,104 min,42.0,4.7,"15,199",tt0144814,
+538,Timber Falls,Horror,5,5,6,34,7,timber falls,0,Timber Falls,2007,R,23 May 2008,100 min,,5.2,"5,721",tt0857295,
+539,They,Horror,0,0,0,0,0,they,0,They,2002,PG-13,27 Nov 2002,89 min,31.0,4.8,"12,153",tt0283632,"$12,575,046"
+540,Tremors,Horror,20,12,48,9,8,tremors,0,Tremors,1990,PG-13,19 Jan 1990,96 min,65.0,7.1,"116,480",tt0100814,
+541,Taking Lives,Horror,7,2,3,8,11,taking lives,0,Taking Lives,2004,R,19 Mar 2004,103 min,38.0,6.3,"78,540",tt0364045,"$32,634,479"
+542,Larry Crowne,Romance,5,1,3,1,1,larry crowne,0,Larry Crowne,2011,PG-13,01 Jul 2011,98 min,41.0,6.1,"61,791",tt1583420,"$35,565,975"
+543,Last Chance Harvey,Romance,1,0,1,6,4,last chance harvey,0,Last Chance Harvey,2008,PG-13,16 Jan 2009,93 min,57.0,6.6,"20,161",tt1046947,"$14,840,421"
+544,Kate & Leopold,Romance,0,1,1,4,6,kate & leopold,0,Kate & Leopold,2001,PG-13,25 Dec 2001,118 min,44.0,6.4,"77,364",tt0035423,"$47,095,453"
+545,Kill Your Darlings,Romance,1,2,8,11,5,kill your darlings,0,Kill Your Darlings,2013,R,19 Sep 2013,104 min,65.0,6.5,"34,380",tt1311071,"$679,958"
+546,Jane Eyre,Romance,0,0,1,0,0,jane eyre,0,Jane Eyre,2011,PG-13,22 Apr 2011,120 min,76.0,7.3,"78,895",tt1229822,
+547,Jerry Maguire,Romance,4,1,3,21,10,jerry maguire,0,Jerry Maguire,1996,R,13 Dec 1996,139 min,77.0,7.3,"234,615",tt0116695,
+548,It's a Wonderful Life,Romance,0,0,0,0,0,it's a wonderful life,0,It's a Wonderful Life,1946,Passed,07 Jan 1947,130 min,89.0,8.6,"384,831",tt0038650,
+549,It's Complicated,Romance,3,1,0,0,1,it's complicated,0,It's Complicated,2009,R,25 Dec 2009,120 min,57.0,6.5,"84,281",tt1230414,"$112,703,470"
+550,Juno,Romance,10,3,3,4,8,juno,0,Juno,2007,PG-13,25 Dec 2007,96 min,81.0,7.4,"481,291",tt0467406,"$143,380,890"
+551,Labor of Love,Romance,2,1,5,2,10,labor of love,0,Labor of Love,2020–,,21 May 2020,,,3.0,108,tt12237066,
+552,How to Lose Friends & Alienate People,Romance,5,4,0,28,9,how to lose friends & alienate people,0,How to Lose Friends & Alienate People,2008,R,03 Oct 2008,110 min,35.0,6.4,"67,038",tt0455538,"$2,458,092"
+553,I Love You Phillip Morris,Romance,10,4,6,30,14,i love you phillip morris,0,I Love You Phillip Morris,2009,R,07 Jan 2011,98 min,65.0,6.6,"90,006",tt1045772,"$2,026,852"
+554,Intolerable Cruelty,Romance,12,2,6,2,6,intolerable cruelty,0,Intolerable Cruelty,2003,PG-13,10 Oct 2003,100 min,71.0,6.2,"89,079",tt0138524,"$35,096,190"
+555,Knocked Up,Romance,22,6,3,121,53,knocked up,0,Knocked Up,2007,R,01 Jun 2007,129 min,85.0,6.9,"343,267",tt0478311,"$148,734,225"
+556,Hard to Kill,Romance,7,11,1,18,12,hard to kill,0,Hard to Kill,1990,R,09 Feb 1990,96 min,41.0,5.8,"26,659",tt0099739,
+557,Inventing the Abbotts,Romance,7,1,7,15,21,inventing the abbotts,0,Inventing the Abbotts,1997,R,04 Apr 1997,110 min,49.0,6.4,"11,311",tt0119381,
+558,High Fidelity,Romance,14,1,2,65,14,high fidelity,0,High Fidelity,2000,R,31 Mar 2000,113 min,79.0,7.5,"164,661",tt0146882,
+559,Hannah and Her Sisters,Romance,1,0,2,1,0,hannah and her sisters,0,Hannah and Her Sisters,1986,PG-13,14 Mar 1986,107 min,90.0,7.9,"64,792",tt0091167,
+560,It Happened One Night,Romance,0,0,0,0,0,it happened one night,0,It Happened One Night,1934,Approved,22 Feb 1934,105 min,87.0,8.1,"90,473",tt0025316,
+561,His Girl Friday,Romance,0,0,0,0,0,his girl friday,0,His Girl Friday,1940,Passed,18 Jan 1940,92 min,,7.9,"51,664",tt0032599,
+562,He's Just Not That Into You,Romance,10,0,0,1,21,he's just not that into you,0,He's Just Not That Into You,2009,PG-13,06 Feb 2009,129 min,47.0,6.4,"158,297",tt1001508,"$93,800,000"
+563,Groundhog Day,Romance,1,0,2,1,1,groundhog day,0,Groundhog Day,1993,PG,12 Feb 1993,101 min,72.0,8.0,"565,244",tt0107048,
+564,Hall Pass,Romance,9,1,1,1,9,hall pass,0,Hall Pass,2011,R,25 Feb 2011,105 min,45.0,5.8,"117,950",tt0480687,"$45,045,037"
+565,Ghost,Romance,3,2,14,5,5,ghost,0,Ghost,1990,PG-13,13 Jul 1990,127 min,52.0,7.0,"190,146",tt0099653,
+566,Garden State,Romance,7,7,1,70,30,garden state,0,Garden State,2004,R,20 Aug 2004,102 min,67.0,7.4,"204,465",tt0333766,"$26,706,668"
+567,Grand Hotel,Romance,0,0,0,0,0,grand hotel,0,Grand Hotel,1932,Not Rated,11 Sep 1932,112 min,,7.4,"16,495",tt0022958,
+568,Easy A,Romance,10,5,1,41,11,easy a,0,Easy A,2010,PG-13,17 Sep 2010,92 min,72.0,7.0,"348,160",tt1282140,"$58,401,464"
+569,Date Night,Romance,3,3,3,3,9,date night,0,Date Night,2010,PG-13,09 Apr 2010,88 min,56.0,6.3,"149,520",tt1279935,"$98,710,290"
+570,Megamind,Sci-Fi,7,2,3,0,6,megamind,0,Megamind,2010,PG,05 Nov 2010,95 min,63.0,7.2,"221,105",tt1001526,"$148,244,405"
+571,Even Cowgirls Get the Blues,Romance,2,3,1,3,8,even cowgirls get the blues,0,Even Cowgirls Get the Blues,1993,R,20 May 1994,95 min,28.0,4.4,"6,950",tt0106834,
+572,Men in Black 3,Sci-Fi,10,1,11,0,5,men in black 3,0,Men in Black 3,2012,PG-13,25 May 2012,106 min,58.0,6.8,"327,497",tt1409024,"$179,020,854"
+573,Extract,Romance,18,0,12,2,31,extract,0,Extract,2009,R,04 Sep 2009,92 min,61.0,6.1,"43,911",tt1225822,"$10,642,511"
+574,Next,Sci-Fi,5,2,6,0,6,next,0,Next,2007,PG-13,27 Apr 2007,96 min,42.0,6.2,"145,493",tt0435705,"$17,993,461"
+575,Men in Black,Sci-Fi,4,1,12,0,10,men in black,0,Men in Black,1997,PG-13,02 Jul 1997,98 min,71.0,7.3,"503,621",tt0119654,
+576,Mission to Mars,Sci-Fi,0,2,8,0,3,mission to mars,0,Mission to Mars,2000,PG,10 Mar 2000,114 min,34.0,5.7,"69,016",tt0183523,
+577,Edward Scissorhands,Romance,0,0,4,0,1,edward scissorhands,0,Edward Scissorhands,1990,PG-13,14 Dec 1990,105 min,74.0,7.9,"434,782",tt0099487,
+578,Mad Max 2: The Road Warrior,Sci-Fi,0,0,0,0,0,mad max 2: the road warrior,0,Mad Max 2: The Road Warrior,1981,R,21 May 1982,96 min,77.0,7.6,"162,472",tt0082694,
+579,Looper,Sci-Fi,3,0,8,29,13,looper,0,Looper,2012,R,28 Sep 2012,113 min,84.0,7.4,"522,483",tt1276104,"$66,305,045"
+580,Logan,Sci-Fi,11,1,4,35,19,logan,0,Logan,2017,R,03 Mar 2017,137 min,77.0,8.1,"619,868",tt3315342,"$226,276,809"
+581,Judge Dredd,Sci-Fi,10,2,6,6,3,judge dredd,0,Judge Dredd,1995,R,30 Jun 1995,96 min,,5.6,"107,979",tt0113492,
+582,Logan's Run,Sci-Fi,0,0,5,0,0,logan's run,0,Logan's Run,1976,PG,23 Jun 1976,119 min,53.0,6.8,"50,342",tt0074812,
+583,Interstellar,Sci-Fi,2,1,2,0,0,interstellar,0,Interstellar,2014,PG-13,07 Nov 2014,169 min,74.0,8.6,"1,424,440",tt0816692,"$158,737,441"
+584,I Am Number Four,Sci-Fi,2,0,3,1,1,i am number four,0,I Am Number Four,2011,PG-13,18 Feb 2011,111 min,36.0,6.1,"224,308",tt1464540,"$55,086,029"
+585,Lost in Space,Sci-Fi,1,1,11,0,2,lost in space,0,Lost in Space,2018–,TV-PG,13 Apr 2018,60 min,,7.3,"69,373",tt5232792,
+586,"I, Robot",Sci-Fi,3,0,1,0,4,"i, robot",0,"I, Robot",2004,PG-13,16 Jul 2004,115 min,59.0,7.1,"487,756",tt0343818,
+587,Ghostbusters,Sci-Fi,0,0,0,0,0,ghostbusters,0,Ghostbusters,1984,PG,08 Jun 1984,105 min,71.0,7.8,"344,050",tt0087332,
+588,Hot Tub Time Machine,Sci-Fi,11,1,6,57,23,hot tub time machine,0,Hot Tub Time Machine,2010,R,26 Mar 2010,101 min,63.0,6.4,"159,298",tt1231587,"$48,925,682"
+589,Her,Sci-Fi,3,1,0,32,6,her,0,Her,2013,R,10 Jan 2014,126 min,90.0,8.0,"518,386",tt1798709,"$17,901,029"
+590,Godzilla,Sci-Fi,0,1,11,0,2,godzilla,0,Godzilla,2014,PG-13,16 May 2014,123 min,62.0,6.4,"368,029",tt0831387,"$172,962,996"
+591,Gravity,Sci-Fi,0,1,2,0,7,gravity,0,Gravity,2013,PG-13,04 Oct 2013,91 min,96.0,7.7,"749,518",tt1454468,"$274,084,951"
+592,Highlander: Endgame,Sci-Fi,0,0,0,0,0,highlander: endgame,0,Highlander: Endgame,2000,R,01 Sep 2000,87 min,21.0,4.6,"19,029",tt0144964,
+593,Independence Day,Sci-Fi,4,2,12,3,5,independence day,0,Independence Day,1996,PG-13,03 Jul 1996,145 min,59.0,7.0,"516,789",tt0116629,
+594,Gamer,Sci-Fi,12,6,12,33,36,gamer,0,Gamer,2009,R,04 Sep 2009,95 min,27.0,5.8,"128,252",tt1034032,"$20,488,579"
+595,Sweet Smell of Success,Film-Noir,0,0,0,0,0,sweet smell of success,0,Sweet Smell of Success,1957,Approved,04 Jul 1957,96 min,100.0,8.1,"26,523",tt0051036,
+596,Sunset Blvd.,Film-Noir,0,0,0,0,0,sunset blvd.,0,Sunset Blvd.,1950,Passed,29 Sep 1950,110 min,,8.4,"193,512",tt0043014,
+597,Gattaca,Sci-Fi,0,1,6,2,1,gattaca,0,Gattaca,1997,PG-13,24 Oct 1997,106 min,64.0,7.8,"274,114",tt0119177,
+598,Slither,Horror,4,3,15,25,18,slither,0,Slither,2006,R,31 Mar 2006,95 min,69.0,6.4,"72,340",tt0439815,"$7,774,730"
+599,Shivers,Horror,0,0,1,0,0,shivers,0,Shivers,1975,R,06 Jul 1976,87 min,58.0,6.5,"17,029",tt0073705,
+600,Silver Bullet,Horror,5,1,8,8,14,silver bullet,0,Silver Bullet,1985,R,11 Oct 1985,95 min,26.0,6.4,"22,891",tt0090021,
+601,Signs,Horror,3,1,2,0,1,signs,0,Signs,2002,PG-13,02 Aug 2002,106 min,59.0,6.7,"329,663",tt0286106,"$227,935,522"
+602,Resident Evil,Horror,8,3,7,16,29,resident evil,0,Resident Evil,2002,R,15 Mar 2002,100 min,33.0,6.7,"241,735",tt0120804,"$39,532,308"
+603,Scary Movie 2,Horror,0,0,0,0,0,scary movie 2,0,Scary Movie 2,2001,R,04 Jul 2001,83 min,29.0,5.3,"146,030",tt0257106,
+604,Serial Mom,Horror,2,3,8,9,4,serial mom,0,Serial Mom,1994,R,13 Apr 1994,95 min,64.0,6.8,"26,154",tt0111127,
+605,Silence of the Lambs,Horror,2,5,7,11,8,silence of the lambs,0,Silence of the Lambs,2002–,,07 May 2002,,,7.8,11,tt2665218,
+606,Strangers on a Train,Film-Noir,0,0,0,0,0,strangers on a train,0,Strangers on a Train,1951,PG,30 Jun 1951,101 min,88.0,8.0,"119,936",tt0044079,
+607,Double Indemnity,Film-Noir,0,0,0,0,0,double indemnity,0,Double Indemnity,1944,Passed,06 Jul 1944,107 min,95.0,8.3,"137,436",tt0036775,
+608,Psycho,Horror,0,0,0,0,0,psycho,0,Psycho,1960,R,08 Sep 1960,109 min,97.0,8.5,"580,762",tt0054215,
+609,Priest,Horror,1,0,3,2,7,priest,0,Priest,2011,PG-13,13 May 2011,87 min,41.0,5.7,"112,664",tt0822847,"$29,100,000"
+610,Queen of the Damned,Horror,0,0,5,0,1,queen of the damned,0,Queen of the Damned,2002,R,22 Feb 2002,101 min,30.0,5.3,"51,416",tt0238546,"$31,000,000"
+611,Predator,Horror,3,4,7,15,12,predator,0,Predator,1987,R,12 Jun 1987,107 min,45.0,7.8,"362,392",tt0093773,
+612,Pitch Black,Horror,10,0,9,29,8,pitch black,0,Pitch Black,2000,R,18 Feb 2000,109 min,49.0,7.1,"221,297",tt0134847,
+613,Pet Sematary II,Horror,9,0,8,10,13,pet sematary ii,0,Pet Sematary II,1992,R,28 Aug 1992,100 min,35.0,4.9,"18,777",tt0105128,
+614,Orgy of the Dead,Horror,0,0,3,0,0,orgy of the dead,0,Orgy of the Dead,1965,Unrated,01 Jun 1965,92 min,,2.9,"2,400",tt0054240,
+615,Pet Sematary,Horror,3,2,8,2,10,pet sematary,0,Pet Sematary,1989,R,21 Apr 1989,103 min,38.0,6.6,"91,220",tt0098084,
+616,Pandorum,Horror,2,1,6,15,7,pandorum,0,Pandorum,2009,R,25 Sep 2009,108 min,28.0,6.7,"141,282",tt1188729,"$10,261,085"
+617,Perfect Creature,Horror,0,0,1,10,3,perfect creature,0,Perfect Creature,2006,R,18 Oct 2007,90 min,,5.4,"5,228",tt0403407,
+618,Nightbreed,Horror,5,0,12,24,19,nightbreed,0,Nightbreed,1990,R,16 Feb 1990,102 min,40.0,6.6,"18,970",tt0100260,
+619,Peeping Tom,Horror,0,1,0,0,0,peeping tom,0,Peeping Tom,1960,Not Rated,01 Dec 1961,101 min,,7.7,"29,733",tt0054167,
+620,Crazylove,Romance,1,2,3,10,1,crazylove,0,Crazylove,2005,,,95 min,,6.3,361,tt0416658,
+621,Mute Witness,Horror,0,0,3,2,5,mute witness,0,Mute Witness,1995,R,15 Sep 1995,95 min,,6.7,"5,168",tt0110604,
+622,"Crouching Tiger, Hidden Dragon",Romance,0,0,0,0,0,"crouching tiger, hidden dragon",0,"Crouching Tiger, Hidden Dragon",2000,PG-13,12 Jan 2001,120 min,94.0,7.8,"248,295",tt0190332,
+623,Cruel Intentions,Romance,10,5,0,31,23,cruel intentions,0,Cruel Intentions,1999,R,05 Mar 1999,97 min,56.0,6.8,"175,410",tt0139134,
+624,Misery,Horror,0,4,2,8,4,misery,0,Misery,1990,R,30 Nov 1990,107 min,75.0,7.8,"176,467",tt0100157,
+625,Clueless,Romance,0,0,0,0,0,clueless,0,Clueless,1995,PG-13,19 Jul 1995,97 min,68.0,6.8,"172,678",tt0112697,
+626,Cinema Paradiso,Romance,6,0,7,8,1,cinema paradiso,0,Cinema Paradiso,1988,R,23 Feb 1990,155 min,80.0,8.5,"220,232",tt0095765,"$239,630"
+627,Crash,Romance,0,1,0,2,0,crash,0,Crash,2004,R,06 May 2005,112 min,66.0,7.8,"413,193",tt0375679,"$55,382,847"
+628,Chasing Amy,Romance,14,25,5,116,60,chasing amy,0,Chasing Amy,1997,R,18 Apr 1997,113 min,71.0,7.2,"130,082",tt0118842,
+629,Celeste & Jesse Forever,Romance,2,1,0,46,18,celeste & jesse forever,0,Celeste & Jesse Forever,2012,R,24 Aug 2012,92 min,59.0,6.6,"28,381",tt1405365,"$3,094,687"
+630,Bruce Almighty,Romance,9,0,3,1,1,bruce almighty,0,Bruce Almighty,2003,PG-13,23 May 2003,101 min,46.0,6.8,"363,773",tt0315327,"$242,589,580"
+631,Bonnie and Clyde,Romance,2,3,20,1,0,bonnie and clyde,0,Bonnie and Clyde,1967,R,14 Aug 1967,111 min,86.0,7.8,"99,575",tt0061418,
+632,Burning Annie,Romance,5,1,4,9,34,burning annie,0,Burning Annie,2004,,08 Mar 2003,95 min,38.0,5.6,257,tt0307879,
+633,Broadcast News,Romance,4,2,7,8,9,broadcast news,0,Broadcast News,1987,R,25 Dec 1987,133 min,84.0,7.2,"26,026",tt0092699,
+634,Bull Durham,Romance,16,4,30,29,27,bull durham,0,Bull Durham,1988,R,15 Jun 1988,108 min,73.0,7.1,"45,793",tt0094812,
+635,Broken Embraces,Romance,2,3,2,8,2,broken embraces,0,Broken Embraces,2009,R,15 Jan 2010,127 min,76.0,7.2,"37,315",tt0913425,"$4,900,000"
+636,"Bodies, Rest & Motion",Romance,3,0,0,19,19,"bodies, rest & motion",0,"Bodies, Rest & Motion",1993,R,09 Apr 1993,95 min,,5.7,"2,137",tt0106447,
+637,Body of Evidence,Romance,2,3,0,8,1,body of evidence,0,Body of Evidence,1992,R,15 Jan 1993,99 min,29.0,4.5,"13,732",tt0106453,
+638,Blue Valentine,Romance,6,1,3,21,13,blue valentine,0,Blue Valentine,2010,R,28 Jan 2011,112 min,81.0,7.4,"179,610",tt1120985,"$9,600,000"
+639,Benny & Joon,Romance,0,0,0,0,0,benny & joon,0,Benny & Joon,1993,PG,23 Apr 1993,98 min,57.0,7.2,"53,594",tt0106387,
+640,Birdman,Romance,17,3,5,78,33,birdman,0,Birdman,1967–1987,TV-G,09 Sep 1967,30 min,,6.8,832,tt0061237,
+641,Birthday Girl,Romance,1,0,0,14,1,birthday girl,0,Birthday Girl,2001,R,01 Feb 2002,93 min,51.0,6.1,"23,959",tt0188453,"$4,919,896"
+642,Bodyguard,Romance,5,3,3,25,6,bodyguard,0,Bodyguard,2018–,TV-MA,26 Aug 2018,60 min,,8.1,"83,514",tt7493974,
+643,Beginners,Romance,1,0,0,6,0,beginners,0,Beginners,2010,R,09 Jun 2011,105 min,81.0,7.2,"85,878",tt1532503,"$5,764,842"
+644,Belle,Romance,0,0,1,0,0,belle,0,Belle,2013,PG,13 Jun 2014,100 min,64.0,7.3,"27,285",tt2404181,"$8,792,708"
+645,As Good As It Gets,Romance,4,3,2,5,4,as good as it gets,0,As Good as It Gets,1997,PG-13,25 Dec 1997,139 min,67.0,7.7,"268,254",tt0119822,
+646,G.I. Joe: The Rise of Cobra,Sci-Fi,11,2,5,0,4,g.i. joe: the rise of cobra,0,G.I. Joe: The Rise of Cobra,2009,PG-13,07 Aug 2009,118 min,32.0,5.8,"196,262",tt1046173,"$150,167,630"
+647,Angel Eyes,Romance,9,3,11,1,13,angel eyes,0,Angel Eyes,2001,R,18 May 2001,102 min,39.0,5.6,"22,124",tt0225071,
+648,Annie Hall,Romance,2,0,1,0,1,annie hall,0,Annie Hall,1977,PG,20 Apr 1977,93 min,92.0,8.0,"246,741",tt0075686,
+649,Autumn in New York,Romance,4,2,8,1,5,autumn in new york,0,Autumn in New York,2000,PG-13,11 Aug 2000,103 min,24.0,5.7,"24,293",tt0174480,
+650,Escape From L.A.,Sci-Fi,5,0,6,4,15,escape from l.a.,0,Escape from L.A.,1996,R,09 Aug 1996,101 min,54.0,5.8,"67,869",tt0116225,
+651,Escape From New York,Sci-Fi,10,2,2,3,14,escape from new york,0,Escape from New York,1981,R,10 Jul 1981,99 min,76.0,7.2,"121,061",tt0082340,
+652,Eternal Sunshine of the Spotless Mind,Sci-Fi,1,1,4,30,18,eternal sunshine of the spotless mind,0,Eternal Sunshine of the Spotless Mind,2004,R,19 Mar 2004,108 min,89.0,8.3,"880,215",tt0338013,"$34,126,138"
+653,Dark Star,Sci-Fi,0,0,3,3,1,dark star,0,Dark Star,1974,G,09 Feb 1979,83 min,66.0,6.3,"21,554",tt0069945,
+654,Fantastic Four,Sci-Fi,1,0,8,0,1,fantastic four,0,Fantastic Four,2005,PG-13,08 Jul 2005,106 min,40.0,5.7,"306,728",tt0120667,"$154,485,963"
+655,Freaked,Sci-Fi,5,0,12,3,17,freaked,0,Freaked,1993,PG-13,31 Mar 1994,80 min,,6.4,"6,150",tt0109838,
+656,Darkman,Sci-Fi,5,4,3,7,3,darkman,0,Darkman,1990,R,24 Aug 1990,96 min,65.0,6.4,"56,589",tt0099365,
+657,Dune,Sci-Fi,1,0,4,0,0,dune,0,Dune,1984,PG-13,14 Dec 1984,137 min,40.0,6.5,"119,802",tt0087182,
+658,Cowboys & Aliens,Sci-Fi,8,5,41,2,15,cowboys & aliens,0,Cowboys & Aliens,2011,PG-13,29 Jul 2011,119 min,50.0,6.0,"203,646",tt0409847,"$100,215,116"
+659,Chronicle,Sci-Fi,10,5,4,78,38,chronicle,0,Chronicle,2012,PG-13,03 Feb 2012,84 min,69.0,7.0,"236,421",tt1706593,"$60,800,000"
+660,eXistenZ,Sci-Fi,1,0,2,7,2,existenz,0,eXistenZ,1999,R,23 Apr 1999,97 min,68.0,6.8,"91,724",tt0120907,
+661,Brazil,Sci-Fi,1,1,5,3,7,brazil,0,Brazil,1985,R,18 Dec 1985,132 min,84.0,7.9,"183,229",tt0088846,
+662,Blade Runner,Sci-Fi,4,1,1,11,4,blade runner,0,Blade Runner,1982,R,25 Jun 1982,117 min,84.0,8.1,"671,833",tt0083658,
+663,Black Panther,Sci-Fi,1,0,0,0,7,black panther,0,Black Panther,2018,PG-13,16 Feb 2018,134 min,88.0,7.3,"587,388",tt1825683,"$501,105,037"
+664,Little Nicky,Horror,13,1,7,0,11,little nicky,0,Little Nicky,2000,PG-13,10 Nov 2000,90 min,38.0,5.3,"95,788",tt0185431,"$38,542,597"
+665,Arcade,Sci-Fi,1,0,1,20,14,arcade,0,Arcade,1993,R,30 Mar 1994,85 min,,4.7,"1,442",tt0106302,
+666,Leviathan,Horror,8,5,12,28,21,leviathan,0,Leviathan,2014,R,05 Feb 2015,140 min,92.0,7.6,"47,377",tt2802154,"$754,393"
+667,Legion,Horror,4,6,12,50,11,legion,0,Legion,2010,R,22 Jan 2010,100 min,32.0,5.2,"97,302",tt1038686,"$40,168,080"
+668,Avatar,Sci-Fi,10,8,14,1,14,avatar,0,Avatar,2009,PG-13,18 Dec 2009,162 min,83.0,7.8,"1,095,138",tt0499549,"$749,700,000"
+669,Jurassic Park III,Horror,1,0,7,0,3,jurassic park iii,0,Jurassic Park III,2001,PG-13,18 Jul 2001,92 min,42.0,5.9,"288,763",tt0163025,
+670,Jennifer's Body,Horror,9,3,2,18,13,jennifer's body,0,Jennifer's Body,2009,R,18 Sep 2009,102 min,47.0,5.2,"111,913",tt1131734,"$16,031,583"
+671,Lake Placid,Horror,2,0,1,13,12,lake placid,0,Lake Placid,1999,R,16 Jul 1999,82 min,34.0,5.7,"53,156",tt0139414,
+672,Jaws 2,Horror,6,5,18,0,19,jaws 2,0,Jaws 2,1978,PG,16 Jun 1978,116 min,51.0,5.8,"68,798",tt0077766,
+673,Jaws,Horror,4,5,9,0,1,jaws,0,Jaws,1975,PG,20 Jun 1975,124 min,87.0,8.0,"531,727",tt0073195,
+674,Armageddon,Sci-Fi,15,4,12,4,14,armageddon,0,Armageddon,1998,PG-13,01 Jul 1998,151 min,42.0,6.7,"387,888",tt0120591,
+675,Land of the Dead,Horror,5,1,3,30,9,land of the dead,0,Land of the Dead,2005,R,24 Jun 2005,93 min,71.0,6.2,"90,019",tt0418819,"$20,433,940"
+676,Jurassic Park,Horror,1,1,13,0,12,jurassic park,0,Jurassic Park,1993,PG-13,11 Jun 1993,127 min,68.0,8.1,"836,515",tt0107290,"$45,299,680"
+677,Insidious,Horror,2,3,1,6,4,insidious,0,Insidious,2010,PG-13,01 Apr 2011,103 min,52.0,6.8,"269,122",tt1591095,"$53,700,000"
+678,It,Horror,8,0,4,10,20,it,0,It,2017,R,08 Sep 2017,135 min,69.0,7.3,"436,909",tt1396484,"$326,898,358"
+679,Jason X,Horror,24,12,17,20,39,jason x,0,Jason X,2001,R,26 Apr 2002,91 min,25.0,4.4,"48,982",tt0211443,"$12,610,731"
+680,House of 1000 Corpses,Horror,17,12,13,84,41,house of 1000 corpses,0,House of 1000 Corpses,2003,R,11 Apr 2003,89 min,31.0,6.1,"74,271",tt0251736,"$12,583,510"
+681,Hollow Man,Horror,3,0,25,16,19,hollow man,0,Hollow Man,2000,R,04 Aug 2000,112 min,24.0,5.8,"121,015",tt0164052,"$72,055,301"
+682,I Spit on Your Grave,Horror,19,10,11,29,32,i spit on your grave,0,I Spit on Your Grave,2010,R,20 Jan 2011,108 min,27.0,6.3,"73,601",tt1242432,"$92,401"
+683,Heavy Metal,Horror,3,4,4,2,4,heavy metal,0,Heavy Metal,1981,R,07 Aug 1981,86 min,51.0,6.7,"30,539",tt0082509,
+684,Hellboy,Horror,1,0,3,0,0,hellboy,0,Hellboy,2004,PG-13,02 Apr 2004,122 min,72.0,6.8,"301,177",tt0167190,"$59,035,104"
+685,Hellraiser,Horror,2,2,10,11,8,hellraiser,0,Hellraiser,1987,R,18 Sep 1987,94 min,57.0,7.0,"99,356",tt0093177,
+686,Hellraiser: Hellseeker,Horror,7,2,0,15,6,hellraiser: hellseeker,0,Hellraiser: Hellseeker,2002,R,15 Oct 2002,89 min,46.0,5.0,"10,764",tt0274546,
+687,Hellbound: Hellraiser II,Horror,1,2,0,5,13,hellbound: hellraiser ii,0,Hellbound: Hellraiser II,1988,R,23 Dec 1988,97 min,41.0,6.5,"40,301",tt0095294,
+688,Grabbers,Horror,1,1,0,9,9,grabbers,0,Grabbers,2012,Not Rated,10 Aug 2012,94 min,62.0,6.3,"16,540",tt1525366,
+689,Gremlins,Horror,3,1,6,1,1,gremlins,0,Gremlins,1984,PG,08 Jun 1984,106 min,70.0,7.3,"190,722",tt0087363,
+690,Halloween: The Curse of Michael Myers,Horror,6,0,9,6,6,halloween: the curse of michael myers,0,Halloween: The Curse of Michael Myers,1995,R,29 Sep 1995,87 min,10.0,4.9,"30,004",tt0113253,
+691,Ginger Snaps,Horror,10,5,4,38,17,ginger snaps,0,Ginger Snaps,2000,Not Rated,11 May 2001,108 min,70.0,6.8,"40,534",tt0210070,
+692,Halloween,Horror,6,4,3,16,15,halloween,0,Halloween,1978,R,27 Oct 1978,91 min,87.0,7.8,"220,388",tt0077651,
+693,From Dusk Till Dawn,Horror,15,8,8,118,45,from dusk till dawn,0,From Dusk Till Dawn,1996,R,19 Jan 1996,108 min,48.0,7.2,"278,873",tt0116367,
+694,Heavenly Creatures,Horror,0,0,5,0,0,heavenly creatures,0,Heavenly Creatures,1994,R,14 Oct 1994,99 min,,7.3,"57,795",tt0110005,
+695,Ghost Ship,Horror,6,3,11,17,8,ghost ship,0,Ghost Ship,2002,R,25 Oct 2002,91 min,28.0,5.5,"91,186",tt0288477,"$30,100,000"
+696,Hannibal,Horror,0,1,0,2,0,hannibal,0,Hannibal,2001,R,09 Feb 2001,131 min,57.0,6.8,"247,645",tt0212985,"$163,877,858"
+697,Amour,Romance,0,0,0,1,0,amour,0,Amour,2012,PG-13,20 Sep 2012,127 min,94.0,7.9,"90,346",tt1602620,"$6,700,000"
+698,Almost Famous,Romance,3,0,3,21,2,almost famous,0,Almost Famous,2000,R,22 Sep 2000,122 min,90.0,7.9,"244,995",tt0181875,"$31,716,715"
+699,10 Things I Hate About You,Romance,10,7,4,5,9,10 things i hate about you,0,10 Things I Hate About You,1999,PG-13,31 Mar 1999,97 min,70.0,7.3,"286,162",tt0147800,
+700,17 Again,Romance,0,1,1,0,1,17 again,0,17 Again,2009,PG-13,17 Apr 2009,102 min,48.0,6.3,"175,034",tt0974661,"$64,087,443"
+701,Alien Nation,Sci-Fi,8,5,12,2,20,alien nation,0,Alien Nation,1988,R,07 Oct 1988,91 min,45.0,6.3,"13,735",tt0094631,
+702,500 Days of Summer,Romance,4,4,4,10,24,500 days of summer,0,500 Days of Summer,2009,PG-13,07 Aug 2009,95 min,76.0,7.7,"461,195",tt1022603,"$32,118,648"
+703,2001: A Space Odyssey,Sci-Fi,0,0,3,0,0,2001: a space odyssey,0,2001: A Space Odyssey,1968,G,12 May 1968,149 min,84.0,8.3,"581,882",tt0062622,"$135,620"
+704,Quantum Project,Short,0,1,0,0,0,quantum project,0,Quantum Project,2000,,05 May 2000,40 min,,5.9,39,tt0239860,
+705,12 Monkeys,Sci-Fi,6,3,4,8,5,12 monkeys,0,12 Monkeys,1995,R,05 Jan 1996,129 min,74.0,8.0,"565,400",tt0114746,
+706,9,Sci-Fi,0,0,0,0,0,9,0,9,2009,PG-13,09 Sep 2009,79 min,60.0,7.1,"130,452",tt0472033,"$31,691,649"
+707,My Mother Dreams the Satan's Disciples in New York,Short,1,0,1,3,2,my mother dreams the satan's disciples in new york,0,My Mother Dreams the Satan's Disciples in New York,1998,,01 Oct 1998,30 min,,7.2,108,tt0177023,
+708,Wild Things: Diamonds in the Rough,Mystery,5,10,10,16,14,wild things: diamonds in the rough,0,Wild Things: Diamonds in the Rough,2005,R,19 Feb 2005,87 min,,4.5,"4,528",tt0448179,
+709,Whiteout,Mystery,4,4,7,3,7,whiteout,0,Whiteout,2009,R,11 Sep 2009,101 min,,5.5,"36,710",tt0365929,"$10,300,000"
+710,What Lies Beneath,Mystery,3,3,1,4,3,what lies beneath,0,What Lies Beneath,2000,PG-13,21 Jul 2000,130 min,51.0,6.6,"115,116",tt0161081,"$155,018,556"
+711,Vanilla Sky,Mystery,2,2,0,33,7,vanilla sky,0,Vanilla Sky,2001,R,14 Dec 2001,136 min,45.0,6.9,"242,934",tt0259711,
+712,Unknown,Mystery,0,2,3,2,2,unknown,0,Unknown,2011,PG-13,18 Feb 2011,113 min,56.0,6.8,"243,834",tt1401152,"$63,677,735"
+713,Twin Peaks,Mystery,1,0,6,3,5,twin peaks,0,Twin Peaks,1990–1991,TV-MA,08 Apr 1990,47 min,,8.8,"167,193",tt0098936,
+714,Thunderheart,Mystery,11,2,11,37,26,thunderheart,0,Thunderheart,1992,R,03 Apr 1992,119 min,,6.8,"13,569",tt0105585,
+715,Tinker Tailor Soldier Spy,Mystery,0,0,10,9,0,tinker tailor soldier spy,0,Tinker Tailor Soldier Spy,2011,R,06 Jan 2012,122 min,85.0,7.1,"182,286",tt1340800,"$20,200,000"
+716,Super 8,Mystery,5,2,5,8,17,super 8,0,Super 8,2011,PG-13,10 Jun 2011,112 min,72.0,7.0,"332,405",tt1650062,"$126,975,169"
+717,Strange Days,Mystery,10,6,17,47,30,strange days,0,Strange Days,1995,R,13 Oct 1995,145 min,66.0,7.2,"65,550",tt0114558,
+718,Source Code,Mystery,3,1,5,10,6,source code,0,Source Code,2011,PG-13,01 Apr 2011,93 min,74.0,7.5,"473,918",tt0945513,"$54,696,902"
+719,Stir of Echoes,Mystery,8,3,3,22,13,stir of echoes,0,Stir of Echoes,1999,R,10 Sep 1999,99 min,67.0,7.0,"72,713",tt0164181,
+720,Six Degrees of Separation,Mystery,1,1,2,13,3,six degrees of separation,0,Six Degrees of Separation,1993,R,08 Dec 1993,112 min,72.0,6.8,"19,325",tt0108149,
+721,Sleepy Hollow,Mystery,1,2,10,0,0,sleepy hollow,0,Sleepy Hollow,1999,R,19 Nov 1999,105 min,65.0,7.3,"320,922",tt0162661,
+722,Sherlock Holmes,Mystery,0,0,0,1,2,sherlock holmes,0,Sherlock Holmes,2009,PG-13,25 Dec 2009,128 min,57.0,7.6,"570,347",tt0988045,"$208,711,166"
+723,Se7en,Mystery,1,3,6,49,7,se7en,0,Se7en,1995,R,22 Sep 1995,127 min,65.0,8.6,"1,386,280",tt0114369,
+724,Scream 3,Mystery,6,2,10,34,29,scream 3,0,Scream 3,2000,R,04 Feb 2000,116 min,56.0,5.6,"120,066",tt0134084,
+725,Scream,Mystery,6,4,5,23,23,scream,0,Scream,1996,R,20 Dec 1996,111 min,65.0,7.2,"276,236",tt0117571,
+726,Scream 2,Mystery,6,5,1,7,23,scream 2,0,Scream 2,1997,R,12 Dec 1997,120 min,63.0,6.2,"152,234",tt0120082,
+727,S. Darko,Mystery,7,3,3,37,17,s. darko,0,S. Darko,2009,R,21 Aug 2009,103 min,,3.6,"13,023",tt1231277,
+728,Red Riding Hood,Mystery,2,0,1,0,0,red riding hood,0,Red Riding Hood,2011,PG-13,11 Mar 2011,100 min,29.0,5.5,"105,800",tt1486185,"$37,200,000"
+729,Ringu,Mystery,0,0,0,0,0,ringu,0,Ringu,1998,Not Rated,31 Jan 1998,96 min,,7.2,"61,624",tt0178868,
+730,Saw,Mystery,2,2,2,32,16,saw,0,Saw,2004,R,29 Oct 2004,103 min,46.0,7.6,"369,218",tt0387564,"$55,100,000"
+731,Prom Night,Mystery,2,1,5,0,2,prom night,0,Prom Night,2008,PG-13,11 Apr 2008,88 min,17.0,3.9,"33,088",tt0926129,"$43,818,159"
+732,Prometheus,Mystery,0,1,4,4,2,prometheus,0,Prometheus,2012,R,08 Jun 2012,124 min,64.0,7.0,"557,392",tt1446714,"$126,464,904"
+733,Valkyrie,War,0,1,5,5,4,valkyrie,0,Valkyrie,2008,PG-13,25 Dec 2008,121 min,56.0,7.1,"223,731",tt0985699,"$82,989,109"
+734,Rear Window,Mystery,0,0,0,0,0,rear window,0,Rear Window,1954,PG,01 Sep 1954,112 min,100.0,8.4,"428,644",tt0047396,
+735,Tropic Thunder,War,15,5,2,25,23,tropic thunder,0,Tropic Thunder,2008,R,13 Aug 2008,107 min,71.0,7.0,"369,925",tt0942385,"$110,416,702"
+736,Schindler's List,War,0,0,2,5,0,schindler's list,0,Schindler's List,1993,R,04 Feb 1994,195 min,94.0,8.9,"1,171,229",tt0108052,
+737,Three Kings,War,14,1,10,43,28,three kings,0,Three Kings,1999,R,01 Oct 1999,114 min,82.0,7.1,"157,590",tt0120188,
+738,Saving Private Ryan,War,6,5,37,20,10,saving private ryan,0,Saving Private Ryan,1998,R,24 Jul 1998,169 min,91.0,8.6,"1,193,695",tt0120815,
+739,Pearl Harbor,War,4,8,2,8,26,pearl harbor,0,Pearl Harbor,2001,PG-13,25 May 2001,183 min,44.0,6.2,"305,436",tt0213149,"$197,761,540"
+740,Platoon,War,39,10,11,113,100,platoon,0,Platoon,1986,R,06 Feb 1987,120 min,92.0,8.1,"370,072",tt0091763,
+741,Inglourious Basterds,War,9,4,18,39,6,inglourious basterds,0,Inglourious Basterds,2009,R,21 Aug 2009,153 min,69.0,8.3,"1,217,923",tt0361748,"$120,523,073"
+742,Coriolanus,War,0,0,0,0,0,coriolanus,0,Coriolanus,2011,R,20 Jan 2012,123 min,79.0,6.1,"30,473",tt1372686,"$487,578"
+743,Defiance,War,3,3,0,7,16,defiance,0,Defiance,2008,R,16 Jan 2009,137 min,58.0,7.2,"134,977",tt1034303,"$28,622,873"
+744,From Here to Eternity,War,0,0,0,0,0,from here to eternity,0,From Here to Eternity,1953,Passed,28 Aug 1953,118 min,85.0,7.6,"41,623",tt0045793,
+745,Cold Mountain,War,5,1,8,3,7,cold mountain,0,Cold Mountain,2003,R,25 Dec 2003,154 min,73.0,7.2,"137,116",tt0159365,
+746,Hotel Rwanda,War,3,0,0,8,3,hotel rwanda,0,Hotel Rwanda,2004,PG-13,04 Feb 2005,121 min,79.0,8.1,"326,991",tt0395169,"$23,472,900"
+747,,,,,,,,american wrestler: the wizard,0,American Wrestler: The Wizard,2016.0,PG-13,16 May 2017,117 min,,7.2,"1,807",tt4303202,
+748,,,,,,,,"sex, lies, and videotape",0,"Sex, Lies, and Videotape",1989.0,R,22 Sep 1989,100 min,86.0,7.2,"48,347",tt0098724,
+749,,,,,,,,prom queen: the marc hall story,0,Prom Queen: The Marc Hall Story,2004.0,,01 Jun 2004,92 min,,6.6,856,tt0410953,
+750,,,,,,,,the power of one: the pokemon 2000 movie special,0,The Power of One: The Pokemon 2000 Movie Special,2000.0,,16 Jul 2000,30 min,,8.1,43,tt0382918,
+751,,,,,,,,the withnail and i drinking game,0,The Withnail and I Drinking Game,2006.0,,,15 min,,5.3,17,tt0870218,
+752,,,,,,,,who's your daddy?,0,Who's Your Daddy?,2002.0,R,20 Jan 2004,105 min,,4.7,"4,295",tt0287138,
+753,,,,,,,,kramer vs. kramer,0,Kramer vs. Kramer,1979,PG,19 Dec 1979,105 min,77.0,7.8,"128,018",tt0079417,
+754,,,,,,,,puppet master: the littlest reich,0,Puppet Master: The Littlest Reich,2018,Not Rated,17 Aug 2018,90 min,52.0,5.4,"3,192",tt5685006,
+755,,,,,,,,mr. blandings builds his dream house,0,Mr. Blandings Builds His Dream House,1948,Approved,04 Jun 1948,94 min,,7.3,"9,775",tt0040613,
+756,,,,,,,,ice storm: the salé and pelletier affair,0,Ice Storm: The Salé and Pelletier Affair,2006,,07 Jan 2006,44 min,,7.1,9,tt0758914,
+757,,,,,,,,mr. deeds goes to town,0,Mr. Deeds Goes to Town,1936,Not Rated,12 Apr 1936,115 min,,7.9,"19,113",tt0027996,
+758,,,,,,,,"ni vu, ni connu",0,"Ni vu, ni connu",2011,,07 Nov 2011,100 min,,6.1,14,tt2070755,
+759,,,,,,,,god help the girl,0,God Help the Girl,2014,Unrated,05 Sep 2014,112 min,58.0,6.4,"8,369",tt2141751,
+760,,,,,,,,the black forest hospital: the next generation,0,The Black Forest Hospital: The Next Generation,2005,,20 Feb 2005,100 min,,4.9,71,tt0441789,
+761,,,,,,,,the doors: the soft parade,0,The Doors: The Soft Parade,1991,,,50 min,,7.9,247,tt0195660,
+762,,,,,,,,street fighter: the legend of chun-li,0,Street Fighter: The Legend of Chun-Li,2009,PG-13,27 Feb 2009,96 min,17.0,3.7,"22,615",tt0891592,"$8,646,753"
+763,,,,,,,,the bonfire of the vanities,0,The Bonfire of the Vanities,1990,R,21 Dec 1990,125 min,27.0,5.6,"21,098",tt0099165,
+764,,,,,,,,austin powers: the spy who shagged me,0,Austin Powers: The Spy Who Shagged Me,1999,PG-13,11 Jun 1999,95 min,59.0,6.6,"212,319",tt0145660,
+765,,,,,,,,austin powers: international man of mystery,0,Austin Powers: International Man of Mystery,1997,PG-13,02 May 1997,89 min,51.0,7.0,"216,258",tt0118655,
+766,,,,,,,,the long way back: the story of todd z-man zalkins,0,The Long Way Back: The Story of Todd Z-Man Zalkins,2017,Not Rated,,90 min,,8.0,23,tt6573720,
+767,,,,,,,,the world is not enough: the hong kong press conference,0,The World Is Not Enough: The Hong Kong Press Conference,2006,,17 Jul 2006,10 min,,5.6,9,tt0828400,
+768,,,,,,,,thor: ragnarok,0,Thor: Ragnarok,2017,PG-13,03 Nov 2017,130 min,74.0,7.9,"555,646",tt3501632,"$314,971,245"
+769,,,,,,,,sting: the brand new day tour - live from the universal amphitheatre,0,Sting: The Brand New Day Tour - Live from the Universal Amphitheatre,2000,,,88 min,,7.6,113,tt0271804,
+770,,,,,,,,revelation road: the beginning of the end,0,Revelation Road: The Beginning of the End,2013,Not Rated,01 Mar 2013,88 min,,4.9,"1,706",tt2412746,
+771,,,,,,,,pirates of the caribbean: the curse of the black pearl,0,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,09 Jul 2003,143 min,63.0,8.0,"997,584",tt0325980,"$305,343,252"
+772,,,,,,,,master and commander: the far side of the world,0,Master and Commander: The Far Side of the World,2003,PG-13,14 Nov 2003,138 min,81.0,7.4,"196,696",tt0311113,"$92,100,000"
+773,,,,,,,,mission: impossible,0,Mission: Impossible,1996,PG-13,22 May 1996,110 min,59.0,7.1,"377,541",tt0117060,
+774,,,,,,,,the man in the iron mask,0,The Man in the Iron Mask,1998,PG-13,13 Mar 1998,132 min,48.0,6.5,"153,059",tt0120744,
+775,,,,,,,,"o brother, where art thou?",0,"O Brother, Where Art Thou?",2000,PG-13,02 Feb 2001,107 min,69.0,7.7,"276,491",tt0190590,"$45,150,731"
+776,,,,,,,,the 10th kingdom: the making of an epic,0,The 10th Kingdom: The Making of an Epic,2000,,,30 min,,7.9,253,tt0231059,
+777,,,,,,,,guardians of the galaxy vol. 2,0,Guardians of the Galaxy Vol. 2,2017,PG-13,05 May 2017,136 min,67.0,7.6,"542,063",tt3896198,"$389,804,217"
+778,,,,,,,,the godfather: part ii,0,The Godfather: Part II,1974,R,18 Dec 1974,202 min,90.0,9.0,"1,087,543",tt0071562,
+779,,,,,,,,auction insider: the john zimmer collection,0,Auction Insider: The John Zimmer Collection,2014,,06 Dec 2014,,,9.0,9,tt4234664,
+780,,,,,,,,the departed: the inspiration,0,The Departed: The Inspiration,2007,,,13 min,,8.5,24,tt6789740,
+781,,,,,,,,scott pilgrim vs. the world,0,Scott Pilgrim vs. the World,2010,PG-13,13 Aug 2010,112 min,69.0,7.5,"364,263",tt0446029,"$31,494,270"
+782,,,,,,,,star wars: the force awakens world premiere red carpet,0,Star Wars: The Force Awakens World Premiere Red Carpet,2015,,14 Dec 2015,108 min,,7.8,5,tt7768640,
+783,,,,,,,,national geographic: beyond the movie - the lord of the rings: return of the king,0,National Geographic: Beyond the Movie - The Lord of the Rings: Return of the King,2003,Not Rated,12 Dec 2003,52 min,,6.5,290,tt0405185,
+784,,,,,,,,who framed roger rabbit,0,Who Framed Roger Rabbit,1988,PG,22 Jun 1988,104 min,83.0,7.7,"177,122",tt0096438,
+785,,,,,,,,ultimate avengers: the movie,0,Ultimate Avengers: The Movie,2006,PG-13,21 Feb 2006,72 min,,6.7,"11,771",tt0491703,
+786,,,,,,,,the lord of the rings: the two towers,0,The Lord of the Rings: The Two Towers,2002,PG-13,18 Dec 2002,179 min,87.0,8.7,"1,438,266",tt0167261,"$339,700,000"
+787,,,,,,,,a walk to remember: a day on the set with mandy moore,0,A Walk to Remember: A Day on the Set with Mandy Moore,2002,,,5 min,,6.9,14,tt3921080,
+788,,,,,,,,the saint: the brazilian connection,0,The Saint: The Brazilian Connection,1989,,,92 min,,6.7,26,tt0235734,
+789,,,,,,,,time machine: the journey back,0,Time Machine: The Journey Back,1993,,,48 min,,7.8,209,tt0300555,
+790,,,,,,,,the transformers: the movie,0,The Transformers: The Movie,1986,PG,08 Aug 1986,84 min,,7.3,"36,621",tt0092106,
+791,,,,,,,,wall·e,0,WALL·E,2008,G,27 Jun 2008,98 min,95.0,8.4,"967,549",tt0910970,"$223,749,872"
+792,,,,,,,,the cable guy,0,The Cable Guy,1996,PG-13,14 Jun 1996,96 min,56.0,6.1,"148,526",tt0115798,
+793,,,,,,,,pokémon: mewtwo returns,0,Pokémon: Mewtwo Returns,2000,Not Rated,04 Dec 2001,63 min,,6.5,"3,164",tt0304564,
+794,,,,,,,,tales from the neverending story: the beginning,0,Tales from the Neverending Story: The Beginning,2001,,,120 min,,5.5,33,tt2157312,
+795,,,,,,,,fantastic mr fox: t4 movie special,0,Fantastic Mr Fox: T4 Movie Special,2009,,24 Oct 2009,,,7.8,29,tt1531905,
+796,,,,,,,,piano: the melody of a young girl's heart,0,Piano: The Melody of a Young Girl's Heart,2002–2003,,01 Jan 2002,24 min,,6.6,11,tt1071676,
+797,,,,,,,,the princess bride: the untold tales,0,The Princess Bride: The Untold Tales,2007,,,,,8.0,7,tt7716840,
+798,,,,,,,,"mrs. brown, you've got a lovely daughter",0,"Mrs. Brown, You've Got a Lovely Daughter",1968,G,01 Jan 1968,110 min,,4.7,381,tt0063325,
+799,,,,,,,,behind the mask: the rise of leslie vernon,0,Behind the Mask: The Rise of Leslie Vernon,2006,R,13 Oct 2006,92 min,66.0,6.7,"20,933",tt0437857,
+800,,,,,,,,"poetry, passion, the postman: the poetic return of pablo neruda",0,"Poetry, Passion, the Postman: The Poetic Return of Pablo Neruda",1996,,,29 min,,6.9,16,tt1013685,
+801,,,,,,,,dawn of the planet of the apes: the world of 'dawn',0,Dawn of the Planet of the Apes: The World of 'Dawn',2014,,02 Dec 2014,15 min,,8.5,6,tt5244540,
+802,,,,,,,,the omega man,0,The Omega Man,1971,PG,01 Aug 1971,98 min,56.0,6.5,"28,013",tt0067525,
+803,,,,,,,,laguna beach: the real orange county,0,Laguna Beach: The Real Orange County,2004–2006,TV-PG,28 Sep 2004,30 min,,4.8,"3,516",tt0426738,
+804,,,,,,,,assignment: the world,0,Assignment: The World,1959–,,,15 min,,6.9,7,tt1419879,
+805,,,,,,,,american: the bill hicks story,0,American: The Bill Hicks Story,2009,Not Rated,08 Apr 2011,102 min,55.0,7.8,"4,714",tt1179947,"$90,275"
+806,,,,,,,,"the chronicles of narnia: the lion, the witch and the wardrobe",0,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,09 Dec 2005,143 min,75.0,6.9,"356,487",tt0363771,"$291,685,219"
+807,,,,,,,,butterfly effect: the creative process,0,Butterfly Effect: The Creative Process,2004,,06 Jul 2004,18 min,,6.3,19,tt0464794,
+808,,,,,,,,next big thing: the 2 skinnee j's farewell show,0,Next Big Thing: The 2 Skinnee J's Farewell Show,2005,,18 Jul 2005,120 min,,8.2,8,tt0479727,
+809,,,,,,,,the fault in our stars: the stars align,0,The Fault in Our Stars: The Stars Align,2014,,16 Sep 2014,,,7.8,31,tt4078994,
+810,,,,,,,,f. scott fitzgerald's 'the great gatsby': the making of a classic,0,F. Scott Fitzgerald's 'The Great Gatsby': The Making of a Classic,2000,,01 Dec 2000,,,5.0,11,tt0365178,
+811,,,,,,,,the matrix: the movie special,0,The Matrix: The Movie Special,1999,Approved,28 Mar 1999,30 min,,7.8,69,tt0438231,
+812,,,,,,,,your favorite martian: the series,0,Your Favorite Martian: The Series,2011–,,02 Dec 2011,,,6.2,94,tt2141561,
+813,,,,,,,,surviving gilligan's island: the incredibly true story of the longest three hour tour in history,0,Surviving Gilligan's Island: The Incredibly True Story of the Longest Three Hour Tour in History,2001,,14 Oct 2001,100 min,,7.2,445,tt0286181,
+814,,,,,,,,time is but a window: ghostbusters 2 and beyond,0,Time Is But a Window: Ghostbusters 2 and Beyond,2014,,16 Sep 2014,17 min,,6.4,5,tt4083432,
+815,,,,,,,,shining the ball,0,Shining the Ball,2005,,10 Jun 2005,17 min,,4.3,36,tt0470918,
+816,,,,,,,,my roommate the,0,My Roommate the,2010–,,01 Mar 2010,8 min,,8.5,53,tt1863469,
+817,,,,,,,,city of ruins: the halifax explosion,0,City of Ruins: The Halifax Explosion,2003,,28 Oct 2003,60 min,,6.7,6,tt0387938,
+818,,,,,,,,revenge of the mummy: the ride,0,Revenge of the Mummy: The Ride,2004,,21 May 2004,6 min,,7.5,966,tt0409221,
+819,,,,,,,,the crying game,0,The Crying Game,1992,R,19 Feb 1993,112 min,90.0,7.2,"49,460",tt0104036,
+820,,,,,,,,the cider house rules: the making of an american classic,0,The Cider House Rules: The Making of an American Classic,1999,,,23 min,,5.5,84,tt0370414,
+821,,,,,,,,"crazy, stupid, love.",0,"Crazy, Stupid, Love.",2011,PG-13,29 Jul 2011,118 min,68.0,7.4,"459,394",tt1570728,"$83,300,000"
+822,,,,,,,,bounty hunter: the hard,0,Bounty Hunter: The Hard,1996,,01 May 1996,60 min,,5.0,7,tt6051146,
+823,,,,,,,,a portrait of an artist: the making of 'get rich or die tryin',0,A Portrait of an Artist: The Making of 'Get Rich or Die Tryin',2006,,28 Mar 2006,29 min,,7.0,51,tt0811024,
+824,,,,,,,,e.t. the extra-terrestrial,0,E.T. the Extra-Terrestrial,1982,PG,11 Jun 1982,115 min,91.0,7.8,"358,478",tt0083866,
+825,,,,,,,,battle los angeles,0,Battle Los Angeles,2011,PG-13,11 Mar 2011,116 min,37.0,5.7,"172,012",tt1217613,"$83,537,651"
+826,,,,,,,,the making of 'jurassic park: the lost world',0,The Making of 'Jurassic Park: The Lost World',1997,,,13 min,,7.1,52,tt0369690,
+827,,,,,,,,interview with the vampire: the vampire chronicles,0,Interview with the Vampire: The Vampire Chronicles,1994,R,11 Nov 1994,123 min,59.0,7.6,"287,024",tt0110148,
+828,,,,,,,,gremlins 2: the new batch,0,Gremlins 2: The New Batch,1990,PG-13,15 Jun 1990,106 min,,6.4,"89,769",tt0099700,
+829,,,,,,,,airplane!,0,Airplane!,1980,PG,02 Jul 1980,88 min,78.0,7.7,"204,730",tt0080339,
+830,,,,,,,,the sixth sense: the actors,0,The Sixth Sense: The Actors,2000,,28 Mar 2000,7 min,,7.1,7,tt5447522,

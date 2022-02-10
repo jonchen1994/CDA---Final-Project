@@ -1,0 +1,1167 @@
+A,B,D,F,Film,Genre,S
+3,0,1,18,127 Hours,Adventure,6
+4,0,3,28,15 Minutes,Action,16
+2,0,3,1,1492: Conquest of Paradise,Adventure,1
+4,0,5,1,2012,Action,8
+A,B,D,F,Film,Genre,S
+2,1,4,32,Lord of Illusions,Horror,18
+1,1,1,16,Mimic,Horror,17
+0,0,1,0,War Horse,War,0
+0,0,0,0,Station West,Western,0
+0,0,0,0,"Searchers, The",Western,0
+4,0,3,31,Suspect Zero,Horror,13
+2,3,6,8,Manhunter,Horror,5
+4,3,6,22,Aliens,Horror,14
+11,2,2,29,Swordfish,Thriller,18
+0,0,2,1,"Tourist, The",Thriller,3
+17,15,23,63,U Turn,Thriller,27
+1,2,1,4,Take Shelter,Thriller,10
+4,0,8,19,Syriana,Thriller,12
+44,11,6,121,Training Day,Thriller,104
+16,6,12,104,Two For The Money,Thriller,22
+6,3,3,35,Wall Street: Money Never Sleeps,Drama,12
+0,3,13,0,Warm Springs,Drama,0
+19,2,4,41,"Wrestler, The",Drama,23
+4,1,4,15,You Can Count On Me,Drama,16
+7,1,5,26,"Woodsman, The",Drama,15
+3,0,8,10,"Verdict, The",Drama,3
+1,3,3,1,Warrior,Drama,14
+4,2,7,29,Under Fire,Drama,4
+0,0,0,104,Trainspotting,Drama,5
+0,1,3,5,"Sweet Hereafter, The",Drama,1
+10,7,17,17,Sling Blade,Drama,11
+0,0,3,8,Taking Sides,Drama,6
+11,3,16,8,Thirteen Days,Drama,16
+40,9,22,161,Straight Outta Compton,Drama,159
+2,0,3,8,Sugar,Drama,15
+8,5,2,17,"Social Network, The",Drama,17
+2,4,3,5,Snow Falling On Cedars,Drama,1
+0,0,0,0,Rebel Without A Cause,Drama,0
+10,3,2,67,Raging Bull,Drama,7
+1,0,1,2,Room,Drama,3
+10,1,0,68,Shame,Drama,6
+22,19,8,15,Precious,Drama,13
+4,7,2,17,"Sex, Lies and Videotape",Drama,11
+6,5,5,32,Shampoo,Drama,17
+1,3,22,26,RKO 281,Drama,12
+13,0,0,8,Rush,Drama,6
+4,13,27,0,Rambling Rose,Drama,3
+6,3,13,12,This Boy's Life,Drama,10
+4,0,11,0,To Sleep with Anger,Drama,0
+8,2,3,22,Purple Rain,Drama,11
+18,2,16,31,"Program, The",Drama,40
+31,4,33,39,"Shawshank Redemption, The",Drama,55
+0,0,0,0,"Queen, The",Drama,0
+3,0,8,4,"Power of One, The",Drama,2
+3,6,14,0,Top Gun,Drama,11
+8,0,13,10,Pariah,Drama,14
+1,1,9,0,Petulia,Drama,0
+3,1,6,14,Wonder Boys,Comedy,14
+0,1,1,38,Withnail and I,Comedy,1
+1,0,2,8,Wag the Dog,Comedy,5
+3,0,3,19,Win Win,Comedy,32
+0,0,0,0,Un Singe en Hiver,Comedy,0
+6,4,1,0,What About Bob?,Comedy,3
+6,0,1,3,Who's Your Daddy,Comedy,4
+8,1,14,10,Ordinary People,Drama,12
+6,1,7,17,Philadelphia,Drama,13
+0,0,0,0,"Surfer King, The",Comedy,0
+4,0,7,15,Sunshine Cleaning,Comedy,21
+19,26,3,26,Swingers,Comedy,25
+15,15,17,27,Tin Men,Comedy,15
+17,6,5,9,Sugar and Spice,Comedy,28
+1,0,2,12,My Week with Marilyn,Drama,3
+11,8,4,0,Mud,Drama,28
+8,1,0,8,Moneyball,Drama,10
+14,8,6,63,This is 40,Comedy,17
+1,1,2,0,Music of the Heart,Drama,3
+28,16,4,123,Superbad,Comedy,71
+0,0,1,0,"Passion of Joan of Arc, The",Drama,0
+5,0,2,37,"Synecdoche, New York",Comedy,5
+14,3,4,12,One Flew Over the Cuckoo's Nest,Drama,8
+0,0,0,0,"Miracle Worker, The",Drama,0
+5,0,7,8,Milk,Drama,12
+5,7,4,40,Smashed,Comedy,17
+5,1,2,10,Sexual Life,Comedy,7
+0,0,1,0,Saving Mr. Banks,Comedy,0
+0,0,0,0,Real Genius,Comedy,0
+4,3,3,6,State and Main,Comedy,3
+17,3,14,15,"Replacements, The",Comedy,24
+0,2,2,1,Little Men,Drama,1
+4,8,20,3,Raising Arizona,Comedy,13
+17,3,8,24,Semi-Pro,Comedy,28
+0,2,18,1,Lincoln,Drama,3
+13,6,10,168,Magnolia,Drama,34
+2,9,4,1,Malcolm X,Drama,13
+6,1,3,49,Margaret,Drama,12
+3,2,10,13,Stepmom,Comedy,9
+5,1,2,26,Light Sleeper,Drama,8
+0,0,0,0,Kundun,Drama,0
+0,1,0,7,Papadopoulos & Sons,Comedy,4
+0,1,10,0,Peggy Sue Got Married,Comedy,3
+0,1,2,0,"Last Station, The",Drama,0
+1,3,9,2,Kramer vs Kramer,Drama,10
+0,0,0,0,"Last Flight, The",Drama,0
+2,2,1,19,Storytelling,Comedy,6
+3,0,1,5,"Master, The",Drama,4
+3,3,3,0,Midnight Cowboy,Drama,1
+0,0,0,0,Napoleon Dynamite,Comedy,0
+0,0,0,0,Mr Blandings Builds His Dream House,Comedy,0
+46,7,29,32,Next Friday,Comedy,26
+13,3,3,12,Office Space,Comedy,23
+5,3,3,6,Mumford,Comedy,6
+3,0,4,3,"Ice Storm, The",Drama,18
+0,0,0,0,Mr Deeds Goes to Town,Comedy,0
+4,0,3,56,"Ides of March, The",Drama,21
+0,0,3,0,Ni vu ni connu,Comedy,0
+1,0,2,0,Invictus,Drama,4
+0,0,2,0,"Iron Lady, The",Drama,0
+0,0,6,10,"King's Speech, The",Drama,7
+4,1,0,39,Margot at the Wedding,Comedy,11
+5,2,8,14,Major League,Comedy,25
+0,0,1,0,Kafka,Drama,0
+1,1,6,1,I am Sam,Drama,1
+0,0,0,0,Meet John Doe,Comedy,0
+0,1,3,0,Hitchcock,Drama,0
+6,0,3,6,Man on the Moon,Comedy,6
+37,17,30,1,Malibu's Most Wanted,Comedy,7
+8,0,5,47,Living in Oblivion,Comedy,13
+9,12,2,99,Kids,Drama,42
+1,0,9,0,"Help, The",Drama,7
+8,2,0,98,Hesher,Drama,24
+13,5,3,2,Legally Blonde,Comedy,3
+13,10,28,19,Life,Comedy,16
+4,1,2,16,Life As A House,Comedy,11
+41,11,1,136,Little Athens,Comedy,79
+0,0,0,0,Le Diable par la Queue,Comedy,0
+1,0,7,0,Gladiator,Drama,1
+17,0,6,147,Glengarry Glen Gross,Drama,42
+6,1,4,9,Get on Up,Drama,20
+4,2,7,11,Gods and Monsters,Drama,5
+0,0,0,0,"Grapes of Wrath, The",Drama,0
+7,3,3,21,"Invention of Lying, The",Comedy,8
+14,2,0,30,"Kids Are All Right, The",Comedy,10
+0,0,7,0,Gandhi,Drama,0
+10,3,6,10,"Hebrew Hammer, The",Comedy,11
+5,0,1,17,Henry Fool,Comedy,13
+5,13,5,1,"Hospital, The",Comedy,1
+3,5,4,14,Human Nature,Comedy,8
+11,3,11,14,G.I. Jane,Drama,17
+15,11,1,58,Fruitvale Station,Drama,40
+3,5,9,2,Grand Theft Parsons,Comedy,9
+16,11,22,28,Heathers,Comedy,32
+4,7,10,10,"Happy Birthday, Wanda June",Comedy,11
+0,2,2,11,I'll Do Anything,Comedy,11
+2,2,0,150,In the Loop,Comedy,26
+13,4,7,93,Good Will Hunting,Comedy,28
+3,0,3,4,"Good Girl, The",Comedy,4
+0,1,0,0,Game 6,Comedy,2
+6,3,10,1,Five Easy Pieces,Drama,13
+1,1,0,7,Foxcatcher,Drama,4
+2,5,15,8,Frances,Drama,4
+9,4,1,101,Funny People,Comedy,54
+9,7,1,28,Ghost World,Comedy,6
+10,4,6,61,Flight,Drama,27
+19,1,4,0,Ferris Bueller's Day Off,Comedy,29
+0,0,0,0,Fletch,Comedy,0
+0,1,0,0,Elizabeth: The Golden Age,Drama,0
+13,0,4,95,"Doors, The",Drama,25
+9,2,1,51,"Fighter, The",Drama,20
+10,4,4,85,Four Rooms,Comedy,14
+8,7,17,5,Forrest Gump,Comedy,11
+19,10,18,9,Drop Dead Gorgeous,Comedy,10
+23,1,0,2,Ed TV,Comedy,7
+4,7,48,44,Fear and Loathing in Las Vegas,Comedy,33
+5,3,9,11,Ed Wood,Comedy,9
+2,3,1,10,Election,Comedy,2
+2,4,0,19,Fast Times at Ridgemont High,Comedy,10
+12,5,31,33,Erin Brockovich,Comedy,35
+0,0,2,0,"Elephant Man, The",Drama,0
+11,2,6,62,Do The Right Thing,Comedy,25
+3,2,0,3,Custody,Comedy,3
+20,3,10,12,"Distinguished Gentleman, The",Comedy,24
+2,0,0,0,Dave Barry's Complete Guide to Guys,Comedy,10
+5,0,19,3,Death at a Funeral,Comedy,22
+13,3,6,26,Code of Silence,Drama,16
+9,11,9,37,Dear White People,Drama,19
+8,0,2,0,"Devil Wears Prada, The",Comedy,3
+1,4,7,25,"Descendants, The",Comedy,13
+0,0,3,0,Creation,Drama,3
+0,0,0,57,"Damned United, The",Drama,0
+2,0,7,0,"Day the Clown Cried, The",Drama,0
+12,4,9,58,Dallas Buyers Club,Drama,37
+1,0,6,0,Dead Poets Society,Drama,3
+4,3,1,4,Diner,Comedy,5
+0,0,0,0,Days of Heaven,Drama,0
+16,9,38,40,Cobb,Drama,24
+7,5,2,6,Bridesmaids,Comedy,19
+11,6,7,2,Charlie's Angels,Comedy,8
+2,0,13,0,City of Joy,Drama,0
+8,1,8,38,Cedar Rapids,Comedy,34
+1,3,6,0,"Cincinnati Kid, The",Drama,0
+6,5,0,130,"Change-Up, The",Comedy,35
+12,10,8,80,Clerks,Comedy,38
+0,0,0,0,Tall in the Saddle,Western,0
+4,1,11,0,Bean,Comedy,1
+0,11,2,75,Candle to Water,Drama,15
+8,8,5,26,"Breakfast Club, The",Drama,24
+4,1,4,11,Bringing Out the Dead,Drama,10
+18,3,3,98,Boogie Nights,Drama,25
+8,7,4,31,Bonfire of the Vanities,Drama,19
+0,0,0,0,Break,Drama,0
+1,0,15,0,Breaking Away,Drama,3
+1,0,6,0,Authors Anonymous,Comedy,3
+13,8,8,41,Boyhood,Drama,22
+12,3,3,2,Bachelor Party,Comedy,21
+12,1,3,0,Austin Powers - The Spy Who Shagged Me,Comedy,5
+11,5,2,0,"Blind Side, The",Drama,0
+10,6,12,29,Black Snake Moan,Drama,42
+7,3,2,23,Bad Teacher,Comedy,10
+21,4,6,64,Bad Boys,Comedy,30
+9,0,2,1,All About Steve,Comedy,2
+2,0,4,0,Austin Powers - International Man of Mystery,Comedy,1
+9,0,6,2,After School Special,Comedy,14
+10,0,9,26,American Milkshake,Comedy,22
+0,0,2,0,"Apartment, The",Comedy,0
+5,2,1,8,Arthur,Comedy,15
+6,0,9,33,American Pie,Comedy,29
+4,5,27,1,Tombstone,Western,1
+0,0,0,0,12,Comedy,0
+1,3,9,0,True Grit,Western,0
+4,0,0,17,A Serious Man,Comedy,6
+0,0,0,0,Ace Ventura: Pet Detective,Comedy,0
+13,3,12,1,Bamboozled,Drama,1
+6,3,6,1,Being There,Drama,3
+2,0,3,21,Basquiat,Drama,13
+0,0,0,0,"Bachelor Party, The",Drama,0
+0,0,0,0,Awakenings,Drama,0
+0,0,3,0,Anna Karenina,Drama,0
+2,3,13,65,"Anniversary Party, The",Drama,18
+6,2,9,3,American Splendor,Drama,18
+1,0,0,0,An Education,Drama,0
+12,5,32,38,August: Osage County,Drama,25
+7,0,1,36,"Believer, The",Drama,15
+20,3,3,60,American Sniper,Drama,28
+0,0,0,0,American Madness,Drama,0
+7,11,8,0,American Graffiti,Drama,11
+0,0,0,0,At First Sight,Drama,0
+0,1,8,0,Beloved,Drama,1
+7,2,3,21,American Beauty,Drama,10
+0,0,0,2,"Best Exotic Marigold Hotel, The",Drama,0
+2,0,5,1,Amelia,Drama,1
+9,0,11,1,Wild Wild West,Western,5
+4,4,27,0,"Wild Bunch, The",Western,0
+0,0,1,0,All About Eve,Drama,0
+0,0,0,0,All the King's Men,Drama,0
+0,1,25,1,12 Years a Slave,Drama,0
+3,0,6,11,Ali,Drama,2
+4,2,2,26,50-50,Drama,15
+0,0,3,2,Amadeus,Drama,6
+10,11,11,37,187,Drama,27
+1,3,8,0,42,Drama,3
+3,1,0,1,Walking Tall,Thriller,1
+8,11,22,53,Affliction,Drama,17
+9,2,3,10,12 and Holding,Drama,10
+8,2,6,66,Very Bad Things,Thriller,11
+7,1,11,39,Adaptation,Drama,15
+4,1,1,45,Zero Dark Thirty,Thriller,7
+9,6,4,22,Wild Things,Crime,27
+7,10,10,3,Wall Street,Crime,6
+5,1,5,65,We Own the Night,Crime,15
+10,5,17,23,Wanted,Crime,14
+12,12,4,5,While She Was Out,Crime,12
+13,5,5,180,"Wolf of Wall Street, The",Crime,36
+2,1,1,20,"Whistleblower, The",Thriller,7
+1,2,2,15,Ticker,Crime,11
+1,0,3,48,Traffic,Crime,17
+9,6,8,49,Phone Booth,Thriller,19
+0,0,0,176,Shifty,Thriller,14
+1,3,1,6,Single White Female,Thriller,4
+2,1,0,15,Spare Me,Thriller,3
+7,2,4,20,"Siege, The",Thriller,10
+8,8,4,19,"Taking of Pelham One Two Three, The",Crime,19
+5,2,11,23,Taxi Driver,Crime,8
+9,0,2,1,Year One,Adventure,5
+1,7,8,6,White Squall,Adventure,9
+0,0,5,2,"Way Back, The",Adventure,3
+11,6,8,0,xXx,Adventure,19
+1,0,7,0,Tomorrow Never Dies,Adventure,0
+1,0,1,0,"World is not Enough, The",Adventure,0
+0,0,0,1,War for the Planet of the Apes,Adventure,1
+1,0,2,0,Thunderbirds,Adventure,0
+15,6,38,18,Thelma & Louise,Crime,44
+12,1,8,34,Someone To Watch Over Me,Crime,9
+6,1,2,0,Thor Ragnarok,Adventure,3
+20,8,9,0,Wild Hogs,Adventure,12
+2,1,10,3,"Sting, The",Crime,2
+1,0,0,155,Snatch,Crime,9
+1,6,0,32,Spartan,Crime,2
+0,0,0,5,Shallow Grave,Crime,1
+4,1,2,32,Sicario,Crime,9
+17,3,23,40,Rush Hour,Crime,28
+31,10,13,200,Reservoir Dogs,Crime,67
+16,1,7,0,Rush Hour 2,Crime,24
+17,4,5,40,"Salton Sea, The",Crime,19
+7,6,13,35,Ronin,Crime,12
+0,0,0,55,RocknRolla,Crime,11
+3,2,26,61,Reindeer Games,Crime,14
+17,10,13,65,Smokin' Aces,Crime,53
+6,1,3,42,Scarface,Crime,14
+11,5,2,194,Pineapple Express,Crime,61
+5,0,5,30,Panic Room,Thriller,12
+18,10,34,87,Observe and Report,Crime,46
+2,8,7,25,Mini's First Time,Crime,9
+0,1,0,28,Only God Forgives,Thriller,2
+1,2,7,7,Ocean's Eleven,Thriller,14
+2,5,11,3,Public Enemies,Crime,3
+9,3,13,2,"Perfect World, A",Crime,12
+1,1,6,1,Ocean's Twelve,Thriller,4
+7,4,6,8,Obsessed,Thriller,3
+12,4,32,45,Nurse Betty,Thriller,30
+41,13,22,169,Pulp Fiction,Crime,72
+1,1,3,29,Ninja Assassin,Thriller,6
+3,5,4,22,Nick of Time,Thriller,8
+5,2,9,2,No Country for Old Men,Thriller,1
+10,1,2,29,Mr Brooks,Thriller,4
+4,0,1,14,Martha Marcy May Marlene,Thriller,5
+2,0,3,67,Margin Call,Thriller,11
+10,12,11,50,Machete,Thriller,14
+1,0,2,0,Snow White and the Huntsman,Adventure,0
+5,5,6,45,Metro,Thriller,27
+14,1,8,43,Midnight Express,Thriller,21
+4,4,7,12,Rambo: First Blood II: The Mission,Adventure,8
+14,4,15,54,Point Break,Adventure,31
+1,16,23,1,Miller's Crossing,Thriller,2
+5,1,4,3,"Road, The",Adventure,1
+0,0,5,0,Pirates of the Caribbean,Adventure,0
+2,1,19,0,Robin Hood: Prince of Thieves,Adventure,0
+0,0,8,0,Master and Commander,Adventure,0
+5,4,6,1,Mission Impossible,Adventure,1
+4,3,6,1,"Revenant, The",Adventure,9
+0,0,1,0,"Man Who Knew Too Much, The",Adventure,0
+0,0,0,0,Man in the Iron Mask,Adventure,2
+3,10,41,0,O Brother Where Art Thou?,Adventure,0
+2,0,2,18,"Secret Life of Walter Mitty, The",Adventure,8
+6,2,6,80,Sideways,Adventure,16
+1,4,6,28,Machine Gun Preacher,Crime,13
+22,3,10,126,Made,Crime,85
+2,2,1,0,Max Payne,Crime,7
+2,6,26,0,"Man Who Wasn't There, The",Crime,0
+3,5,6,10,"Mechanic, The",Crime,7
+4,2,1,23,Miami Vice,Crime,10
+6,0,3,19,Man On Fire,Crime,6
+0,2,3,11,Mean Streets,Crime,12
+6,1,0,33,"Limey, The",Crime,12
+0,0,0,85,"Lock, Stock and Two Smoking Barrels",Thriller,16
+52,8,14,109,Jackie Brown,Crime,64
+1,0,3,0,"King of Comedy, The",Crime,2
+21,7,17,73,"Ladykillers, The",Crime,19
+0,0,0,0,Les Tontons Flingueurs,Crime,0
+4,6,2,13,"Lincoln Lawyer, The",Thriller,23
+15,5,8,43,Law Abiding Citizen,Thriller,32
+2,0,2,54,Lord of War,Crime,3
+3,0,1,12,"Kingdom, The",Thriller,6
+10,5,7,82,Killing Zoe,Thriller,21
+24,22,16,143,"Last Boy Scout, The",Thriller,62
+0,0,6,32,"Life of David Gale, The",Thriller,12
+16,13,13,97,"Long Kiss Goodnight, The",Thriller,20
+2,1,1,36,John Wick,Thriller,9
+10,0,0,36,Joker,Thriller,15
+0,0,0,0,Into the Woods,Adventure,0
+18,28,17,48,Kill Bill Volume 1 & 2,Thriller,23
+7,7,9,22,Kalifornia,Thriller,14
+38,40,6,202,Jay and Silent Bob Strike Back,Adventure,84
+4,2,4,7,"Italian Job, The",Adventure,16
+6,5,18,16,Hudson Hawk,Crime,13
+0,0,0,0,Life of Pi,Adventure,0
+4,0,2,4,Into the Wild,Adventure,7
+1,7,29,19,Jacob's Ladder,Thriller,20
+0,0,5,0,Indiana Jones and the Last Crusade,Adventure,0
+0,1,3,0,Indiana Jones and the Raiders of the Lost Ark,Adventure,1
+2,0,8,0,Indiana Jones and the Temple of Doom,Adventure,1
+2,3,1,5,In the Bedroom,Crime,3
+5,1,9,0,Guardians of the Galaxy Vol 2,Adventure,4
+0,2,7,12,Henry's Crime,Crime,11
+0,1,8,4,"Grifters, The",Crime,5
+8,20,36,31,Gran Torino,Crime,18
+9,4,8,48,Horrible Bosses,Crime,27
+0,0,0,0,John Q,Thriller,0
+0,2,3,0,Indiana Jones IV,Adventure,0
+42,3,1,53,Harold and Kumar Go to White Castle,Adventure,66
+15,3,15,9,Gone in 60 Seconds,Crime,33
+3,4,2,5,Frozen River,Crime,8
+16,7,5,39,Death to Smoochy,Crime,12
+0,0,0,0,Get Shorty,Crime,0
+3,5,8,2,Godfather Part II,Crime,3
+4,0,4,34,"Insider, The",Thriller,11
+4,0,1,43,Drive,Crime,3
+0,2,21,0,Gangs of New York,Crime,1
+6,4,4,21,Insomnia,Thriller,13
+14,6,2,61,Go,Crime,34
+16,4,25,103,Gang Related,Crime,47
+19,2,15,73,Hostage,Thriller,25
+2,3,2,33,Heist,Thriller,5
+8,5,2,44,Heat,Thriller,8
+0,1,4,1,"Ghost and the Darkness, The",Thriller,1
+0,4,0,2,Get Carter,Thriller,5
+1,1,7,34,"Hurt Locker, The",Thriller,17
+1,6,4,0,Godfather,Crime,0
+3,0,6,3,"Hunt for Red October, The",Thriller,1
+3,3,11,3,Hard Rain,Thriller,15
+0,0,8,12,"Informant, The",Thriller,8
+4,1,1,1,Hackers,Thriller,24
+3,0,2,0,"Getaway, The",Thriller,1
+6,5,14,6,Dumb and Dumber,Adventure,13
+0,0,0,0,Zootopia,Animation,0
+1,5,26,20,Cast Away,Adventure,15
+0,2,0,18,Croupier,Crime,10
+7,2,1,35,Deadpool,Adventure,22
+0,0,2,2,Capote,Crime,0
+9,1,1,30,Crime Spree,Crime,15
+6,8,0,13,Colombiana,Crime,8
+0,2,11,7,Catch Me If You Can,Crime,9
+0,0,0,0,Catwoman,Crime,0
+14,2,6,65,Confessions of a Dangerous Mind,Crime,15
+8,2,4,1,Black Rain,Crime,9
+18,9,16,439,Casino,Crime,56
+15,4,2,52,Confidence,Crime,29
+8,7,11,33,BlacKkKlansman,Crime,18
+3,2,5,36,Bottle Rocket,Crime,25
+9,4,3,66,Burn After Reading,Crime,20
+1,5,0,28,"Bling Ring, The",Crime,8
+5,3,2,91,Blow,Crime,24
+2,2,1,1,Big Eyes,Crime,3
+3,2,2,21,"Big White, The",Crime,7
+24,8,3,137,Bad Santa,Crime,44
+13,7,2,3,"French Connection, The",Thriller,12
+6,0,5,19,Frequency,Thriller,6
+13,1,3,25,Frozen,Thriller,32
+3,2,3,2,Fracture,Thriller,6
+1,1,13,41,Fargo,Thriller,4
+7,5,3,37,Fight Club,Thriller,12
+4,2,7,15,Face Off,Thriller,8
+7,2,0,13,Entrapment,Thriller,12
+1,2,7,0,Fatal Instinct,Thriller,3
+4,4,14,42,Dog Day Afternoon,Thriller,26
+5,2,1,3,Enough,Thriller,4
+2,1,0,22,Fair Game,Thriller,6
+12,2,6,2,Disturbia,Thriller,28
+22,4,24,44,Die Hard 2,Thriller,17
+16,3,18,27,Die Hard,Thriller,19
+10,7,4,53,Deep Cover,Thriller,26
+0,0,4,3,"Dry White Season, A",Thriller,7
+4,4,1,0,"Dark Knight Rises, The",Thriller,0
+5,0,4,32,Enemy of the State,Thriller,11
+1,0,0,26,"Debt, The",Thriller,3
+9,2,2,210,Donnie Brasco,Thriller,13
+0,0,0,0,Wonder Woman,Fantasy,0
+10,2,2,194,"Departed, The",Thriller,22
+3,1,2,1,Unbreakable,Fantasy,4
+0,0,0,0,Willow,Fantasy,0
+1,0,1,0,Pirates of the Caribbean: Dead Man's Chest,Fantasy,0
+0,1,7,0,"Seventh Seal, The",Fantasy,0
+18,1,1,73,Ted,Fantasy,45
+0,1,3,1,Pleasantville,Fantasy,2
+21,8,1,12,Scott Pilgrim vs the World,Fantasy,3
+1,0,2,0,Thor,Fantasy,0
+0,0,2,0,Star Wars: The Force Awakens,Fantasy,0
+0,0,0,0,Apollo 13,Adventure,0
+0,0,0,0,Lord of the Rings: Return of the King,Fantasy,0
+1,2,6,0,Who Framed Roger Rabbit?,Family,1
+17,13,10,182,30 Minutes or Less,Adventure,65
+0,0,2,1,"Avengers, The",Adventure,0
+2,0,3,1,1492: Conquest of Paradise,Adventure,1
+30,9,29,11,Three Men and a Baby,Family,39
+1,1,2,4,You've Got Mail,Romance,5
+7,0,5,5,Youth in Revolt,Romance,5
+2,5,5,2,"Sandlot Kids, The",Family,4
+6,0,1,0,Speed Racer,Family,0
+8,3,7,15,Zerophilia,Romance,5
+0,0,0,0,Lord of the Rings: The Two Towers,Fantasy,0
+1,2,3,0,Mystery Men,Fantasy,0
+2,3,2,2,Yes Man,Romance,10
+7,4,9,38,Wild At Heart,Romance,20
+1,2,6,3,Witness,Romance,6
+3,1,9,1,Water for Elephants,Romance,7
+0,0,1,1,"Visitor, The",Romance,2
+0,0,0,0,True Romance,Romance,0
+7,3,1,13,"Ugly Truth, The",Romance,9
+8,0,0,28,Up in the Air,Romance,10
+0,0,0,0,Tristan and Isolde,Romance,0
+2,14,10,3,True Lies,Romance,17
+1,0,0,0,Twilight,Romance,0
+0,0,1,0,"Theory of Everything, The",Romance,0
+1,0,0,0,"Walk to Remember, A",Romance,5
+2,2,3,42,Tamara Drewe,Romance,15
+9,6,6,60,There's Something About Mary,Romance,29
+25,15,40,24,"Stuntman, The",Romance,15
+3,1,5,12,St. Elmo's Fire,Romance,16
+3,0,10,3,Spanglish,Romance,2
+1,2,17,2,Titanic,Romance,10
+5,2,2,7,Something's Gotta Give,Romance,5
+0,0,3,0,"Three Musketeers, The",Romance,0
+23,2,14,15,Tin Cup,Romance,25
+0,0,0,2,Sleepless in Seattle,Romance,2
+2,1,2,3,"Sessions, The",Romance,5
+9,4,2,2,So I Married an Axe Murderer,Romance,7
+3,3,2,4,"Shipping News, The",Romance,4
+0,0,1,2,Slumdog Millionaire,Romance,11
+4,0,5,75,Silver Linings Playbook,Romance,24
+0,0,2,0,Shakespeare in Love,Romance,1
+0,0,0,0,"Saint, The",Romance,0
+4,1,1,7,Sex and the City,Romance,6
+12,7,7,45,She's Out of My League,Romance,39
+0,1,0,0,Sense and Sensibility,Romance,0
+26,12,9,32,Save the Last Dance,Romance,56
+1,0,1,0,X-Men,Sci-Fi,0
+2,0,3,0,War of the Worlds,Sci-Fi,6
+0,0,2,0,TRON: Legacy,Sci-Fi,0
+3,1,4,1,Twins,Sci-Fi,19
+1,1,11,8,V for Vendetta,Sci-Fi,2
+8,8,2,7,Virtuosity,Sci-Fi,7
+0,1,5,10,"Truman Show, The",Sci-Fi,3
+3,0,2,1,"X-Files: Fight the Future, The",Sci-Fi,4
+3,3,12,0,Watchmen,Sci-Fi,6
+2,1,6,0,X-Men Origins: Wolverine,Sci-Fi,0
+0,0,2,0,TRON,Sci-Fi,0
+7,2,8,0,Surrogates,Sci-Fi,2
+3,3,12,20,Terminator 2: Judgement Day,Sci-Fi,16
+0,1,0,2,Total Recall,Sci-Fi,4
+3,1,7,2,Terminator Salvation,Sci-Fi,6
+3,1,4,9,Terminator,Sci-Fi,4
+0,0,1,0,"Time Machine, The",Sci-Fi,0
+2,3,0,0,Starship Troopers,Sci-Fi,0
+1,1,0,0,Supergirl,Sci-Fi,0
+0,0,0,0,Shrek the Third,Animation,0
+0,0,0,0,Toy Story,Animation,0
+0,0,2,0,Transformers: The Movie,Animation,0
+0,0,0,0,Wall-E,Animation,0
+2,0,2,0,Shrek,Animation,0
+4,0,0,0,TMNT,Animation,0
+0,0,0,0,Up,Animation,0
+0,0,0,0,Rise of the Guardians,Animation,0
+0,0,0,0,"Rescuers Down Under, The",Animation,0
+0,0,0,0,How to Train Your Dragon,Animation,0
+0,0,0,0,How to Train Your Dragon 2,Animation,0
+0,0,3,0,ParaNorman,Animation,0
+11,1,6,0,Monkeybone,Animation,7
+2,0,0,0,"LEGO Movie, The",Animation,0
+0,0,0,0,"Croods, The",Animation,0
+14,1,13,0,Beavis and Butt-head Do America,Animation,0
+0,0,0,0,Despicable Me 2,Animation,0
+0,0,0,0,Frozen (Disney),Animation,0
+0,0,0,0,"Boxtrolls, The",Animation,0
+0,0,0,0,Cars 2,Animation,0
+0,0,0,0,Coco,Animation,0
+3,1,5,79,American Gangster,Crime,10
+5,0,6,70,A Scanner Darkly,Crime,29
+2,4,5,99,American Hustle,Crime,32
+8,2,7,56,Analyze This,Crime,22
+5,2,3,68,Bad Lieutenant,Crime,21
+8,3,2,74,Analyze That,Crime,24
+0,0,0,0,Arsenic and Old Lace,Crime,0
+7,3,10,83,Bad Country,Crime,21
+8,6,4,12,Collateral Damage,Thriller,13
+5,0,0,7,Commando,Thriller,7
+9,5,0,34,Cradle 2 the Grave,Thriller,21
+24,14,5,36,Crank,Thriller,41
+0,4,1,179,44 Inch Chest,Crime,7
+0,0,0,0,Collateral,Thriller,0
+0,0,0,0,25th Hour,Crime,0
+4,0,0,29,A Prayer Before Dawn,Crime,4
+1,0,1,29,A Most Violent Year,Crime,10
+5,3,6,0,Cable Guy,Thriller,4
+5,1,5,2,Broken Arrow,Thriller,8
+8,10,5,24,Breakdown,Thriller,9
+7,6,4,90,Bound,Thriller,28
+11,3,2,32,Cecil B. Demented,Thriller,3
+2,6,2,9,Chaos,Thriller,20
+2,3,5,21,Cliffhanger,Thriller,6
+3,1,5,0,Liar Liar,Fantasy,6
+0,0,4,18,"Jacket, The",Fantasy,10
+6,2,6,18,Blood and Wine,Thriller,9
+8,0,5,7,Blood Simple,Thriller,4
+0,0,0,0,"Lord of the Rings: Fellowship of the Ring, The",Fantasy,0
+2,0,4,5,Body Heat,Thriller,6
+10,2,5,47,Ghost Rider,Fantasy,9
+0,0,0,0,Erik the Viking,Fantasy,0
+20,7,4,115,Boondock Saints 2: All Saints Day,Thriller,55
+26,5,2,171,"Boondock Saints, The",Thriller,51
+8,14,10,73,Drive Angry,Fantasy,17
+0,0,0,0,Excalibur,Fantasy,0
+13,3,6,30,Hancock,Fantasy,24
+13,6,23,15,"Green Mile, The",Fantasy,10
+4,1,2,0,Hellboy 2: The Golden Army,Fantasy,1
+0,1,5,0,Flash Gordon,Fantasy,0
+2,2,1,0,Highlander,Fantasy,2
+0,0,0,0,Pokemon: Mewtwo Returns,Family,0
+5,0,0,0,"Pacifier, The",Family,0
+0,0,4,0,Dragonslayer,Fantasy,0
+1,0,5,0,New York Minute,Family,1
+1,0,0,0,Happy Feet,Family,1
+0,0,1,0,Mighty Morphin Power Rangers: The Movie,Family,0
+3,0,5,0,Mighty Joe Young,Family,0
+0,0,0,0,Kung Fu Panda,Family,0
+0,0,0,0,"Neverending Story, The",Family,0
+0,0,0,0,Frankenweenie,Family,0
+0,0,0,0,Fantastic Mr Fox,Family,0
+4,3,1,20,Rust and Bone,Romance,13
+20,15,6,66,Dogma,Fantasy,57
+0,0,0,0,"Reader, The",Romance,0
+5,2,8,6,Field of Dreams,Family,6
+0,0,0,0,Finding Nemo,Family,0
+2,1,2,0,"Flintstones, The",Family,0
+13,2,2,3,Remember Me,Romance,10
+0,0,0,0,Rushmore,Romance,0
+3,0,12,12,Revolutionary Road,Romance,3
+2,0,8,2,Rocky,Romance,0
+0,0,0,0,Romeo & Juliet,Romance,0
+3,0,1,0,Runaway Bride,Romance,0
+12,3,7,3,"Proposal, The",Romance,13
+1,0,4,18,Punch-Drunk Love,Romance,6
+7,3,2,4,Pretty Woman,Romance,11
+5,0,1,10,Rachel Getting Married,Romance,7
+6,3,3,1,"Perks of Being a Wallflower, The",Romance,11
+15,0,3,51,Out of Sight,Romance,42
+1,0,4,0,"Piano, The",Romance,3
+0,0,0,0,Platinum Blonde,Romance,0
+0,0,0,0,"Princess Bride, The",Romance,0
+3,0,4,3,Pretty Woman (final script),Romance,10
+2,1,0,0,"Next Three Days, The",Romance,2
+7,5,1,29,No Strings Attached,Romance,13
+0,0,0,0,Never Been Kissed,Romance,0
+0,0,1,0,Mrs. Brown,Romance,3
+0,0,2,0,My Girl,Romance,3
+1,0,5,0,Pride and Prejudice,Romance,0
+4,4,8,12,My Best Friend's Wedding,Romance,19
+2,1,8,2,Notting Hill,Romance,4
+0,2,2,0,Moonstruck,Romance,2
+0,0,0,0,Ninotchka,Romance,0
+20,11,8,46,Natural Born Killers,Romance,30
+0,0,1,0,"Other Boleyn Girl, The",Romance,0
+0,0,5,0,Moonrise Kingdom,Romance,1
+2,1,1,0,Monte Carlo,Romance,0
+0,0,0,0,Marty,Romance,0
+3,5,2,1,"Mask, The",Romance,5
+0,0,5,0,Midnight in Paris,Romance,0
+5,1,3,0,Marley & Me,Romance,0
+5,6,15,6,Man Trouble,Romance,10
+2,0,3,0,Legend,Romance,1
+26,3,14,8,Love and Basketball,Romance,15
+3,1,9,0,Starman,Sci-Fi,10
+10,0,6,25,Last Tango in Paris,Romance,14
+0,0,0,0,Star Wars: The Phantom Menace,Sci-Fi,0
+0,0,0,3,Lost in Translation,Romance,1
+1,0,2,0,Star Wars: Attack of the Clones,Sci-Fi,0
+4,0,1,38,Leaving Las Vegas,Romance,3
+0,0,0,0,Star Wars: Return of the Jedi,Sci-Fi,0
+0,0,0,0,Star Wars: The Empire Strikes Back,Sci-Fi,0
+0,0,0,0,Star Wars: Revenge of the Sith,Sci-Fi,0
+0,0,3,0,Star Trek: The Motion Picture,Sci-Fi,0
+0,0,0,0,Star Trek: Generations,Sci-Fi,0
+0,0,0,0,Star Trek: First Contact,Sci-Fi,0
+1,0,6,0,"Majestic, The (The Bijou)",Romance,1
+0,0,2,0,Star Wars: A New Hope,Sci-Fi,0
+1,0,3,0,Star Trek: Nemesis,Sci-Fi,0
+0,0,0,0,Monster's Ball,Romance,0
+0,0,0,0,Star Trek II: The Wrath of Khan,Sci-Fi,0
+1,2,3,1,Space Milkshake,Sci-Fi,1
+5,0,16,29,Star Trek,Sci-Fi,6
+0,0,1,12,Solaris,Sci-Fi,1
+4,0,3,1,Serenity,Sci-Fi,2
+10,1,4,4,Soldier,Sci-Fi,8
+1,1,13,18,Sphere,Sci-Fi,20
+11,1,22,54,Repo Man,Sci-Fi,36
+0,3,5,0,Simone,Sci-Fi,2
+4,2,5,0,Rise of the Planet of the Apes,Sci-Fi,0
+2,0,10,0,Spider-Man,Sci-Fi,1
+6,1,19,2,"Postman, The",Sci-Fi,7
+0,0,3,0,"Planet of the Apes, The",Sci-Fi,0
+0,0,0,0,Red Planet,Sci-Fi,0
+0,0,0,0,Omega Man,Sci-Fi,0
+0,0,0,0,"Beach, The",Thriller,0
+0,2,1,0,Oblivion,Sci-Fi,0
+0,0,0,8,Return of the Apes,Sci-Fi,8
+3,2,10,25,Paul,Sci-Fi,19
+1,0,9,10,Pi,Sci-Fi,5
+0,1,0,0,Passengers,Sci-Fi,0
+1,4,3,0,Badlands,Thriller,0
+10,7,3,44,"Assignment, The",Thriller,23
+5,13,30,4,Barton Fink,Thriller,5
+5,5,5,64,Assassins,Thriller,31
+7,1,7,21,Babel,Thriller,6
+1,1,5,24,Argo,Thriller,4
+0,3,1,8,"American, The",Thriller,6
+4,1,5,61,Arbitrage,Thriller,5
+5,4,4,21,"Crow: City of Angels, The",Fantasy,4
+1,0,2,0,Anonymous,Thriller,0
+0,0,1,1,Apt Pupil,Thriller,0
+25,11,8,161,American History X,Thriller,54
+7,4,22,27,Arctic Blue,Thriller,18
+3,0,2,1,Antitrust,Thriller,5
+0,0,0,0,Coraline,Fantasy,0
+4,0,3,28,15 Minutes,Thriller,16
+3,0,1,18,127 Hours,Thriller,6
+33,8,28,26,48 Hrs.,Thriller,53
+6,1,14,13,Air Force One,Thriller,10
+6,1,6,11,Absolute Power,Thriller,11
+1,0,1,0,Conan the Barbarian,Fantasy,1
+1,1,19,25,All the President's Men,Thriller,15
+0,0,0,0,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy,0
+0,0,1,0,Clash of the Titans,Fantasy,1
+5,0,2,30,Christ Complex,Fantasy,1
+6,0,5,1,Beasts of the Southern Wild,Fantasy,3
+0,0,0,0,Cirque du Freak: The Vampire's Assistant,Fantasy,0
+1,2,13,14,Being John Malkovich,Fantasy,14
+2,0,7,1,Big,Fantasy,2
+0,0,1,3,Being Human,Fantasy,1
+3,3,3,0,Big Fish,Fantasy,4
+12,2,7,41,"Butterfly Effect, The",Fantasy,23
+1,0,8,0,Twilight: New Moon,Horror,0
+1,0,2,0,Antz,Fantasy,0
+0,0,3,1,When a Stranger Calls,Horror,0
+1,1,2,1,Batman,Fantasy,3
+7,0,4,1,Wind Chill,Horror,10
+3,5,4,6,The Rage: Carrie 2,Horror,11
+5,5,6,34,Timber Falls,Horror,7
+0,0,0,0,They,Horror,0
+0,0,0,0,Batman 2,Fantasy,0
+8,2,28,9,"Thing, The",Horror,18
+20,12,48,9,Tremors,Horror,8
+7,2,3,8,Taking Lives,Horror,11
+5,1,3,1,Larry Crowne,Romance,1
+1,0,1,6,Last Chance Harvey,Romance,4
+0,1,1,4,Kate & Leopold,Romance,6
+1,2,8,11,Kill Your Darlings,Romance,5
+0,0,1,0,Jane Eyre,Romance,0
+4,1,3,21,Jerry Maguire,Romance,10
+0,0,0,0,It's a Wonderful Life,Romance,0
+3,1,0,0,It's Complicated,Romance,1
+10,3,3,4,Juno,Romance,8
+2,1,5,2,Labor of Love,Romance,10
+5,4,0,28,How to Lose Friends & Alienate People,Romance,9
+10,4,6,30,I Love You Phillip Morris,Romance,14
+12,2,6,2,Intolerable Cruelty,Romance,6
+22,6,3,121,Knocked Up,Romance,53
+1,0,3,0,"Hudsucker Proxy, The",Romance,0
+7,11,1,18,Hard to Kill,Romance,12
+7,1,7,15,Inventing the Abbotts,Romance,21
+14,1,2,65,High Fidelity,Romance,14
+1,0,2,1,Hannah and Her Sisters,Romance,0
+0,0,0,0,It Happened One Night,Romance,0
+0,0,0,0,His Girl Friday,Romance,0
+1,0,4,1,"Horse Whisperer, The",Romance,8
+10,0,0,1,He's Just Not That Into You,Romance,21
+1,0,2,1,Groundhog Day,Romance,1
+9,1,1,1,Hall Pass,Romance,9
+5,0,2,3,"Fault in Our Stars, The",Romance,8
+0,0,5,0,"Graduate, The",Romance,0
+0,1,5,0,"Great Gatsby, The",Romance,0
+3,0,6,22,Grosse Point Blank,Romance,3
+3,2,14,5,Ghost,Romance,5
+7,7,1,70,Garden State,Romance,30
+0,0,0,0,Grand Hotel,Romance,0
+10,5,1,41,Easy A,Romance,11
+0,1,0,9,"English Patient, The",Romance,0
+3,3,3,3,Date Night,Romance,9
+5,0,15,27,"Fabulous Baker Boys, The",Romance,9
+2,2,17,1,"Family Man, The",Romance,6
+7,2,3,0,Megamind,Sci-Fi,6
+2,3,1,3,Even Cowgirls Get the Blues,Romance,8
+2,0,9,12,"Matrix, The",Sci-Fi,22
+10,1,11,0,Men in Black 3,Sci-Fi,5
+18,0,12,2,Extract,Romance,31
+5,2,6,0,Next,Sci-Fi,6
+4,1,12,0,Men in Black,Sci-Fi,10
+0,2,8,0,Mission to Mars,Sci-Fi,3
+0,0,4,0,Edward Scissorhands,Romance,1
+9,0,2,30,"Matrix Reloaded, The",Sci-Fi,21
+0,0,0,0,Mad Max 2: The Road Warrior,Sci-Fi,0
+3,0,6,3,"Martian, The",Sci-Fi,10
+3,0,8,29,Looper,Sci-Fi,13
+11,1,4,35,Logan,Sci-Fi,19
+10,2,6,6,Judge Dredd,Sci-Fi,3
+0,0,5,0,Logan's Run,Sci-Fi,0
+2,1,2,0,Interstellar,Sci-Fi,0
+4,0,1,20,"Island, The",Sci-Fi,4
+2,0,3,1,I Am Number Four,Sci-Fi,1
+1,1,11,0,Lost in Space,Sci-Fi,2
+3,0,1,0,"I, Robot",Sci-Fi,4
+2,0,2,0,"Hitchhiker's Guide to the Galaxy, The",Sci-Fi,1
+0,0,0,0,Ghostbusters,Sci-Fi,0
+11,1,6,57,Hot Tub Time Machine,Sci-Fi,23
+3,1,0,32,Her,Sci-Fi,6
+0,1,11,0,Godzilla,Sci-Fi,2
+0,1,2,0,Gravity,Sci-Fi,7
+0,0,1,0,Ghostbusters 2,Sci-Fi,2
+0,0,0,0,Highlander: Endgame,Sci-Fi,0
+0,0,0,0,"Incredibles, The",Sci-Fi,0
+4,2,12,3,Independence Day,Sci-Fi,5
+12,6,12,33,Gamer,Sci-Fi,36
+0,0,0,0,Sweet Smell of Success,Film-Noir,0
+0,0,0,0,Sunset Blvd.,Film-Noir,0
+0,1,6,2,Gattaca,Sci-Fi,1
+4,3,15,25,Slither,Horror,18
+0,0,1,0,Shivers,Horror,0
+5,1,8,8,Silver Bullet,Horror,14
+1,3,3,10,"Shining, The",Horror,0
+3,1,2,0,Signs,Horror,1
+3,3,4,0,"Roommate, The",Horror,8
+8,3,7,16,Resident Evil,Horror,29
+0,0,0,0,Scary Movie 2,Horror,0
+2,3,8,9,Serial Mom,Horror,4
+2,5,7,11,Silence of the Lambs,Horror,8
+0,1,0,24,"Ruins, The",Horror,5
+0,0,0,0,Strangers on a Train,Film-Noir,0
+0,0,0,0,Double Indemnity,Film-Noir,0
+0,0,0,0,Psycho,Horror,0
+1,0,3,2,Priest,Horror,7
+3,1,10,0,"Relic, The",Horror,12
+0,0,5,0,Queen of the Damned,Horror,1
+3,4,7,15,Predator,Horror,12
+10,0,9,29,Pitch Black,Horror,8
+9,0,8,10,Pet Sematary II,Horror,13
+0,0,1,0,Night Time (The Poltergeist Treatment),Horror,1
+0,0,3,0,Orgy of the Dead,Horror,0
+3,2,8,2,Pet Sematary,Horror,10
+2,1,6,15,Pandorum,Horror,7
+0,0,1,10,Perfect Creature,Horror,3
+5,0,12,24,Nightbreed,Horror,19
+0,1,0,0,Peeping Tom,Horror,0
+1,2,3,10,Crazylove,Romance,1
+0,0,3,2,Mute Witness,Horror,5
+17,1,7,0,"Mummy, The",Horror,7
+0,0,0,0,"Crouching Tiger, Hidden Dragon",Romance,0
+10,5,0,31,Cruel Intentions,Romance,23
+2,7,0,71,Crying Game,Romance,3
+0,4,2,8,Misery,Horror,4
+4,4,5,77,"Cooler, The",Romance,20
+0,0,0,0,Clueless,Romance,0
+6,0,7,8,Cinema Paradiso,Romance,1
+2,0,5,0,"Cider House Rules, The",Romance,2
+0,1,0,2,Crash,Romance,0
+11,1,6,4,"Crazy, Stupid, Love",Romance,11
+14,25,5,116,Chasing Amy,Romance,60
+2,1,0,46,Celeste & Jesse Forever,Romance,18
+9,0,3,1,Bruce Almighty,Romance,1
+3,5,5,19,"Brothers Bloom, The",Romance,12
+13,9,1,20,"Bounty Hunter, The",Romance,19
+2,3,20,1,Bonnie and Clyde,Romance,0
+5,1,4,9,Burning Annie,Romance,34
+4,2,7,8,Broadcast News,Romance,9
+16,4,30,29,Bull Durham,Romance,27
+2,3,2,8,Broken Embraces,Romance,2
+3,6,12,4,"Blast from the Past, The",Romance,6
+3,0,0,19,"Bodies, Rest & Motion",Romance,19
+2,3,0,8,Body of Evidence,Romance,1
+6,1,3,21,Blue Valentine,Romance,13
+0,0,0,0,Benny & Joon,Romance,0
+17,3,5,78,Birdman,Romance,33
+1,0,0,14,Birthday Girl,Romance,1
+5,3,3,25,Bodyguard,Romance,6
+1,0,0,6,Beginners,Romance,0
+0,0,1,0,Belle,Romance,0
+4,3,9,2,"Big Blue, The",Romance,5
+5,1,1,56,"Big Sick, The",Romance,14
+2,2,5,19,"Battle of Shaker Heights, The",Romance,7
+15,2,1,17,"Back-up Plan, The",Romance,11
+1,0,1,0,"Artist, The",Romance,0
+4,3,2,5,As Good As It Gets,Romance,4
+11,2,5,0,G.I. Joe: The Rise of Cobra,Sci-Fi,4
+9,3,11,1,Angel Eyes,Romance,13
+2,0,1,0,Annie Hall,Romance,1
+4,2,8,1,Autumn in New York,Romance,5
+5,0,6,4,Escape From L.A.,Sci-Fi,15
+10,2,2,3,Escape From New York,Sci-Fi,14
+1,1,4,30,Eternal Sunshine of the Spotless Mind,Sci-Fi,18
+0,0,0,0,E.T.,Sci-Fi,1
+0,0,3,3,Dark Star,Sci-Fi,1
+1,0,8,0,Fantastic Four,Sci-Fi,1
+5,0,12,3,Freaked,Sci-Fi,17
+5,4,3,7,Darkman,Sci-Fi,3
+0,0,0,0,"Day the Earth Stood Still, The",Sci-Fi,0
+1,1,3,8,"Fifth Element, The",Sci-Fi,8
+1,0,4,0,Dune,Sci-Fi,0
+8,5,41,2,Cowboys & Aliens,Sci-Fi,15
+10,5,4,78,Chronicle,Sci-Fi,38
+1,0,2,7,eXistenZ,Sci-Fi,2
+1,1,5,3,Brazil,Sci-Fi,7
+13,0,18,2,Battle: Los Angeles,Sci-Fi,21
+4,1,1,11,Blade Runner,Sci-Fi,4
+1,0,0,0,Black Panther,Sci-Fi,7
+7,2,4,10,"Avengers, The (2012)",Sci-Fi,6
+13,1,7,0,Little Nicky,Horror,11
+1,0,1,20,Arcade,Sci-Fi,14
+8,5,12,28,Leviathan,Horror,21
+4,6,12,50,Legion,Horror,11
+10,8,14,1,Avatar,Sci-Fi,14
+1,0,7,0,Jurassic Park III,Horror,3
+1,1,0,0,Jurassic Park: The Lost World,Horror,1
+9,3,2,18,Jennifer's Body,Horror,13
+2,0,1,13,Lake Placid,Horror,12
+6,5,18,0,Jaws 2,Horror,19
+4,5,9,0,Jaws,Horror,1
+15,4,12,4,Armageddon,Sci-Fi,14
+5,1,3,30,Land of the Dead,Horror,9
+1,1,13,0,Jurassic Park,Horror,12
+2,3,1,6,Insidious,Horror,4
+0,0,6,0,Interview with the Vampire,Horror,5
+8,0,4,10,It,Horror,20
+24,12,17,20,Jason X,Horror,39
+17,12,13,84,House of 1000 Corpses,Horror,41
+3,0,25,16,Hollow Man,Horror,19
+1,3,1,7,"Hills Have Eyes, The",Horror,3
+19,10,11,29,I Spit on Your Grave,Horror,32
+5,5,3,20,Hellraiser 3: Hell on Earth,Horror,19
+3,4,4,2,Heavy Metal,Horror,4
+1,0,3,0,Hellboy,Horror,0
+2,2,10,11,Hellraiser,Horror,8
+7,2,0,15,Hellraiser: Hellseeker,Horror,6
+1,2,0,5,Hellbound: Hellraiser II,Horror,13
+1,1,0,9,Grabbers,Horror,9
+1,0,2,0,Gremlins 2,Horror,1
+3,1,6,1,Gremlins,Horror,1
+6,0,9,6,Halloween: The Curse of Michael Myers,Horror,6
+10,5,4,38,Ginger Snaps,Horror,17
+6,4,3,16,Halloween,Horror,15
+15,8,8,118,From Dusk Till Dawn,Horror,45
+0,0,5,0,Heavenly Creatures,Horror,0
+6,3,11,17,Ghost Ship,Horror,8
+0,1,0,2,Hannibal,Horror,0
+0,0,0,1,Amour,Romance,0
+5,1,7,3,Fright Night (1985),Horror,3
+6,1,10,3,"American President, The",Romance,6
+3,0,3,21,Almost Famous,Romance,2
+10,7,4,5,10 Things I Hate About You,Romance,9
+0,1,1,0,17 Again,Romance,1
+2,0,4,0,Airplane,Romance,4
+8,5,12,2,Alien Nation,Sci-Fi,20
+4,4,4,10,500 Days of Summer,Romance,24
+1,1,0,2,"Adjustment Bureau, The",Sci-Fi,9
+5,9,18,0,"Abyss, The",Sci-Fi,15
+3,0,21,0,"Adventures of Buckaroo Banzai Across the Eighth Dimension, The",Sci-Fi,7
+1,0,7,2,Airplane 2: The Sequel,Sci-Fi,4
+0,0,3,0,2001: A Space Odyssey,Sci-Fi,0
+0,1,0,0,Quantum Project,Short,0
+6,3,4,8,12 Monkeys,Sci-Fi,5
+0,1,1,0,"Things My Father Never Taught Me, The",Short,0
+4,0,5,1,2012,Sci-Fi,8
+0,0,0,0,9,Sci-Fi,0
+1,0,1,3,My Mother Dreams the Satan's Disciples in New York,Short,2
+5,10,10,16,Wild Things: Diamonds in the Rough,Mystery,14
+4,4,7,3,Whiteout,Mystery,7
+3,3,1,4,What Lies Beneath,Mystery,3
+0,0,0,0,"Village, The",Mystery,0
+0,0,2,0,"White Ribbon, The",Mystery,0
+13,3,6,39,White Jazz,Mystery,17
+2,2,0,33,Vanilla Sky,Mystery,7
+11,3,4,36,"Usual Suspects, The",Mystery,22
+0,2,3,2,Unknown,Mystery,2
+1,0,6,3,Twin Peaks,Mystery,5
+11,2,11,37,Thunderheart,Mystery,26
+0,0,10,9,Tinker Tailor Soldier Spy,Mystery,0
+2,0,1,4,"Talented Mr. Ripley, The",Mystery,1
+5,2,5,8,Super 8,Mystery,17
+10,6,17,47,Strange Days,Mystery,30
+3,1,5,10,Source Code,Mystery,6
+8,3,3,22,Stir of Echoes,Mystery,13
+1,1,2,13,Six Degrees of Separation,Mystery,3
+0,0,0,0,"Sixth Sense, The",Mystery,0
+1,2,10,0,Sleepy Hollow,Mystery,0
+0,0,0,1,Sherlock Holmes,Mystery,2
+1,3,6,49,Se7en,Mystery,7
+6,2,10,34,Scream 3,Mystery,29
+6,4,5,23,Scream,Mystery,23
+6,5,1,7,Scream 2,Mystery,23
+7,3,3,37,S. Darko,Mystery,17
+2,0,1,0,Red Riding Hood,Mystery,0
+0,0,0,0,Ringu,Mystery,0
+2,2,2,32,Saw,Mystery,16
+0,0,3,0,"Private Life of Sherlock Holmes, The",Mystery,0
+2,1,5,0,Prom Night,Mystery,2
+0,0,2,0,"Prestige, The",Mystery,1
+0,1,4,4,Prometheus,Mystery,2
+9,6,9,2,Three Kings (Spoils of War),War,4
+0,1,5,5,Valkyrie,War,4
+0,0,0,0,Rear Window,Mystery,0
+2,8,11,13,"Prophecy, The",Mystery,9
+15,5,2,25,Tropic Thunder,War,23
+0,0,2,5,Schindler's List,War,0
+14,1,10,43,Three Kings,War,28
+6,5,37,20,Saving Private Ryan,War,10
+4,8,2,8,Pearl Harbor,War,26
+1,0,13,0,"Patriot, The",War,0
+39,10,11,113,Platoon,War,100
+0,1,2,5,"Pianist, The",War,3
+1,0,4,20,"Men Who Stare at Goats, The",War,13
+2,1,4,2,"Last Samurai, The",War,3
+0,0,0,0,Jeux Interdits,War,0
+0,0,2,0,"Last of the Mohicans, The",War,0
+9,4,18,39,Inglourious Basterds,War,6
+0,0,0,0,Coriolanus,War,0
+3,3,0,7,Defiance,War,16
+0,0,0,0,From Here to Eternity,War,0
+5,1,8,3,Cold Mountain,War,7
+3,0,0,8,Hotel Rwanda,War,3
+10,3,22,68,"Deer Hunter, The",War,19
+0,0,0,0,Four Feathers,War,0
+0,0,0,0,Barry Lyndon,War,0
+0,1,0,0,"Battle of Algiers, The",War,1
+2,2,2,17,Fright Night,Horror,21
+4,10,25,24,Apocalypse Now,War,16
+4,1,3,0,Braveheart,War,0
+5,3,14,26,Final Destination 2,Horror,19
+1,0,0,2,Beasts of No Nation,War,0
+0,3,2,0,Evil Dead II: Dead by Dawn,Horror,1
+10,4,15,27,Feast,Horror,23
+2,0,0,34,Final Destination,Horror,8
+0,0,3,0,Evil Dead,Horror,2
+7,32,10,6,Freddy vs. Jason,Horror,7
+2,0,6,0,Frankenstein,Horror,1
+2,2,3,6,Friday the 13th Part VIII: Jason Takes Manhattan,Horror,6
+3,1,4,13,Event Horizon,Horror,13
+4,3,7,33,"Crow Salvation, The",Horror,14
+14,4,7,28,"Crow, The",Horror,20
+10,3,9,47,Devil's Advocate,Horror,16
+0,1,5,1,Eight Legged Freaks,Horror,3
+10,4,11,4,Deep Rising,Horror,25
+12,1,8,2,Day of the Dead,Horror,14
+6,2,10,2,Constantine,Horror,19
+0,0,0,0,Dawn of the Dead,Horror,0
+2,1,8,4,Carrie,Horror,14
+2,3,6,8,"Cell, The",Horror,3
+8,7,20,30,Bones,Horror,30
+2,7,1,2,Buffy the Vampire Slayer,Horror,4
+2,5,8,10,Chasing Sleep,Horror,6
+11,1,7,20,Blade: Trinity,Horror,7
+0,0,4,0,"Birds, The",Horror,0
+1,3,4,3,Drag Me to Hell,Horror,0
+4,0,1,9,American Werewolf in London,Horror,7
+7,11,3,37,American Psycho,Horror,5
+0,5,5,37,"Amityville Asylum, The",Horror,11
+3,0,11,16,Bad Dreams,Horror,20
+3,0,5,10,Blade,Horror,4
+2,1,6,0,Army of Darkness,Horror,2
+5,4,2,39,Blade II,Horror,16
+7,0,1,12,"Nines, The",Mystery,12
+3,0,5,1,Alone in the Dark,Horror,1
+0,0,0,0,"Ninth Gate, The",Mystery,0
+2,3,10,0,Mission Impossible II,Mystery,2
+1,3,3,8,Orphan,Mystery,8
+3,1,1,18,Moon,Mystery,8
+1,1,4,0,Mulholland Drive,Mystery,1
+0,0,0,0,Minority Report,Mystery,0
+1,0,6,6,Mirrors,Mystery,4
+3,3,2,10,Nightmare on Elm Street: The Final Chapter,Mystery,17
+0,0,0,12,Memento,Mystery,5
+5,1,1,38,Limitless,Mystery,17
+4,0,8,11,"Nightmare on Elm Street, A",Mystery,8
+2,2,3,13,Lost Highway,Mystery,6
+5,0,7,4,"Losers, The",Mystery,27
+0,0,0,0,Lost Horizon,Mystery,0
+5,0,3,8,"Manchurian Candidate, The",Mystery,14
+6,16,28,50,JFK,Mystery,17
+0,3,3,0,Klute,Mystery,0
+0,0,3,0,King Kong,Mystery,0
+4,0,6,38,L.A. Confidential,Mystery,13
+4,2,8,4,Meet Joe Black,Mystery,7
+4,4,15,6,Lone Star,Mystery,6
+0,0,2,0,Manhattan Murder Mystery,Mystery,1
+1,0,4,8,Hellraiser: Deader,Mystery,4
+9,6,8,70,Jennifer Eight,Mystery,34
+0,1,0,8,Hanna,Mystery,7
+11,2,9,3,"Hangover, The",Mystery,8
+0,3,2,1,"Imaginarium of Doctor Parnassus, The",Mystery,1
+0,0,1,0,"Grudge, The",Mystery,0
+0,2,3,3,"Haunting, The",Mystery,3
+2,2,4,1,"Fugitive, The",Mystery,7
+4,7,14,1,Get Low,Mystery,3
+2,0,3,0,Inception,Mystery,1
+6,4,8,45,"Game, The",Mystery,30
+0,0,0,4,"Girl with the Dragon Tattoo, The",Mystery,0
+6,7,2,84,Gone Baby Gone,Mystery,26
+2,2,0,2,"Godfather Part III, The",Mystery,5
+0,0,2,29,Ex Machina,Mystery,6
+1,0,4,2,Friday the 13th,Mystery,4
+1,2,11,15,Gothika,Mystery,6
+6,3,5,21,Eagle Eye,Mystery,35
+0,6,1,37,Eastern Promises,Mystery,1
+0,0,6,0,I Still Know What You Did Last Summer,Mystery,0
+4,2,9,31,Get Out,Mystery,33
+7,6,8,88,Alien: Resurrection,Horror,13
+3,3,6,15,Alien vs. Predator,Horror,16
+0,0,0,48,28 Days Later,Horror,12
+0,0,3,0,"Addams Family, The",Horror,0
+8,6,24,5,Devil in a Blue Dress,Mystery,11
+0,1,0,19,After.Life,Horror,6
+0,0,0,0,A Quiet Place,Horror,0
+0,0,11,1,Alien,Horror,5
+0,0,6,1,Dark City,Mystery,5
+7,7,13,55,Color of Night,Mystery,19
+1,0,7,6,Deception,Mystery,4
+8,11,18,13,Copycat,Mystery,10
+1,0,3,6,Alien 3,Horror,7
+0,0,3,1,Case 39,Mystery,5
+0,0,1,0,Charade,Mystery,0
+20,7,28,2,Cellular,Mystery,29
+2,0,4,33,Cherry Falls,Mystery,8
+1,1,6,4,Changeling,Mystery,4
+1,2,2,10,Buried,Mystery,9
+4,8,2,1,Chinatown,Mystery,6
+0,0,0,0,Cube,Mystery,0
+4,0,5,2,"Curious Case of Benjamin Button, The",Mystery,6
+0,0,0,0,Citizen Kane,Mystery,0
+2,0,3,0,"Box, The",Mystery,1
+0,0,2,0,Brick,Mystery,0
+0,0,2,1,"Bourne Ultimatum, The",Mystery,5
+0,0,0,0,"Bourne Supremacy, The",Mystery,0
+1,1,0,28,"Bourne Identity, The",Mystery,21
+1,3,3,39,Blue Velvet,Mystery,11
+2,0,1,19,Black Swan,Mystery,1
+1,4,14,42,"Black Dahlia, The",Mystery,16
+9,4,10,220,"Big Lebowski, The",Mystery,39
+3,5,13,31,Basic Instinct,Mystery,4
+13,13,34,32,Backdraft,Mystery,28
+1,0,5,0,Angels & Demons,Mystery,1
+5,1,3,16,April Fool's Day,Mystery,14
+0,0,0,0,White Christmas,Musical,0
+6,3,4,58,Basic,Mystery,15
+0,0,1,0,"Avventura, L' (The Adventure)",Mystery,0
+0,0,0,0,"Wizard of Oz, The",Musical,0
+0,1,1,0,Agnes of God,Mystery,2
+5,1,10,13,A Few Good Men,Mystery,14
+2,1,1,52,8MM,Mystery,8
+0,1,1,0,Sweeney Todd: The Demon Barber of Fleet Street,Musical,2
+25,19,12,72,South Park,Musical,20
+0,0,0,1,"Rocky Horror Picture Show, The",Musical,0
+4,3,6,1,Sister Act,Musical,0
+0,0,1,0,"Producer, The",Musical,0
+2,0,0,0,Nine,Musical,0
+0,0,0,0,"Nightmare Before Christmas, The",Musical,0
+0,0,0,0,Mary Poppins,Musical,0
+1,0,3,0,Nashville,Musical,0
+0,0,0,0,Mulan,Musical,0
+0,0,2,0,Newsies,Musical,0
+0,1,4,0,Les Miserables,Musical,1
+0,0,0,0,Duck Soup,Musical,0
+30,7,6,41,Detroit Rock City,Musical,30
+2,0,3,3,La La Land,Musical,5
+0,0,0,0,"Little Mermaid, The",Musical,0
+20,9,24,0,Burlesque,Musical,20
+0,0,6,0,Labyrinth,Musical,0
+0,0,0,0,Aladdin,Musical,0
+6,0,14,0,Honeydripper,Musical,1
+1,0,1,0,"Mariachi, El",Western,0
+0,0,0,0,El Mariachi,Western,0
+0,0,0,0,Anastasia,Musical,0
+0,0,1,0,Beauty and the Beast,Musical,0
+0,0,0,0,Roughshod,Western,0
+52,16,43,41,Django Unchained,Western,15
+4,4,6,15,"Book of Eli, The",Western,12
+0,0,0,0,Bad Day at Black Rock,Western,0
+3,2,5,0,Dances with Wolves,Western,0
+1,3,9,0,American Outlaws,Western,2
+15,9,7,108,Jimmy and Judy,Action,35
+2,0,3,0,American Shaolin: King of Kickboxers II,Action,0
+1,2,12,40,"Rock, The",Action,19
+16,2,5,29,Above the Law,Action,10

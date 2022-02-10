@@ -1,0 +1,410 @@
+Film,Genre,A,B,D,F,S
+187,Drama,10,11,11,37,27
+28 Days Later,Horror,0,0,0,48,12
+8MM,Mystery,2,1,1,52,8
+A Dry White Season,Thriller,0,0,4,3,7
+A Few Good Men,Mystery,5,1,10,13,14
+A Nightmare on Elm Street,Mystery,4,0,8,11,8
+A Perfect World,Crime,9,3,13,2,12
+A Quiet Place,Horror,0,0,0,0,0
+A Walk to Remember,Romance,1,0,0,0,5
+Above the Law,Action,16,2,5,29,10
+Adaptation,Drama,7,1,11,39,15
+After.Life,Horror,0,1,0,19,6
+Agnes of God,Mystery,0,1,1,0,2
+Airplane 2: The Sequel,Sci-Fi,1,0,7,2,4
+Aladdin,Musical,0,0,0,0,0
+Alien,Horror,0,0,11,1,5
+Alien 3,Horror,1,0,3,6,7
+Alien: Resurrection,Horror,7,6,8,88,13
+Alien vs. Predator,Horror,3,3,6,15,16
+Alone in the Dark,Horror,3,0,5,1,1
+American Outlaws,Western,1,3,9,0,2
+American Psycho,Horror,7,11,3,37,5
+American Shaolin: King of Kickboxers II,Action,2,0,3,0,0
+American Werewolf in London,Horror,4,0,1,9,7
+Anastasia,Musical,0,0,0,0,0
+Angels & Demons,Mystery,1,0,5,0,1
+Apocalypse Now,War,4,10,25,24,16
+"April Fool's Day",Mystery,5,1,3,16,14
+Army of Darkness,Horror,2,1,6,0,2
+Backdraft,Mystery,13,13,34,32,28
+Bad Day at Black Rock,Western,0,0,0,0,0
+Bad Dreams,Horror,3,0,11,16,20
+Barry Lyndon,War,0,0,0,0,0
+Basic,Mystery,6,3,4,58,15
+Basic Instinct,Mystery,3,5,13,31,4
+Batman 2,Fantasy,0,0,0,0,0
+Beasts of No Nation,War,1,0,0,2,0
+Beauty and the Beast,Musical,0,0,1,0,0
+Black Swan,Mystery,2,0,1,19,1
+Blade,Horror,3,0,5,10,4
+Blade II,Horror,5,4,2,39,16
+Blade: Trinity,Horror,11,1,7,20,7
+Blue Velvet,Mystery,1,3,3,39,11
+Bones,Horror,8,7,20,30,30
+Bonfire of the Vanities,Drama,8,7,4,31,19
+Boondock Saints 2: All Saints Day,Thriller,20,7,4,115,55
+Braveheart,War,4,1,3,0,0
+Brick,Mystery,0,0,2,0,0
+Buffy the Vampire Slayer,Horror,2,7,1,2,4
+Buried,Mystery,1,2,2,10,9
+Burlesque,Musical,20,9,24,0,20
+Cable Guy,Thriller,5,3,6,0,4
+Carrie,Horror,2,1,8,4,14
+Case 39,Mystery,0,0,3,1,5
+Cellular,Mystery,20,7,28,2,29
+Changeling,Mystery,1,1,6,4,4
+Charade,Mystery,0,0,1,0,0
+Chasing Sleep,Horror,2,5,8,10,6
+Cherry Falls,Mystery,2,0,4,33,8
+Chinatown,Mystery,4,8,2,1,6
+Citizen Kane,Mystery,0,0,0,0,0
+Color of Night,Mystery,7,7,13,55,19
+Constantine,Horror,6,2,10,2,19
+Copycat,Mystery,8,11,18,13,10
+Crying Game,Romance,2,7,0,71,3
+Cube,Mystery,0,0,0,0,0
+Dances with Wolves,Western,3,2,5,0,0
+Dark City,Mystery,0,0,6,1,5
+"Dave Barry's Complete Guide to Guys",Comedy,2,0,0,0,10
+Dawn of the Dead,Horror,0,0,0,0,0
+Day of the Dead,Horror,12,1,8,2,14
+Deception,Mystery,1,0,7,6,4
+Deep Rising,Horror,10,4,11,4,25
+Detroit Rock City,Musical,30,7,6,41,30
+Devil in a Blue Dress,Mystery,8,6,24,5,11
+"Devil's Advocate",Horror,10,3,9,47,16
+Django Unchained,Western,52,16,43,41,15
+Drag Me to Hell,Horror,1,3,4,3,0
+Duck Soup,Musical,0,0,0,0,0
+Eagle Eye,Mystery,6,3,5,21,35
+Eastern Promises,Mystery,0,6,1,37,1
+Ed TV,Comedy,23,1,0,2,7
+Eight Legged Freaks,Horror,0,1,5,1,3
+El Mariachi,Western,1,0,1,0,0
+El Mariachi,Western,0,0,0,0,0
+E.T.,Sci-Fi,0,0,0,0,1
+Event Horizon,Horror,3,1,4,13,13
+Evil Dead,Horror,0,0,3,0,2
+Evil Dead II: Dead by Dawn,Horror,0,3,2,0,1
+Ex Machina,Mystery,0,0,2,29,6
+Fantastic Mr Fox,Family,0,0,0,0,0
+Feast,Horror,10,4,15,27,23
+Final Destination,Horror,2,0,0,34,8
+Final Destination 2,Horror,5,3,14,26,19
+Four Feathers,War,0,0,0,0,0
+Frankenstein,Horror,2,0,6,0,1
+Freddy vs. Jason,Horror,7,32,10,6,7
+Friday the 13th,Mystery,1,0,4,2,4
+Friday the 13th Part VIII: Jason Takes Manhattan,Horror,2,2,3,6,6
+Fright Night,Horror,2,2,2,17,21
+Fright Night (1985),Horror,5,1,7,3,3
+Frozen (Disney),Animation,0,0,0,0,0
+Get Low,Mystery,4,7,14,1,3
+Get Out,Mystery,4,2,9,31,33
+Ghostbusters 2,Sci-Fi,0,0,1,0,2
+Glengarry Glen Gross,Drama,17,0,6,147,42
+Godfather Part II,Crime,3,5,8,2,3
+Gone Baby Gone,Mystery,6,7,2,84,26
+Gothika,Mystery,1,2,11,15,6
+Gremlins 2,Horror,1,0,2,0,1
+Grosse Point Blank,Romance,3,0,6,22,3
+Hanna,Mystery,0,1,0,8,7
+Harold and Kumar Go to White Castle,Adventure,42,3,1,53,66
+Hellboy 2: The Golden Army,Fantasy,4,1,2,0,1
+Hellraiser 3: Hell on Earth,Horror,5,5,3,20,19
+Hellraiser: Deader,Mystery,1,0,4,8,4
+Hidden Dragon Crouching Tiger,Romance,0,0,0,0,0
+Honeydripper,Musical,6,0,14,0,1
+I Still Know What You Did Last Summer,Mystery,0,0,6,0,0
+Inception,Mystery,2,0,3,0,1
+Indiana Jones and the Raiders of the Lost Ark,Adventure,0,1,3,0,1
+Indiana Jones IV,Adventure,0,2,3,0,0
+Interview with the Vampire,Horror,0,0,6,0,5
+Jennifer Eight,Mystery,9,6,8,70,34
+Jeux Interdits,War,0,0,0,0,0
+JFK,Mystery,6,16,28,50,17
+Jimmy and Judy,Action,15,9,7,108,35
+Jurassic Park: The Lost World,Horror,1,1,0,0,1
+Kill Bill Volume 1 & 2,Thriller,18,28,17,48,23
+King Kong,Mystery,0,0,3,0,0
+Klute,Mystery,0,3,3,0,0
+"L' (The Adventure) Avventura",Mystery,0,0,1,0,0
+L.A. Confidential,Mystery,4,0,6,38,13
+La La Land,Musical,2,0,3,3,5
+Labyrinth,Musical,0,0,6,0,0
+Le Diable par la Queue,Comedy,0,0,0,0,0
+Les Miserables,Musical,0,1,4,0,1
+Les Tontons Flingueurs,Crime,0,0,0,0,0
+Lies and Videotape Sex,Drama,4,7,2,17,11
+Limitless,Mystery,5,1,1,38,17
+Lone Star,Mystery,4,4,15,6,6
+Lord of the Rings: Return of the King,Fantasy,0,0,0,0,0
+Lord of the Rings: The Two Towers,Fantasy,0,0,0,0,0
+Lost Highway,Mystery,2,2,3,13,6
+Lost Horizon,Mystery,0,0,0,0,0
+Love and Basketball,Romance,26,3,14,8,15
+Man in the Iron Mask,Adventure,0,0,0,0,2
+Manhattan Murder Mystery,Mystery,0,0,2,0,1
+Mary Poppins,Musical,0,0,0,0,0
+Master and Commander,Adventure,0,0,8,0,0
+Meet Joe Black,Mystery,4,2,8,4,7
+Memento,Mystery,0,0,0,12,5
+Minority Report,Mystery,0,0,0,0,0
+Mirrors,Mystery,1,0,6,6,4
+Mission Impossible II,Mystery,2,3,10,0,2
+Moon,Mystery,3,1,1,18,8
+Mr Brooks,Thriller,10,1,2,29,4
+Mrs. Brown,Romance,0,0,1,0,3
+Mulan,Musical,0,0,0,0,0
+Mulholland Drive,Mystery,1,1,4,0,1
+Nashville,Musical,1,0,3,0,0
+New York Synecdoche,Comedy,5,0,2,37,5
+Newsies,Musical,0,0,2,0,0
+Night Time (The Poltergeist Treatment),Horror,0,0,1,0,1
+Nightmare on Elm Street: The Final Chapter,Mystery,3,3,2,10,17
+Nine,Musical,2,0,0,0,0
+Omega Man,Sci-Fi,0,0,0,0,0
+Orphan,Mystery,1,3,3,8,8
+Pirates of the Caribbean,Adventure,0,0,5,0,0
+Pokemon: Mewtwo Returns,Family,0,0,0,0,0
+Pretty Woman (final script),Romance,3,0,4,3,10
+Rambo: First Blood II: The Mission,Adventure,4,4,7,12,8
+Rest & Motion Bodies,Romance,3,0,0,19,19
+Return of the Apes,Sci-Fi,0,0,0,8,8
+Robot I,Sci-Fi,3,0,1,0,4
+Roughshod,Western,0,0,0,0,0
+Sister Act,Musical,4,3,6,1,0
+South Park,Musical,25,19,12,72,20
+Star Wars: A New Hope,Sci-Fi,0,0,2,0,0
+Star Wars: Attack of the Clones,Sci-Fi,1,0,2,0,0
+Star Wars: Return of the Jedi,Sci-Fi,0,0,0,0,0
+Star Wars: Revenge of the Sith,Sci-Fi,0,0,0,0,0
+Star Wars: The Empire Strikes Back,Sci-Fi,0,0,0,0,0
+Star Wars: The Force Awakens,Fantasy,0,0,2,0,0
+Star Wars: The Phantom Menace,Sci-Fi,0,0,0,0,0
+Stock and Two Smoking Barrels Lock,Thriller,0,0,0,85,16
+"Stupid, Love Crazy",Romance,11,1,6,4,11
+Sweeney Todd: The Demon Barber of Fleet Street,Musical,0,1,1,0,2
+Terminator 2: Judgement Day,Sci-Fi,3,3,12,20,16
+The (2012) Avengers,Sci-Fi,7,2,4,10,6
+The Abyss,Sci-Fi,5,9,18,0,15
+The Addams Family,Horror,0,0,3,0,0
+The Adjustment Bureau,Sci-Fi,1,1,0,2,9
+The Adventures of Buckaroo Banzai Across the Eighth Dimension,Sci-Fi,3,0,21,0,7
+The American,Thriller,0,3,1,8,6
+The American President,Romance,6,1,10,3,6
+The Amityville Asylum,Horror,0,5,5,37,11
+The Anniversary Party,Drama,2,3,13,65,18
+The Apartment,Comedy,0,0,2,0,0
+The Artist,Romance,1,0,1,0,0
+The Assignment,Thriller,10,7,3,44,23
+The Avengers,Adventure,0,0,2,1,0
+The Bachelor Party,Drama,0,0,0,0,0
+The Back-up Plan,Romance,15,2,1,17,11
+The Battle of Algiers,War,0,1,0,0,1
+The Battle of Shaker Heights,Romance,2,2,5,19,7
+The Beach,Thriller,0,0,0,0,0
+The Believer,Drama,7,0,1,36,15
+The Best Exotic Marigold Hotel,Drama,0,0,0,2,0
+The Big Blue,Romance,4,3,9,2,5
+The Big Lebowski,Mystery,9,4,10,220,39
+The Big Sick,Romance,5,1,1,56,14
+The Big White,Crime,3,2,2,21,7
+The Birds,Horror,0,0,4,0,0
+The Black Dahlia,Mystery,1,4,14,42,16
+The Blast from the Past,Romance,3,6,12,4,6
+The Blind Side,Drama,11,5,2,0,0
+The Bling Ring,Crime,1,5,0,28,8
+The Book of Eli,Western,4,4,6,15,12
+The Boondock Saints,Thriller,26,5,2,171,51
+The Bounty Hunter,Romance,13,9,1,20,19
+The Bourne Identity,Mystery,1,1,0,28,21
+The Bourne Supremacy,Mystery,0,0,0,0,0
+The Bourne Ultimatum,Mystery,0,0,2,1,5
+The Box,Mystery,2,0,3,0,1
+The Boxtrolls,Animation,0,0,0,0,0
+The Breakfast Club,Drama,8,8,5,26,24
+The Brothers Bloom,Romance,3,5,5,19,12
+The Butterfly Effect,Fantasy,12,2,7,41,23
+The Cell,Horror,2,3,6,8,3
+The Change-Up,Comedy,6,5,0,130,35
+The Cider House Rules,Romance,2,0,5,0,2
+The Cincinnati Kid,Drama,1,3,6,0,0
+The Cooler,Romance,4,4,5,77,20
+The Croods,Animation,0,0,0,0,0
+The Crow,Horror,14,4,7,28,20
+The Crow: City of Angels,Fantasy,5,4,4,21,4
+The Crow Salvation,Horror,4,3,7,33,14
+The Curious Case of Benjamin Button,Mystery,4,0,5,2,6
+The Damned United,Drama,0,0,0,57,0
+The Dark Knight Rises,Thriller,4,4,1,0,0
+The Day the Clown Cried,Drama,2,0,7,0,0
+The Day the Earth Stood Still,Sci-Fi,0,0,0,0,0
+The Debt,Thriller,1,0,0,26,3
+The Deer Hunter,War,10,3,22,68,19
+The Departed,Thriller,10,2,2,194,22
+The Descendants,Comedy,1,4,7,25,13
+The Devil Wears Prada,Comedy,8,0,2,0,3
+The Distinguished Gentleman,Comedy,20,3,10,12,24
+The Doors,Drama,13,0,4,95,25
+The Elephant Man,Drama,0,0,2,0,0
+The English Patient,Romance,0,1,0,9,0
+The Fabulous Baker Boys,Romance,5,0,15,27,9
+The Family Man,Romance,2,2,17,1,6
+The Fault in Our Stars,Romance,5,0,2,3,8
+The Fifth Element,Sci-Fi,1,1,3,8,8
+The Fighter,Drama,9,2,1,51,20
+The Flintstones,Family,2,1,2,0,0
+The French Connection,Thriller,13,7,2,3,12
+The Fugitive,Mystery,2,2,4,1,7
+The Game,Mystery,6,4,8,45,30
+The Getaway,Thriller,3,0,2,0,1
+The Ghost and the Darkness,Thriller,0,1,4,1,1
+The Girl with the Dragon Tattoo,Mystery,0,0,0,4,0
+The Godfather Part III,Mystery,2,2,0,2,5
+The Good Girl,Comedy,3,0,3,4,4
+The Graduate,Romance,0,0,5,0,0
+The Grapes of Wrath,Drama,0,0,0,0,0
+The Great Gatsby,Romance,0,1,5,0,0
+The Green Mile,Fantasy,13,6,23,15,10
+The Grifters,Crime,0,1,8,4,5
+The Grudge,Mystery,0,0,1,0,0
+The Hangover,Mystery,11,2,9,3,8
+The Haunting,Mystery,0,2,3,3,3
+The Hebrew Hammer,Comedy,10,3,6,10,11
+The Help,Drama,1,0,9,0,7
+The Hills Have Eyes,Horror,1,3,1,7,3
+"The Hitchhiker's Guide to the Galaxy",Sci-Fi,2,0,2,0,1
+The Horse Whisperer,Romance,1,0,4,1,8
+The Hospital,Comedy,5,13,5,1,1
+The Hudsucker Proxy,Romance,1,0,3,0,0
+The Hunt for Red October,Thriller,3,0,6,3,1
+The Hurt Locker,Thriller,1,1,7,34,17
+The Ice Storm,Drama,3,0,4,3,18
+The Ides of March,Drama,4,0,3,56,21
+The Imaginarium of Doctor Parnassus,Mystery,0,3,2,1,1
+The Incredibles,Sci-Fi,0,0,0,0,0
+The Informant,Thriller,0,0,8,12,8
+The Insider,Thriller,4,0,4,34,11
+The Invention of Lying,Comedy,7,3,3,21,8
+The Iron Lady,Drama,0,0,2,0,0
+The Island,Sci-Fi,4,0,1,20,4
+The Italian Job,Adventure,4,2,4,7,16
+The Jacket,Fantasy,0,0,4,18,10
+The Kids Are All Right,Comedy,14,2,0,30,10
+The King of Comedy,Crime,1,0,3,0,2
+The Kingdom,Thriller,3,0,1,12,6
+"The King's Speech",Drama,0,0,6,10,7
+The Ladykillers,Crime,21,7,17,73,19
+The Last Boy Scout,Thriller,24,22,16,143,62
+The Last Flight,Drama,0,0,0,0,0
+The Last of the Mohicans,War,0,0,2,0,0
+The Last Samurai,War,2,1,4,2,3
+The Last Station,Drama,0,1,2,0,0
+The LEGO Movie,Animation,2,0,0,0,0
+The Life of David Gale,Thriller,0,0,6,32,12
+The Limey,Crime,6,1,0,33,12
+The Lincoln Lawyer,Thriller,4,6,2,13,23
+The Little Mermaid,Musical,0,0,0,0,0
+The Long Kiss Goodnight,Thriller,16,13,13,97,20
+The Lord of the Rings: Fellowship of the Ring,Fantasy,0,0,0,0,0
+The Losers,Mystery,5,0,7,4,27
+The Man Who Knew Too Much,Adventure,0,0,1,0,0
+"The Man Who Wasn't There",Crime,2,6,26,0,0
+The Manchurian Candidate,Mystery,5,0,3,8,14
+The Martian,Sci-Fi,3,0,6,3,10
+The Mask,Romance,3,5,2,1,5
+The Master,Drama,3,0,1,5,4
+The Matrix,Sci-Fi,2,0,9,12,22
+The Matrix Reloaded,Sci-Fi,9,0,2,30,21
+The Mechanic,Crime,3,5,6,10,7
+The Men Who Stare at Goats,War,1,0,4,20,13
+The Miracle Worker,Drama,0,0,0,0,0
+The Mummy,Horror,17,1,7,0,7
+The Neverending Story,Family,0,0,0,0,0
+The Next Three Days,Romance,2,1,0,0,2
+The Nightmare Before Christmas,Musical,0,0,0,0,0
+The Nines,Mystery,7,0,1,12,12
+The Ninth Gate,Mystery,0,0,0,0,0
+The Other Boleyn Girl,Romance,0,0,1,0,0
+The Pacifier,Family,5,0,0,0,0
+The Passion of Joan of Arc,Drama,0,0,1,0,0
+The Patriot,War,1,0,13,0,0
+The Perks of Being a Wallflower,Romance,6,3,3,1,11
+The Pianist,War,0,1,2,5,3
+The Piano,Romance,1,0,4,0,3
+The Planet of the Apes,Sci-Fi,0,0,3,0,0
+The Postman,Sci-Fi,6,1,19,2,7
+The Power of One,Drama,3,0,8,4,2
+The Prestige,Mystery,0,0,2,0,1
+The Princess Bride,Romance,0,0,0,0,0
+The Private Life of Sherlock Holmes,Mystery,0,0,3,0,0
+The Producer,Musical,0,0,1,0,0
+The Program,Drama,18,2,16,31,40
+The Prophecy,Mystery,2,8,11,13,9
+The Proposal,Romance,12,3,7,3,13
+The Queen,Drama,0,0,0,0,0
+The Reader,Romance,0,0,0,0,0
+The Relic,Horror,3,1,10,0,12
+The Replacements,Comedy,17,3,14,15,24
+The Rescuers Down Under,Animation,0,0,0,0,0
+The Revenant,Adventure,4,3,6,1,9
+The Road,Adventure,5,1,4,3,1
+The Rock,Action,1,2,12,40,19
+The Rocky Horror Picture Show,Musical,0,0,0,1,0
+The Roommate,Horror,3,3,4,0,8
+The Ruins,Horror,0,1,0,24,5
+The Saint,Romance,0,0,0,0,0
+The Salton Sea,Crime,17,4,5,40,19
+The Sandlot Kids,Family,2,5,5,2,4
+The Searchers,Western,0,0,0,0,0
+The Secret Life of Walter Mitty,Adventure,2,0,2,18,8
+The Sessions,Romance,2,1,2,3,5
+The Seventh Seal,Fantasy,0,1,7,0,0
+The Shawshank Redemption,Drama,31,4,33,39,55
+The Shining,Horror,1,3,3,10,0
+The Shipping News,Romance,3,3,2,4,4
+The Siege,Thriller,7,2,4,20,10
+The Sixth Sense,Mystery,0,0,0,0,0
+The Social Network,Drama,8,5,2,17,17
+The Sting,Crime,2,1,10,3,2
+The Stuntman,Romance,25,15,40,24,15
+The Surfer King,Comedy,0,0,0,0,0
+The Sweet Hereafter,Drama,0,1,3,5,1
+The Taking of Pelham One Two Three,Crime,8,8,4,19,19
+The Talented Mr. Ripley,Mystery,2,0,1,4,1
+The (The Bijou) Majestic,Romance,1,0,6,0,1
+The Theory of Everything,Romance,0,0,1,0,0
+The Thing,Horror,8,2,28,9,18
+The Things My Father Never Taught Me,Short,0,1,1,0,0
+The Three Musketeers,Romance,0,0,3,0,0
+The Time Machine,Sci-Fi,0,0,1,0,0
+The Tourist,Thriller,0,0,2,1,3
+The Truman Show,Sci-Fi,0,1,5,10,3
+The Ugly Truth,Romance,7,3,1,13,9
+The Usual Suspects,Mystery,11,3,4,36,22
+The Verdict,Drama,3,0,8,10,3
+The Village,Mystery,0,0,0,0,0
+The Visitor,Romance,0,0,1,1,2
+The Way Back,Adventure,0,0,5,2,3
+The Whistleblower,Thriller,2,1,1,20,7
+The White Ribbon,Mystery,0,0,2,0,0
+The Wild Bunch,Western,4,4,27,0,0
+the Witch and the Wardrobe Chronicles of Narnia: The Lion,Fantasy,0,0,0,0,0
+The Wizard of Oz,Musical,0,0,0,0,0
+The Wolf of Wall Street,Crime,13,5,5,180,36
+The Woodsman,Drama,7,1,5,26,15
+The World is not Enough,Adventure,1,0,1,0,0
+The Wrestler,Drama,19,2,4,41,23
+The X-Files: Fight the Future,Sci-Fi,3,0,2,1,4
+Three Kings (Spoils of War),War,9,6,9,2,4
+Transformers: The Movie,Animation,0,0,2,0,0
+Twilight: New Moon,Horror,1,0,8,0,0
+Un Singe en Hiver,Comedy,0,0,0,0,0
+Wall-E,Animation,0,0,0,0,0
+Wanda June Happy Birthday,Comedy,4,7,10,10,11
+White Christmas,Musical,0,0,0,0,0
+White Jazz,Mystery,13,3,6,39,17
+Withnail and I,Comedy,0,1,1,38,1
